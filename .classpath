@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/myEclipseProjects/SBA_GW_Tests/apache-log4j-2.7-bin/log4j-1.2-api-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/myEclipseProjects/SBA_GW_Tests/apache-log4j-2.7-bin/log4j-api-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/myEclipseProjects/SBA_GW_Tests/apache-log4j-2.7-bin/log4j-core-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/client-combined-3.8.1.jar" sourcepath="C:/Users/nirk/Desktop/Selenium/Selenium_3_81"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/client-combined-3.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirk/Desktop/Selenium/Selenium_3_81/libs/testng-6.9.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

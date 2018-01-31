@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests projectPath="OVOC IPP Manager 7.4.2000/Regression/">
+  <section secName="After Registration">
+    <test testName="Device status options" testMark="" testResult="Passed"></title>
+	<test testName="Device status options #138157" testMark="" testResult="Passed"></title>
+	<test testName="Manage Multiple Devices" testMark="" testResult="Passed"></title>
+  </section>
+</tests>

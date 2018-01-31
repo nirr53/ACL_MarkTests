@@ -1,0 +1,11 @@
+
+
+set ALM_DIR_PATH=%1
+set ALM_APP_NAME=%2
+set SECPATH=%3
+set TEST_NAME=%4
+set MARK=%5
+set PASSED=%6
+
+
+start /d %ALM_DIR_PATH% %ALM_APP_NAME% %SECPATH% %TEST_NAME% %MARK% %PASSED%

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Test__App_version_Test_1_1" project="Vocanom_Tests" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="App_version_Tests.Test__App_version_Test_1_1">
+    <testsuite name="[Chrome]" incomplete="true">
+      <testcase name="App_version_test_1_1[Chrome]" classname="App_version_Tests.Test__App_version_Test_1_1" incomplete="true"/>
+    </testsuite>
+    <testsuite name="[Chrome]" incomplete="true">
+      <testcase name="App_version_test_1_1[Chrome]" classname="App_version_Tests.Test__App_version_Test_1_1" incomplete="true"/>
+    </testsuite>
+    <testsuite name="[Chrome]" time="10.871">
+      <testcase name="App_version_test_1_1[Chrome]" classname="App_version_Tests.Test__App_version_Test_1_1" time="9.587"/>
+    </testsuite>
+  </testsuite>
+</testrun>

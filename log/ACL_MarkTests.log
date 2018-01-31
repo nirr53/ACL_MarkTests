@@ -1,0 +1,1784 @@
+2018-01-30 17:00:30,085 INFO  - Enter setUp()
+2018-01-30 17:00:30,091 INFO  - 
+
+
+2018-01-30 17:00:30,091 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:00:30,091 INFO  - |                                                                                       |
+2018-01-30 17:00:30,091 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:00:30,091 INFO  - |                                                                                       |
+2018-01-30 17:00:30,091 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:00:30,092 INFO  - Create new configuration file
+2018-01-30 17:00:30,092 INFO  -    Create configuration file
+2018-01-30 17:00:35,094 INFO  -       New configuration file on <C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.cfg> was created !!
+2018-01-30 17:00:35,095 INFO  -    Write data to the created configuration file
+2018-01-30 17:00:35,098 INFO  - Get project & test names and results
+2018-01-30 17:00:35,098 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResultsOVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:00:38,100 INFO  -       content - null
+2018-01-30 17:01:58,729 INFO  - Enter setUp()
+2018-01-30 17:01:58,734 INFO  - 
+
+
+2018-01-30 17:01:58,734 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:01:58,734 INFO  - |                                                                                       |
+2018-01-30 17:01:58,734 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:01:58,734 INFO  - |                                                                                       |
+2018-01-30 17:01:58,734 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:01:58,734 INFO  - Create new configuration file
+2018-01-30 17:01:58,734 INFO  -    Create configuration file
+2018-01-30 17:02:03,735 INFO  -       New configuration file on <C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.cfg> was created !!
+2018-01-30 17:02:03,736 INFO  -    Write data to the created configuration file
+2018-01-30 17:02:03,737 INFO  - Get project & test names and results
+2018-01-30 17:02:03,737 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:02:06,737 INFO  -       content - null
+2018-01-30 17:06:22,937 INFO  - Enter setUp()
+2018-01-30 17:06:22,942 INFO  - 
+
+
+2018-01-30 17:06:22,942 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:06:22,942 INFO  - |                                                                                       |
+2018-01-30 17:06:22,942 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:06:22,942 INFO  - |                                                                                       |
+2018-01-30 17:06:22,942 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:06:22,942 INFO  - Get project & test names and results
+2018-01-30 17:06:22,942 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:06:25,943 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/"
+Login,Good login,,Passed
+2018-01-30 17:23:01,372 INFO  - Enter setUp()
+2018-01-30 17:23:01,378 INFO  - 
+
+
+2018-01-30 17:23:01,378 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:23:01,378 INFO  - |                                                                                       |
+2018-01-30 17:23:01,379 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:23:01,379 INFO  - |                                                                                       |
+2018-01-30 17:23:01,379 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:23:01,379 INFO  - Get project & test names and results
+2018-01-30 17:23:01,379 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:23:04,379 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/"
+Login,Good login,,Passed
+2018-01-30 17:23:04,379 INFO  -       Split the data and return
+2018-01-30 17:23:04,379 INFO  -       Split parts - 4
+2018-01-30 17:23:29,189 INFO  - Enter setUp()
+2018-01-30 17:23:29,194 INFO  - 
+
+
+2018-01-30 17:23:29,194 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:23:29,194 INFO  - |                                                                                       |
+2018-01-30 17:23:29,194 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:23:29,194 INFO  - |                                                                                       |
+2018-01-30 17:23:29,194 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:23:29,195 INFO  - Get project & test names and results
+2018-01-30 17:23:29,195 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:23:32,195 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/"
+Login,Good login,,Passed,
+2018-01-30 17:23:32,195 INFO  -       Split the data and return
+2018-01-30 17:23:32,195 INFO  -       Split parts - 4
+2018-01-30 17:25:45,586 INFO  - Enter setUp()
+2018-01-30 17:25:45,594 INFO  - 
+
+
+2018-01-30 17:25:45,594 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:25:45,594 INFO  - |                                                                                       |
+2018-01-30 17:25:45,594 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:25:45,594 INFO  - |                                                                                       |
+2018-01-30 17:25:45,594 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:25:45,594 INFO  - Get project & test names and results
+2018-01-30 17:25:45,594 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:25:48,595 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/"
+Login,Good login," ",Passed,
+Login,Good login," ",Passed,
+2018-01-30 17:25:48,595 INFO  -       Split the data and return
+2018-01-30 17:25:48,595 INFO  -       Split parts - 8
+2018-01-30 17:29:38,311 INFO  - Enter setUp()
+2018-01-30 17:29:38,316 INFO  - 
+
+
+2018-01-30 17:29:38,316 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:29:38,316 INFO  - |                                                                                       |
+2018-01-30 17:29:38,316 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:29:38,316 INFO  - |                                                                                       |
+2018-01-30 17:29:38,316 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:29:38,316 INFO  - Get project & test names and results
+2018-01-30 17:29:38,316 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:29:41,317 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login," ",Passed,
+2018-01-30 17:29:41,317 INFO  -       Split the data and return
+2018-01-30 17:29:41,317 INFO  -       Split parts - 9
+2018-01-30 17:34:31,199 INFO  - Enter setUp()
+2018-01-30 17:34:31,204 INFO  - 
+
+
+2018-01-30 17:34:31,204 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:34:31,204 INFO  - |                                                                                       |
+2018-01-30 17:34:31,204 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:34:31,204 INFO  - |                                                                                       |
+2018-01-30 17:34:31,204 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:34:31,205 INFO  - Get project & test names and results
+2018-01-30 17:34:31,205 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:34:34,205 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login," ",Passed,
+2018-01-30 17:34:34,205 INFO  -       Split the data and return
+2018-01-30 17:34:34,205 INFO  -       Split parts - 9
+2018-01-30 17:35:19,044 INFO  - Enter setUp()
+2018-01-30 17:35:19,049 INFO  - 
+
+
+2018-01-30 17:35:19,049 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:35:19,049 INFO  - |                                                                                       |
+2018-01-30 17:35:19,050 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:35:19,050 INFO  - |                                                                                       |
+2018-01-30 17:35:19,050 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:35:19,050 INFO  - Get project & test names and results
+2018-01-30 17:35:19,050 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:35:22,050 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/"
+Login,Good login," ",Passed
+Login,Good login," ",Passed
+2018-01-30 17:35:22,050 INFO  -       Split the data and return
+2018-01-30 17:35:22,050 INFO  -       Split parts - 7
+2018-01-30 17:35:51,206 INFO  - Enter setUp()
+2018-01-30 17:35:51,211 INFO  - 
+
+
+2018-01-30 17:35:51,211 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:35:51,211 INFO  - |                                                                                       |
+2018-01-30 17:35:51,211 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:35:51,211 INFO  - |                                                                                       |
+2018-01-30 17:35:51,211 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:35:51,211 INFO  - Get project & test names and results
+2018-01-30 17:35:51,211 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:35:54,212 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/"
+Login,Good login," ",Passed
+Login,Good login," ",Passed
+2018-01-30 17:35:54,212 INFO  -       Split the data and return
+2018-01-30 17:35:54,212 INFO  -       Split parts - 7
+2018-01-30 17:36:16,197 INFO  - Enter setUp()
+2018-01-30 17:36:16,202 INFO  - 
+
+
+2018-01-30 17:36:16,202 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:36:16,202 INFO  - |                                                                                       |
+2018-01-30 17:36:16,202 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:36:16,202 INFO  - |                                                                                       |
+2018-01-30 17:36:16,202 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:36:16,202 INFO  - Get project & test names and results
+2018-01-30 17:36:16,202 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:36:19,204 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/"
+Login,Good login," ",Passed
+Login,Good login," ",Passed
+2018-01-30 17:36:19,204 INFO  -       Split the data and return
+2018-01-30 17:36:19,205 INFO  -       Split parts - 7
+2018-01-30 17:37:02,865 INFO  - Enter setUp()
+2018-01-30 17:37:02,869 INFO  - 
+
+
+2018-01-30 17:37:02,870 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:37:02,870 INFO  - |                                                                                       |
+2018-01-30 17:37:02,870 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:37:02,870 INFO  - |                                                                                       |
+2018-01-30 17:37:02,870 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:37:02,870 INFO  - Get project & test names and results
+2018-01-30 17:37:02,870 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:37:05,870 INFO  -       content - "OVOC IPP Manager 7.4.2000//Regression//"
+Login,Good login," ",Passed
+Login,Good login," ",Passed
+2018-01-30 17:37:05,870 INFO  -       Split the data and return
+2018-01-30 17:37:05,871 INFO  -       Split parts - 7
+2018-01-30 17:39:25,228 INFO  - Enter setUp()
+2018-01-30 17:39:25,233 INFO  - 
+
+
+2018-01-30 17:39:25,233 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:39:25,233 INFO  - |                                                                                       |
+2018-01-30 17:39:25,233 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:39:25,233 INFO  - |                                                                                       |
+2018-01-30 17:39:25,233 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:39:25,233 INFO  - Get project & test names and results
+2018-01-30 17:39:25,233 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:39:28,235 INFO  -       content - "OVOC IPP Manager 7.4.2000//Regression//"
+Login,Good login," ",Passed
+Login,Good login," ",Passed
+2018-01-30 17:39:28,235 INFO  -       Split the data and return
+2018-01-30 17:39:28,235 INFO  -       Split parts - 7
+2018-01-30 17:40:27,163 INFO  - Enter setUp()
+2018-01-30 17:40:27,168 INFO  - 
+
+
+2018-01-30 17:40:27,168 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:40:27,168 INFO  - |                                                                                       |
+2018-01-30 17:40:27,168 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:40:27,168 INFO  - |                                                                                       |
+2018-01-30 17:40:27,169 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:40:27,169 INFO  - Get project & test names and results
+2018-01-30 17:40:27,169 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:40:30,169 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login," ",Passed,
+2018-01-30 17:40:30,169 INFO  -       Split the data and return
+2018-01-30 17:40:30,169 INFO  -       Split parts - 9
+2018-01-30 17:40:46,836 INFO  - Enter setUp()
+2018-01-30 17:40:46,841 INFO  - 
+
+
+2018-01-30 17:40:46,841 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:40:46,842 INFO  - |                                                                                       |
+2018-01-30 17:40:46,842 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:40:46,842 INFO  - |                                                                                       |
+2018-01-30 17:40:46,842 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:40:46,842 INFO  - Get project & test names and results
+2018-01-30 17:40:46,842 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:40:49,843 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login," ",Passed,
+2018-01-30 17:40:49,843 INFO  -       Split the data and return
+2018-01-30 17:40:49,844 INFO  -       Split parts - 9
+2018-01-30 17:45:29,152 INFO  - Enter setUp()
+2018-01-30 17:45:29,157 INFO  - 
+
+
+2018-01-30 17:45:29,157 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:45:29,157 INFO  - |                                                                                       |
+2018-01-30 17:45:29,157 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:45:29,157 INFO  - |                                                                                       |
+2018-01-30 17:45:29,157 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:45:29,157 INFO  - Get project & test names and results
+2018-01-30 17:45:29,157 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:45:32,157 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login," ",Passed,
+2018-01-30 17:45:32,157 INFO  -       Split the data and return
+2018-01-30 17:45:32,157 INFO  -       Split parts - 9
+2018-01-30 17:47:13,424 INFO  - Enter setUp()
+2018-01-30 17:47:13,429 INFO  - 
+
+
+2018-01-30 17:47:13,429 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:47:13,429 INFO  - |                                                                                       |
+2018-01-30 17:47:13,429 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:47:13,429 INFO  - |                                                                                       |
+2018-01-30 17:47:13,429 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:47:13,429 INFO  - Get project & test names and results
+2018-01-30 17:47:13,429 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:47:16,430 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login," ",Passed,
+2018-01-30 17:47:16,430 INFO  -       Split the data and return
+2018-01-30 17:47:16,430 INFO  -       Split parts - 9
+2018-01-30 17:48:06,352 INFO  - Enter setUp()
+2018-01-30 17:48:06,357 INFO  - 
+
+
+2018-01-30 17:48:06,357 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 17:48:06,357 INFO  - |                                                                                       |
+2018-01-30 17:48:06,357 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 17:48:06,357 INFO  - |                                                                                       |
+2018-01-30 17:48:06,357 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 17:48:06,357 INFO  - Get project & test names and results
+2018-01-30 17:48:06,357 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 17:48:09,359 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login," ",Passed,
+2018-01-30 17:48:09,359 INFO  -       Split the data and return
+2018-01-30 17:48:09,360 INFO  -       Split parts - 9
+2018-01-30 18:11:55,884 INFO  - Enter setUp()
+2018-01-30 18:11:55,889 INFO  - 
+
+
+2018-01-30 18:11:55,889 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 18:11:55,889 INFO  - |                                                                                       |
+2018-01-30 18:11:55,889 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 18:11:55,889 INFO  - |                                                                                       |
+2018-01-30 18:11:55,889 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 18:11:55,889 INFO  - Get project & test names and results
+2018-01-30 18:11:55,889 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 18:11:58,891 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login," ",Passed,
+2018-01-30 18:11:58,891 INFO  -       Split the data and return
+2018-01-30 18:11:58,891 INFO  -       Split parts - 9
+2018-01-30 18:11:58,891 INFO  - Login
+2018-01-30 18:11:58,891 INFO  - Good login
+2018-01-30 18:11:58,891 INFO  - " "
+2018-01-30 18:11:58,891 INFO  - Passed
+2018-01-30 18:11:58,891 INFO  - Login
+2018-01-30 18:11:58,891 INFO  - Good login
+2018-01-30 18:11:58,892 INFO  - " "
+2018-01-30 18:11:58,892 INFO  - Passed
+2018-01-30 18:13:36,222 INFO  - Enter setUp()
+2018-01-30 18:13:36,227 INFO  - 
+
+
+2018-01-30 18:13:36,227 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 18:13:36,227 INFO  - |                                                                                       |
+2018-01-30 18:13:36,227 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 18:13:36,227 INFO  - |                                                                                       |
+2018-01-30 18:13:36,227 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 18:13:36,227 INFO  - Get project & test names and results
+2018-01-30 18:13:36,227 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 18:13:39,229 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login2," ",Failed,
+2018-01-30 18:13:39,229 INFO  -       Split the data and return
+2018-01-30 18:13:39,231 INFO  -       Split parts - 9
+2018-01-30 18:13:39,231 INFO  - "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-30 18:13:39,231 INFO  - Login
+2018-01-30 18:13:39,231 INFO  - Good login
+2018-01-30 18:13:39,232 INFO  - " "
+2018-01-30 18:13:39,232 INFO  - Passed
+2018-01-30 18:14:08,217 INFO  - Enter setUp()
+2018-01-30 18:14:08,222 INFO  - 
+
+
+2018-01-30 18:14:08,222 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-30 18:14:08,222 INFO  - |                                                                                       |
+2018-01-30 18:14:08,222 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-30 18:14:08,222 INFO  - |                                                                                       |
+2018-01-30 18:14:08,222 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-30 18:14:08,222 INFO  - Get project & test names and results
+2018-01-30 18:14:08,222 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-30 18:14:11,223 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login2," ",Failed,
+2018-01-30 18:14:11,223 INFO  -       Split the data and return
+2018-01-30 18:14:11,225 INFO  -       Split parts - 9
+2018-01-30 18:14:11,225 INFO  - "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-30 18:14:11,225 INFO  - Login
+2018-01-30 18:14:11,225 INFO  - Good login
+2018-01-30 18:14:11,226 INFO  - " "
+2018-01-30 18:14:11,226 INFO  - Passed
+2018-01-30 18:14:11,226 INFO  - -----
+2018-01-30 18:14:11,226 INFO  - "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-30 18:14:11,226 INFO  - Login
+2018-01-30 18:14:11,227 INFO  - Good login2
+2018-01-30 18:14:11,227 INFO  - " "
+2018-01-30 18:14:11,227 INFO  - Failed
+2018-01-30 18:14:11,227 INFO  - -----
+2018-01-31 10:10:20,499 INFO  - Enter setUp()
+2018-01-31 10:10:20,504 INFO  - 
+
+
+2018-01-31 10:10:20,505 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 10:10:20,505 INFO  - |                                                                                       |
+2018-01-31 10:10:20,505 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 10:10:20,505 INFO  - |                                                                                       |
+2018-01-31 10:10:20,505 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 10:10:20,505 INFO  - Get project & test names and results
+2018-01-31 10:10:20,505 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 10:10:23,507 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login2," ",Failed,
+2018-01-31 10:10:23,507 INFO  -       Split the data and return
+2018-01-31 10:10:23,507 INFO  -       projectPath - "OVOC IPP Manager 7.4.2000/Regression/",
+2018-01-31 10:10:23,507 INFO  - "OVOC IPP Manager 7.4.2000/Regression/",
+2018-01-31 10:10:23,507 INFO  - L
+2018-01-31 10:10:23,507 INFO  - o
+2018-01-31 10:10:23,507 INFO  - g
+2018-01-31 10:10:23,507 INFO  - i
+2018-01-31 10:10:23,507 INFO  - -----
+2018-01-31 10:10:23,507 INFO  - "OVOC IPP Manager 7.4.2000/Regression/",
+2018-01-31 10:10:23,507 INFO  - L
+2018-01-31 10:10:23,507 INFO  - o
+2018-01-31 10:10:23,507 INFO  - g
+2018-01-31 10:10:23,507 INFO  - i
+2018-01-31 10:10:23,508 INFO  - -----
+2018-01-31 10:23:04,469 INFO  - Enter setUp()
+2018-01-31 10:23:04,469 INFO  - 
+
+
+2018-01-31 10:23:04,469 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 10:23:04,469 INFO  - |                                                                                       |
+2018-01-31 10:23:04,469 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 10:23:04,469 INFO  - |                                                                                       |
+2018-01-31 10:23:04,469 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 10:23:04,469 INFO  - Get project & test names and results
+2018-01-31 10:23:04,469 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 10:23:07,481 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login2," ",Failed,
+2018-01-31 10:23:07,481 INFO  -       Split the data and return
+2018-01-31 10:23:07,481 INFO  -       projectPath - "OVOC IPP Manager 7.4.2000/Regression/",
+2018-01-31 10:23:07,481 INFO  - "OVOC IPP Manager 7.4.2000/Regression/",
+2018-01-31 10:23:07,481 INFO  - Login
+2018-01-31 10:23:07,481 INFO  - Good login
+2018-01-31 10:23:07,481 INFO  - " "
+2018-01-31 10:23:07,481 INFO  - Passed
+2018-01-31 10:23:07,481 INFO  - -----
+2018-01-31 10:23:07,481 INFO  - "OVOC IPP Manager 7.4.2000/Regression/",
+2018-01-31 10:23:07,481 INFO  - Login
+2018-01-31 10:23:07,481 INFO  - Good login2
+2018-01-31 10:23:07,481 INFO  - " "
+2018-01-31 10:23:07,481 INFO  - Failed
+2018-01-31 10:23:07,481 INFO  - -----
+2018-01-31 10:42:51,819 INFO  - Enter setUp()
+2018-01-31 10:42:51,824 INFO  - 
+
+
+2018-01-31 10:42:51,824 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 10:42:51,824 INFO  - |                                                                                       |
+2018-01-31 10:42:51,824 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 10:42:51,824 INFO  - |                                                                                       |
+2018-01-31 10:42:51,824 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 10:42:51,824 INFO  - Get project & test names and results
+2018-01-31 10:42:51,824 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 10:42:54,824 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login2," ",Failed,
+2018-01-31 10:42:54,824 INFO  -       Split the data and return
+2018-01-31 10:42:54,824 INFO  -       projectPath - "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 10:42:54,824 INFO  -    Get data for command line
+2018-01-31 10:42:54,824 INFO  - ---------
+2018-01-31 10:42:54,824 INFO  -       "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 10:42:54,824 INFO  -       Login
+2018-01-31 10:42:54,824 INFO  -       Good login
+2018-01-31 10:42:54,824 INFO  -       " "
+2018-01-31 10:42:54,824 INFO  -       Passed
+2018-01-31 10:42:54,824 INFO  - ---------
+2018-01-31 10:42:54,824 INFO  -    Get data for command line
+2018-01-31 10:42:54,825 INFO  - ---------
+2018-01-31 10:42:54,825 INFO  -       "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 10:42:54,825 INFO  -       Login
+2018-01-31 10:42:54,825 INFO  -       Good login2
+2018-01-31 10:42:54,825 INFO  -       " "
+2018-01-31 10:42:54,825 INFO  -       Failed
+2018-01-31 10:42:54,825 INFO  - ---------
+2018-01-31 10:47:51,154 INFO  - Enter setUp()
+2018-01-31 10:47:51,159 INFO  - 
+
+
+2018-01-31 10:47:51,159 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 10:47:51,159 INFO  - |                                                                                       |
+2018-01-31 10:47:51,159 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 10:47:51,159 INFO  - |                                                                                       |
+2018-01-31 10:47:51,159 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 10:47:51,159 INFO  - Get project & test names and results
+2018-01-31 10:47:51,159 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 10:47:54,159 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login2," ",Failed,
+2018-01-31 10:47:54,159 INFO  -       Split the data and return
+2018-01-31 10:47:54,160 INFO  -       projectPath - "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 10:47:54,160 INFO  -    Get data for command line
+2018-01-31 10:47:54,160 INFO  - ---------
+2018-01-31 10:47:54,160 INFO  -       "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 10:47:54,161 INFO  -       Login
+2018-01-31 10:47:54,161 INFO  -       Good login
+2018-01-31 10:47:54,161 INFO  -       " "
+2018-01-31 10:47:54,161 INFO  -       Passed
+2018-01-31 10:47:54,162 INFO  - ---------
+2018-01-31 10:47:54,162 INFO  -       almFullPath - C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 10:47:54,540 INFO  -       DEBUG: C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl OVOC IPP Manager 7.4.2000/Regression/Login {Good login} { } Passed
+2018-01-31 10:47:54,720 INFO  -       DEBUG: 	== ALM update: test 'IPP' in 'OVOC' TestSet, result '7.4.2000/Regression/Login' (params to mark "Manager", conditions "Good login")
+2018-01-31 10:47:54,815 INFO  -       DEBUG:  argv = 'OVOC IPP Manager 7.4.2000/Regression/Login {Good login} { } Passed'
+2018-01-31 10:47:54,916 INFO  -       DEBUG: path='OVOC'
+2018-01-31 10:47:55,028 INFO  -       DEBUG: test='IPP'
+2018-01-31 10:47:55,128 INFO  -       DEBUG: mark='Manager'
+2018-01-31 10:47:55,232 INFO  -       DEBUG: result='7.4.2000/Regression/Login'
+2018-01-31 10:47:55,340 INFO  -       DEBUG: condition='Good login'
+2018-01-31 10:47:55,447 INFO  -       DEBUG: parameters=' '
+2018-01-31 10:47:55,551 INFO  -       ERROR! Wrong result string (7.4.2000/Regression/Login) - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018-01-31 10:47:55,668 INFO  -    Get data for command line
+2018-01-31 10:47:55,669 INFO  - ---------
+2018-01-31 10:47:55,669 INFO  -       "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 10:47:55,669 INFO  -       Login
+2018-01-31 10:47:55,669 INFO  -       Good login2
+2018-01-31 10:47:55,670 INFO  -       " "
+2018-01-31 10:47:55,670 INFO  -       Failed
+2018-01-31 10:47:55,670 INFO  - ---------
+2018-01-31 10:47:55,670 INFO  -       almFullPath - C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 10:47:55,913 INFO  -       DEBUG: C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl OVOC IPP Manager 7.4.2000/Regression/Login {Good login2} { } Failed
+2018-01-31 10:47:56,039 INFO  -       DEBUG: 	== ALM update: test 'IPP' in 'OVOC' TestSet, result '7.4.2000/Regression/Login' (params to mark "Manager", conditions "Good login2")
+2018-01-31 10:47:56,130 INFO  -       DEBUG:  argv = 'OVOC IPP Manager 7.4.2000/Regression/Login {Good login2} { } Failed'
+2018-01-31 10:47:56,235 INFO  -       DEBUG: path='OVOC'
+2018-01-31 10:47:56,336 INFO  -       DEBUG: test='IPP'
+2018-01-31 10:47:56,430 INFO  -       DEBUG: mark='Manager'
+2018-01-31 10:47:56,556 INFO  -       DEBUG: result='7.4.2000/Regression/Login'
+2018-01-31 10:47:56,658 INFO  -       DEBUG: condition='Good login2'
+2018-01-31 10:47:56,763 INFO  -       DEBUG: parameters=' '
+2018-01-31 10:47:56,878 INFO  -       ERROR! Wrong result string (7.4.2000/Regression/Login) - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018-01-31 10:56:18,706 INFO  - Enter setUp()
+2018-01-31 10:56:18,711 INFO  - 
+
+
+2018-01-31 10:56:18,711 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 10:56:18,711 INFO  - |                                                                                       |
+2018-01-31 10:56:18,711 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 10:56:18,711 INFO  - |                                                                                       |
+2018-01-31 10:56:18,711 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 10:56:18,711 INFO  - Get project & test names and results
+2018-01-31 10:56:18,711 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 10:56:21,712 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login2," ",Failed,
+2018-01-31 10:56:21,712 INFO  -       Split the data and return
+2018-01-31 10:56:21,713 INFO  -       projectPath - "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 10:56:21,713 INFO  -    Get data for command line
+2018-01-31 10:56:21,713 INFO  - ---------
+2018-01-31 10:56:21,714 INFO  -       "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 10:56:21,714 INFO  -       Login
+2018-01-31 10:56:21,714 INFO  -       Good login
+2018-01-31 10:56:21,714 INFO  -       " "
+2018-01-31 10:56:21,714 INFO  -       Passed
+2018-01-31 10:56:21,715 INFO  - ---------
+2018-01-31 10:56:21,715 INFO  -       almFullPath - C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 10:56:21,970 INFO  -    Get data for command line
+2018-01-31 10:56:21,970 INFO  - ---------
+2018-01-31 10:56:21,970 INFO  -       "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 10:56:21,970 INFO  -       Login
+2018-01-31 10:56:21,970 INFO  -       Good login2
+2018-01-31 10:56:21,971 INFO  -       " "
+2018-01-31 10:56:21,971 INFO  -       Failed
+2018-01-31 10:56:21,971 INFO  - ---------
+2018-01-31 10:56:21,971 INFO  -       almFullPath - C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 10:58:11,650 INFO  - Enter setUp()
+2018-01-31 10:58:11,656 INFO  - 
+
+
+2018-01-31 10:58:11,656 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 10:58:11,656 INFO  - |                                                                                       |
+2018-01-31 10:58:11,656 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 10:58:11,656 INFO  - |                                                                                       |
+2018-01-31 10:58:11,657 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 10:58:11,657 INFO  - Get project & test names and results
+2018-01-31 10:58:11,657 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 10:58:14,657 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login2," ",Failed,
+2018-01-31 10:58:14,657 INFO  -       Split the data and return
+2018-01-31 10:58:14,657 INFO  -       projectPath - "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 10:58:14,657 INFO  -    Get data for command line
+2018-01-31 10:58:14,657 INFO  - ---------
+2018-01-31 10:58:14,657 INFO  -       "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 10:58:14,657 INFO  -       Login
+2018-01-31 10:58:14,657 INFO  -       Good login
+2018-01-31 10:58:14,657 INFO  -       " "
+2018-01-31 10:58:14,657 INFO  -       Passed
+2018-01-31 10:58:14,657 INFO  - ---------
+2018-01-31 10:58:14,657 INFO  -       almFullPath - C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 10:58:14,865 INFO  -    Get data for command line
+2018-01-31 10:58:14,865 INFO  - ---------
+2018-01-31 10:58:14,865 INFO  -       "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 10:58:14,865 INFO  -       Login
+2018-01-31 10:58:14,865 INFO  -       Good login2
+2018-01-31 10:58:14,866 INFO  -       " "
+2018-01-31 10:58:14,866 INFO  -       Failed
+2018-01-31 10:58:14,866 INFO  - ---------
+2018-01-31 10:58:14,866 INFO  -       almFullPath - C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 11:00:15,750 INFO  - Enter setUp()
+2018-01-31 11:00:15,756 INFO  - 
+
+
+2018-01-31 11:00:15,756 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:00:15,756 INFO  - |                                                                                       |
+2018-01-31 11:00:15,756 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:00:15,756 INFO  - |                                                                                       |
+2018-01-31 11:00:15,757 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:00:15,757 INFO  - Get project & test names and results
+2018-01-31 11:00:15,757 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:00:18,757 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login2," ",Failed,
+2018-01-31 11:00:18,757 INFO  -       Split the data and return
+2018-01-31 11:00:18,757 INFO  -       projectPath - "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 11:00:18,757 INFO  -    Get data for command line
+2018-01-31 11:00:18,757 INFO  - ---------
+2018-01-31 11:00:18,757 INFO  -       "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 11:00:18,757 INFO  -       Login
+2018-01-31 11:00:18,757 INFO  -       Good login
+2018-01-31 11:00:18,757 INFO  -       " "
+2018-01-31 11:00:18,757 INFO  -       Passed
+2018-01-31 11:00:18,757 INFO  - ---------
+2018-01-31 11:00:18,757 INFO  -       almFullPath - C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 11:00:18,934 INFO  -       DEBUG: C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:00:19,056 INFO  -       DEBUG: 	== ALM update: test 'IPP' in 'OVOC' TestSet, result '7.4.2000/Regression/Login' (params to mark "Manager", conditions "")
+2018-01-31 11:00:19,144 INFO  -       DEBUG:  argv = 'OVOC IPP Manager 7.4.2000/Regression/Login'
+2018-01-31 11:00:19,243 INFO  -       DEBUG: path='OVOC'
+2018-01-31 11:00:19,335 INFO  -       DEBUG: test='IPP'
+2018-01-31 11:00:19,422 INFO  -       DEBUG: mark='Manager'
+2018-01-31 11:00:19,507 INFO  -       DEBUG: result='7.4.2000/Regression/Login'
+2018-01-31 11:00:19,598 INFO  -       DEBUG: condition=''
+2018-01-31 11:00:19,677 INFO  -       DEBUG: parameters=''
+2018-01-31 11:00:19,762 INFO  -       ERROR! Wrong result string (7.4.2000/Regression/Login) - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018-01-31 11:00:19,845 INFO  -    Get data for command line
+2018-01-31 11:00:19,845 INFO  - ---------
+2018-01-31 11:00:19,845 INFO  -       "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 11:00:19,845 INFO  -       Login
+2018-01-31 11:00:19,845 INFO  -       Good login2
+2018-01-31 11:00:19,845 INFO  -       " "
+2018-01-31 11:00:19,845 INFO  -       Failed
+2018-01-31 11:00:19,846 INFO  - ---------
+2018-01-31 11:00:19,846 INFO  -       almFullPath - C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 11:00:20,016 INFO  -       DEBUG: C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:00:20,103 INFO  -       DEBUG: 	== ALM update: test 'IPP' in 'OVOC' TestSet, result '7.4.2000/Regression/Login' (params to mark "Manager", conditions "")
+2018-01-31 11:00:20,182 INFO  -       DEBUG:  argv = 'OVOC IPP Manager 7.4.2000/Regression/Login'
+2018-01-31 11:00:20,267 INFO  -       DEBUG: path='OVOC'
+2018-01-31 11:00:20,354 INFO  -       DEBUG: test='IPP'
+2018-01-31 11:00:20,438 INFO  -       DEBUG: mark='Manager'
+2018-01-31 11:00:20,522 INFO  -       DEBUG: result='7.4.2000/Regression/Login'
+2018-01-31 11:00:20,605 INFO  -       DEBUG: condition=''
+2018-01-31 11:00:20,701 INFO  -       DEBUG: parameters=''
+2018-01-31 11:00:20,787 INFO  -       ERROR! Wrong result string (7.4.2000/Regression/Login) - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018-01-31 11:02:41,250 INFO  - Enter setUp()
+2018-01-31 11:02:41,257 INFO  - 
+
+
+2018-01-31 11:02:41,257 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:02:41,257 INFO  - |                                                                                       |
+2018-01-31 11:02:41,257 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:02:41,257 INFO  - |                                                                                       |
+2018-01-31 11:02:41,257 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:02:41,257 INFO  - Get project & test names and results
+2018-01-31 11:02:41,257 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:02:44,258 INFO  -       content - "OVOC IPP Manager 7.4.2000/Regression/",
+Login,Good login," ",Passed,
+Login,Good login2," ",Failed,
+2018-01-31 11:02:44,258 INFO  -       Split the data and return
+2018-01-31 11:02:44,259 INFO  -       projectPath - "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 11:02:44,259 INFO  -    Get data for command line
+2018-01-31 11:02:44,259 INFO  - ---------
+2018-01-31 11:02:44,259 INFO  -       "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 11:02:44,260 INFO  -       Login
+2018-01-31 11:02:44,260 INFO  -       Good login
+2018-01-31 11:02:44,260 INFO  -       " "
+2018-01-31 11:02:44,260 INFO  -       Passed
+2018-01-31 11:02:44,260 INFO  - ---------
+2018-01-31 11:02:44,261 INFO  -       almFullPath - C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 11:02:44,261 INFO  -       almFullPath - ""OVOC IPP Manager 7.4.2000/Regression/"Login"
+2018-01-31 11:02:44,469 INFO  -       DEBUG: C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:02:44,567 INFO  -       DEBUG: 	== ALM update: test 'IPP' in 'OVOC' TestSet, result '7.4.2000/Regression/Login' (params to mark "Manager", conditions "")
+2018-01-31 11:02:44,644 INFO  -       DEBUG:  argv = 'OVOC IPP Manager 7.4.2000/Regression/Login'
+2018-01-31 11:02:44,726 INFO  -       DEBUG: path='OVOC'
+2018-01-31 11:02:44,806 INFO  -       DEBUG: test='IPP'
+2018-01-31 11:02:44,879 INFO  -       DEBUG: mark='Manager'
+2018-01-31 11:02:44,966 INFO  -       DEBUG: result='7.4.2000/Regression/Login'
+2018-01-31 11:02:45,043 INFO  -       DEBUG: condition=''
+2018-01-31 11:02:45,127 INFO  -       DEBUG: parameters=''
+2018-01-31 11:02:45,211 INFO  -       ERROR! Wrong result string (7.4.2000/Regression/Login) - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018-01-31 11:02:45,297 INFO  -    Get data for command line
+2018-01-31 11:02:45,297 INFO  - ---------
+2018-01-31 11:02:45,297 INFO  -       "OVOC IPP Manager 7.4.2000/Regression/"
+2018-01-31 11:02:45,297 INFO  -       Login
+2018-01-31 11:02:45,297 INFO  -       Good login2
+2018-01-31 11:02:45,298 INFO  -       " "
+2018-01-31 11:02:45,298 INFO  -       Failed
+2018-01-31 11:02:45,298 INFO  - ---------
+2018-01-31 11:02:45,298 INFO  -       almFullPath - C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 11:02:45,298 INFO  -       almFullPath - ""OVOC IPP Manager 7.4.2000/Regression/"Login"
+2018-01-31 11:02:45,465 INFO  -       DEBUG: C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:02:45,539 INFO  -       DEBUG: 	== ALM update: test 'IPP' in 'OVOC' TestSet, result '7.4.2000/Regression/Login' (params to mark "Manager", conditions "")
+2018-01-31 11:02:45,615 INFO  -       DEBUG:  argv = 'OVOC IPP Manager 7.4.2000/Regression/Login'
+2018-01-31 11:02:45,709 INFO  -       DEBUG: path='OVOC'
+2018-01-31 11:02:45,798 INFO  -       DEBUG: test='IPP'
+2018-01-31 11:02:45,892 INFO  -       DEBUG: mark='Manager'
+2018-01-31 11:02:45,981 INFO  -       DEBUG: result='7.4.2000/Regression/Login'
+2018-01-31 11:02:46,067 INFO  -       DEBUG: condition=''
+2018-01-31 11:02:46,147 INFO  -       DEBUG: parameters=''
+2018-01-31 11:02:46,237 INFO  -       ERROR! Wrong result string (7.4.2000/Regression/Login) - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018-01-31 11:05:16,208 INFO  - Enter setUp()
+2018-01-31 11:05:16,213 INFO  - 
+
+
+2018-01-31 11:05:16,213 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:05:16,213 INFO  - |                                                                                       |
+2018-01-31 11:05:16,213 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:05:16,213 INFO  - |                                                                                       |
+2018-01-31 11:05:16,213 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:05:16,213 INFO  - Get project & test names and results
+2018-01-31 11:05:16,214 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:05:19,214 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+Login,Good login2," ",Failed,
+2018-01-31 11:05:19,214 INFO  -       Split the data and return
+2018-01-31 11:05:19,214 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:05:19,214 INFO  -    Get data for command line
+2018-01-31 11:05:19,214 INFO  - ---------
+2018-01-31 11:05:19,214 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:05:19,214 INFO  -       Login
+2018-01-31 11:05:19,214 INFO  -       Good login
+2018-01-31 11:05:19,214 INFO  -       " "
+2018-01-31 11:05:19,214 INFO  -       Passed
+2018-01-31 11:05:19,214 INFO  - ---------
+2018-01-31 11:05:19,214 INFO  -       almFullPath - C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 11:05:19,214 INFO  -       almFullPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:05:19,381 INFO  -       DEBUG: C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login}
+2018-01-31 11:05:19,528 INFO  -       DEBUG: 	== ALM update: test '' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result '' (params to mark "", conditions "")
+2018-01-31 11:05:19,614 INFO  -       DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login}'
+2018-01-31 11:05:19,701 INFO  -       DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018-01-31 11:05:19,793 INFO  -       DEBUG: test=''
+2018-01-31 11:05:19,883 INFO  -       DEBUG: mark=''
+2018-01-31 11:05:19,981 INFO  -       DEBUG: result=''
+2018-01-31 11:05:20,074 INFO  -       DEBUG: condition=''
+2018-01-31 11:05:20,165 INFO  -       DEBUG: parameters=''
+2018-01-31 11:05:20,255 INFO  -       ERROR! Wrong result string () - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018-01-31 11:05:20,350 INFO  -    Get data for command line
+2018-01-31 11:05:20,350 INFO  - ---------
+2018-01-31 11:05:20,351 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:05:20,351 INFO  -       Login
+2018-01-31 11:05:20,351 INFO  -       Good login2
+2018-01-31 11:05:20,351 INFO  -       " "
+2018-01-31 11:05:20,351 INFO  -       Failed
+2018-01-31 11:05:20,351 INFO  - ---------
+2018-01-31 11:05:20,352 INFO  -       almFullPath - C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 11:05:20,352 INFO  -       almFullPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:05:20,531 INFO  -       DEBUG: C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login}
+2018-01-31 11:05:20,668 INFO  -       DEBUG: 	== ALM update: test '' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result '' (params to mark "", conditions "")
+2018-01-31 11:05:20,792 INFO  -       DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login}'
+2018-01-31 11:05:20,895 INFO  -       DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018-01-31 11:05:20,982 INFO  -       DEBUG: test=''
+2018-01-31 11:05:21,101 INFO  -       DEBUG: mark=''
+2018-01-31 11:05:21,206 INFO  -       DEBUG: result=''
+2018-01-31 11:05:21,300 INFO  -       DEBUG: condition=''
+2018-01-31 11:05:21,405 INFO  -       DEBUG: parameters=''
+2018-01-31 11:05:21,504 INFO  -       ERROR! Wrong result string () - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018-01-31 11:06:34,207 INFO  - Enter setUp()
+2018-01-31 11:06:34,211 INFO  - 
+
+
+2018-01-31 11:06:34,211 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:06:34,211 INFO  - |                                                                                       |
+2018-01-31 11:06:34,212 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:06:34,212 INFO  - |                                                                                       |
+2018-01-31 11:06:34,212 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:06:34,212 INFO  - Get project & test names and results
+2018-01-31 11:06:34,212 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:06:37,212 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+Login,Good login2," ",Failed,
+2018-01-31 11:06:37,212 INFO  -       Split the data and return
+2018-01-31 11:06:37,212 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:06:37,212 INFO  -    Get data for command line
+2018-01-31 11:06:37,212 INFO  - ---------
+2018-01-31 11:06:37,212 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:06:37,212 INFO  -       Login
+2018-01-31 11:06:37,212 INFO  -       Good login
+2018-01-31 11:06:37,212 INFO  -       " "
+2018-01-31 11:06:37,212 INFO  -       Passed
+2018-01-31 11:06:37,212 INFO  - ---------
+2018-01-31 11:06:37,212 INFO  -       almFullPath - C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 11:06:37,213 INFO  -       almFullPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:06:37,384 INFO  -       DEBUG: C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} { } Passed
+2018-01-31 11:06:37,555 INFO  -       DEBUG: 	== ALM update: test 'Good login' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result 'Passed' (params to mark " ", conditions "")
+2018-01-31 11:06:37,643 INFO  -       DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} { } Passed'
+2018-01-31 11:06:37,736 INFO  -       DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018-01-31 11:06:37,831 INFO  -       DEBUG: test='Good login'
+2018-01-31 11:06:37,922 INFO  -       DEBUG: mark=' '
+2018-01-31 11:06:38,011 INFO  -       DEBUG: result='Passed'
+2018-01-31 11:06:38,098 INFO  -       DEBUG: condition=''
+2018-01-31 11:06:38,186 INFO  -       DEBUG: parameters=''
+2018-01-31 11:06:38,276 INFO  -       DEBUG:  current directory: 'C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark'
+2018-01-31 11:06:39,252 INFO  -       ERROR! Connection to database failed!, error: '37000 4060 {[Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "Unknown SQL_Database" requested by the login. The login failed.}'
+2018-01-31 11:06:39,394 INFO  -    Get data for command line
+2018-01-31 11:06:39,394 INFO  - ---------
+2018-01-31 11:06:39,394 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:06:39,395 INFO  -       Login
+2018-01-31 11:06:39,395 INFO  -       Good login2
+2018-01-31 11:06:39,395 INFO  -       " "
+2018-01-31 11:06:39,395 INFO  -       Failed
+2018-01-31 11:06:39,395 INFO  - ---------
+2018-01-31 11:06:39,395 INFO  -       almFullPath - C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 11:06:39,395 INFO  -       almFullPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:06:39,545 INFO  -       DEBUG: C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Good login2} { } Failed
+2018-01-31 11:06:39,659 INFO  -       DEBUG: 	== ALM update: test 'Good login2' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result 'Failed' (params to mark " ", conditions "")
+2018-01-31 11:06:39,763 INFO  -       DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Good login2} { } Failed'
+2018-01-31 11:06:39,855 INFO  -       DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018-01-31 11:06:39,945 INFO  -       DEBUG: test='Good login2'
+2018-01-31 11:06:40,031 INFO  -       DEBUG: mark=' '
+2018-01-31 11:06:40,118 INFO  -       DEBUG: result='Failed'
+2018-01-31 11:06:40,200 INFO  -       DEBUG: condition=''
+2018-01-31 11:06:40,289 INFO  -       DEBUG: parameters=''
+2018-01-31 11:06:40,378 INFO  -       DEBUG:  current directory: 'C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark'
+2018-01-31 11:06:40,686 INFO  -       ERROR! Connection to database failed!, error: '37000 4060 {[Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "Unknown SQL_Database" requested by the login. The login failed.}'
+2018-01-31 11:08:42,866 INFO  - Enter setUp()
+2018-01-31 11:08:42,871 INFO  - 
+
+
+2018-01-31 11:08:42,871 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:08:42,871 INFO  - |                                                                                       |
+2018-01-31 11:08:42,871 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:08:42,871 INFO  - |                                                                                       |
+2018-01-31 11:08:42,871 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:08:42,871 INFO  - Get project & test names and results
+2018-01-31 11:08:42,871 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:08:45,889 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 11:08:45,889 INFO  -       Split the data and return
+2018-01-31 11:08:45,889 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:08:45,889 INFO  -    Get data for command line
+2018-01-31 11:08:45,889 INFO  - ---------
+2018-01-31 11:08:45,889 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:08:45,889 INFO  -       Login
+2018-01-31 11:08:45,889 INFO  -       Good login
+2018-01-31 11:08:45,889 INFO  -       " "
+2018-01-31 11:08:45,889 INFO  -       Passed
+2018-01-31 11:08:45,889 INFO  - ---------
+2018-01-31 11:08:45,889 INFO  -       almFullPath - C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 11:08:45,889 INFO  -       almFullPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:08:46,100 INFO  -       DEBUG: C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} { } Passed
+2018-01-31 11:08:46,212 INFO  -       DEBUG: 	== ALM update: test 'Good login' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result 'Passed' (params to mark " ", conditions "")
+2018-01-31 11:08:46,292 INFO  -       DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} { } Passed'
+2018-01-31 11:08:46,415 INFO  -       DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018-01-31 11:08:46,489 INFO  -       DEBUG: test='Good login'
+2018-01-31 11:08:46,570 INFO  -       DEBUG: mark=' '
+2018-01-31 11:08:46,678 INFO  -       DEBUG: result='Passed'
+2018-01-31 11:08:46,768 INFO  -       DEBUG: condition=''
+2018-01-31 11:08:46,848 INFO  -       DEBUG: parameters=''
+2018-01-31 11:08:46,944 INFO  -       DEBUG:  current directory: 'C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark'
+2018-01-31 11:08:47,183 INFO  -       ERROR! Connection to database failed!, error: '37000 4060 {[Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "Unknown SQL_Database" requested by the login. The login failed.}'
+2018-01-31 11:12:37,399 INFO  - Enter setUp()
+2018-01-31 11:12:37,404 INFO  - 
+
+
+2018-01-31 11:12:37,404 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:12:37,404 INFO  - |                                                                                       |
+2018-01-31 11:12:37,404 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:12:37,404 INFO  - |                                                                                       |
+2018-01-31 11:12:37,404 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:12:37,404 INFO  - Get project & test names and results
+2018-01-31 11:12:37,405 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:12:40,405 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 11:12:40,405 INFO  -       Split the data and return
+2018-01-31 11:12:40,405 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:12:40,405 INFO  -    Get data for command line
+2018-01-31 11:12:40,405 INFO  - ---------
+2018-01-31 11:12:40,405 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:12:40,405 INFO  -       Login
+2018-01-31 11:12:40,405 INFO  -       Good login
+2018-01-31 11:12:40,405 INFO  -       " "
+2018-01-31 11:12:40,405 INFO  -       Passed
+2018-01-31 11:12:40,406 INFO  - ---------
+2018-01-31 11:12:40,406 INFO  -       almFullPath - C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 11:12:40,406 INFO  -       almFullPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:12:40,626 INFO  -       DEBUG: C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} { } Passed
+2018-01-31 11:12:40,765 INFO  -       DEBUG: 	== ALM update: test 'Good login' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result 'Passed' (params to mark " ", conditions "")
+2018-01-31 11:12:40,851 INFO  -       DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} { } Passed'
+2018-01-31 11:12:40,954 INFO  -       DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018-01-31 11:12:41,045 INFO  -       DEBUG: test='Good login'
+2018-01-31 11:12:41,126 INFO  -       DEBUG: mark=' '
+2018-01-31 11:12:41,213 INFO  -       DEBUG: result='Passed'
+2018-01-31 11:12:41,310 INFO  -       DEBUG: condition=''
+2018-01-31 11:12:41,396 INFO  -       DEBUG: parameters=''
+2018-01-31 11:12:41,474 INFO  -       DEBUG:  current directory: 'C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark'
+2018-01-31 11:12:41,670 INFO  -       ERROR! Connection to database failed!, error: '37000 4060 {[Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "Unknown SQL_Database" requested by the login. The login failed.}'
+2018-01-31 11:20:13,906 INFO  - Enter setUp()
+2018-01-31 11:20:13,911 INFO  - 
+
+
+2018-01-31 11:20:13,911 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:20:13,911 INFO  - |                                                                                       |
+2018-01-31 11:20:13,911 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:20:13,911 INFO  - |                                                                                       |
+2018-01-31 11:20:13,911 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:20:13,911 INFO  - Get project & test names and results
+2018-01-31 11:20:13,912 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:20:16,912 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 11:20:16,912 INFO  -       Split the data and return
+2018-01-31 11:20:16,912 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:20:16,912 INFO  -    Get data for command line
+2018-01-31 11:20:16,912 INFO  - ---------
+2018-01-31 11:20:16,912 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:20:16,912 INFO  -       Login
+2018-01-31 11:20:16,912 INFO  -       Good login
+2018-01-31 11:20:16,912 INFO  -       " "
+2018-01-31 11:20:16,912 INFO  -       Passed
+2018-01-31 11:20:16,912 INFO  - ---------
+2018-01-31 11:20:16,912 INFO  -       almFullPath - C:\Users\nirk\Desktop\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 11:20:16,912 INFO  -       almFullPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:20:17,091 INFO  -       DEBUG: C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} { } Passed
+2018-01-31 11:20:17,217 INFO  -       DEBUG: 	== ALM update: test 'Good login' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result 'Passed' (params to mark " ", conditions "")
+2018-01-31 11:20:17,302 INFO  -       DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} { } Passed'
+2018-01-31 11:20:17,403 INFO  -       DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018-01-31 11:20:17,493 INFO  -       DEBUG: test='Good login'
+2018-01-31 11:20:17,578 INFO  -       DEBUG: mark=' '
+2018-01-31 11:20:17,658 INFO  -       DEBUG: result='Passed'
+2018-01-31 11:20:17,747 INFO  -       DEBUG: condition=''
+2018-01-31 11:20:17,833 INFO  -       DEBUG: parameters=''
+2018-01-31 11:20:17,911 INFO  -       DEBUG:  current directory: 'C:/Users/nirk/Desktop/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark'
+2018-01-31 11:20:18,104 INFO  -       ERROR! Connection to database failed!, error: '37000 4060 {[Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "Unknown SQL_Database" requested by the login. The login failed.}'
+2018-01-31 11:27:48,867 INFO  - Enter setUp()
+2018-01-31 11:27:48,873 INFO  - 
+
+
+2018-01-31 11:27:48,873 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:27:48,873 INFO  - |                                                                                       |
+2018-01-31 11:27:48,873 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:27:48,873 INFO  - |                                                                                       |
+2018-01-31 11:27:48,873 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:27:48,873 INFO  - Get project & test names and results
+2018-01-31 11:27:48,873 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:27:51,874 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 11:27:51,874 INFO  -       Split the data and return
+2018-01-31 11:27:51,875 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:27:51,875 INFO  -    Get data for command line
+2018-01-31 11:27:51,875 INFO  - ---------
+2018-01-31 11:27:51,875 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:27:51,875 INFO  -       Login
+2018-01-31 11:27:51,876 INFO  -       Good login
+2018-01-31 11:27:51,876 INFO  -       " "
+2018-01-31 11:27:51,876 INFO  -       Passed
+2018-01-31 11:27:51,876 INFO  - ---------
+2018-01-31 11:33:23,353 INFO  - Enter setUp()
+2018-01-31 11:33:23,358 INFO  - 
+
+
+2018-01-31 11:33:23,358 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:33:23,358 INFO  - |                                                                                       |
+2018-01-31 11:33:23,358 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:33:23,358 INFO  - |                                                                                       |
+2018-01-31 11:33:23,358 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:33:23,358 INFO  - Get project & test names and results
+2018-01-31 11:33:23,358 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:33:26,359 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 11:33:26,359 INFO  -       Split the data and return
+2018-01-31 11:33:26,360 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:33:26,360 INFO  -    Get data for command line
+2018-01-31 11:33:26,361 INFO  - ---------
+2018-01-31 11:33:26,361 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:33:26,361 INFO  -       Login
+2018-01-31 11:33:26,361 INFO  -       Good login
+2018-01-31 11:33:26,362 INFO  -       " "
+2018-01-31 11:33:26,362 INFO  -       Passed
+2018-01-31 11:33:26,362 INFO  - ---------
+2018-01-31 11:33:26,381 INFO  -       almFullPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:37:49,575 INFO  - Enter setUp()
+2018-01-31 11:37:49,579 INFO  - 
+
+
+2018-01-31 11:37:49,579 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:37:49,579 INFO  - |                                                                                       |
+2018-01-31 11:37:49,580 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:37:49,580 INFO  - |                                                                                       |
+2018-01-31 11:37:49,580 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:37:49,580 INFO  - Get project & test names and results
+2018-01-31 11:37:49,580 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:37:52,580 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 11:37:52,580 INFO  -       Split the data and return
+2018-01-31 11:37:52,580 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:37:52,580 INFO  -    Get data for command line
+2018-01-31 11:37:52,580 INFO  - ---------
+2018-01-31 11:37:52,580 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:37:52,580 INFO  -       Login
+2018-01-31 11:37:52,580 INFO  -       Good login
+2018-01-31 11:37:52,580 INFO  -       " "
+2018-01-31 11:37:52,580 INFO  -       Passed
+2018-01-31 11:37:52,580 INFO  - ---------
+2018-01-31 11:37:52,580 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests
+2018-01-31 11:37:52,580 INFO  -       almFullPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:38:29,112 INFO  - Enter setUp()
+2018-01-31 11:38:29,117 INFO  - 
+
+
+2018-01-31 11:38:29,117 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:38:29,117 INFO  - |                                                                                       |
+2018-01-31 11:38:29,117 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:38:29,117 INFO  - |                                                                                       |
+2018-01-31 11:38:29,117 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:38:29,117 INFO  - Get project & test names and results
+2018-01-31 11:38:29,117 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:38:32,118 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 11:38:32,118 INFO  -       Split the data and return
+2018-01-31 11:38:32,118 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:38:32,118 INFO  -    Get data for command line
+2018-01-31 11:38:32,119 INFO  - ---------
+2018-01-31 11:38:32,119 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:38:32,119 INFO  -       Login
+2018-01-31 11:38:32,119 INFO  -       Good login
+2018-01-31 11:38:32,119 INFO  -       " "
+2018-01-31 11:38:32,119 INFO  -       Passed
+2018-01-31 11:38:32,120 INFO  - ---------
+2018-01-31 11:38:32,120 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests
+2018-01-31 11:38:32,120 INFO  -       almFullPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:42:25,190 INFO  - Enter setUp()
+2018-01-31 11:42:25,194 INFO  - 
+
+
+2018-01-31 11:42:25,194 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:42:25,194 INFO  - |                                                                                       |
+2018-01-31 11:42:25,194 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:42:25,194 INFO  - |                                                                                       |
+2018-01-31 11:42:25,195 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:42:25,195 INFO  - Get project & test names and results
+2018-01-31 11:42:25,195 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:42:28,195 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 11:42:28,195 INFO  -       Split the data and return
+2018-01-31 11:42:28,196 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:42:28,196 INFO  -    Get data for command line
+2018-01-31 11:42:28,196 INFO  - ---------
+2018-01-31 11:42:28,196 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:42:28,197 INFO  -       Login
+2018-01-31 11:42:28,197 INFO  -       Good login
+2018-01-31 11:42:28,197 INFO  -       " "
+2018-01-31 11:42:28,197 INFO  -       Passed
+2018-01-31 11:42:28,198 INFO  - ---------
+2018-01-31 11:42:28,198 INFO  -       almFullPath - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 11:42:28,198 INFO  -       almFullPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:42:46,157 INFO  - Enter setUp()
+2018-01-31 11:42:46,162 INFO  - 
+
+
+2018-01-31 11:42:46,162 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:42:46,162 INFO  - |                                                                                       |
+2018-01-31 11:42:46,162 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:42:46,162 INFO  - |                                                                                       |
+2018-01-31 11:42:46,162 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:42:46,162 INFO  - Get project & test names and results
+2018-01-31 11:42:46,163 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:42:49,163 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 11:42:49,163 INFO  -       Split the data and return
+2018-01-31 11:42:49,163 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:42:49,163 INFO  -    Get data for command line
+2018-01-31 11:42:49,163 INFO  - ---------
+2018-01-31 11:42:49,163 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:42:49,163 INFO  -       Login
+2018-01-31 11:42:49,163 INFO  -       Good login
+2018-01-31 11:42:49,163 INFO  -       " "
+2018-01-31 11:42:49,163 INFO  -       Passed
+2018-01-31 11:42:49,163 INFO  - ---------
+2018-01-31 11:42:49,163 INFO  -       almFullPath - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 11:42:49,163 INFO  -       almFullPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:42:49,394 INFO  -       DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} { } Passed
+2018-01-31 11:42:49,504 INFO  -       DEBUG: 	== ALM update: test 'Good login' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result 'Passed' (params to mark " ", conditions "")
+2018-01-31 11:42:49,579 INFO  -       DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} { } Passed'
+2018-01-31 11:42:49,666 INFO  -       DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018-01-31 11:42:49,739 INFO  -       DEBUG: test='Good login'
+2018-01-31 11:42:49,811 INFO  -       DEBUG: mark=' '
+2018-01-31 11:42:49,897 INFO  -       DEBUG: result='Passed'
+2018-01-31 11:42:49,977 INFO  -       DEBUG: condition=''
+2018-01-31 11:42:50,059 INFO  -       DEBUG: parameters=''
+2018-01-31 11:42:50,146 INFO  -       DEBUG:  current directory: 'C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark'
+2018-01-31 11:42:50,962 INFO  -       ERROR! Connection to database failed!, error: '37000 4060 {[Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "Unknown SQL_Database" requested by the login. The login failed.}'
+2018-01-31 11:44:55,671 INFO  - Enter setUp()
+2018-01-31 11:44:55,676 INFO  - 
+
+
+2018-01-31 11:44:55,676 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:44:55,676 INFO  - |                                                                                       |
+2018-01-31 11:44:55,676 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:44:55,676 INFO  - |                                                                                       |
+2018-01-31 11:44:55,676 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:44:55,676 INFO  - Get project & test names and results
+2018-01-31 11:44:55,677 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:44:58,677 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 11:44:58,677 INFO  -       Split the data and return
+2018-01-31 11:44:58,677 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:44:58,677 INFO  -    Get data for command line
+2018-01-31 11:44:58,677 INFO  - ---------
+2018-01-31 11:44:58,677 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:44:58,677 INFO  -       Login
+2018-01-31 11:44:58,677 INFO  -       Good login
+2018-01-31 11:44:58,677 INFO  -       " "
+2018-01-31 11:44:58,677 INFO  -       Passed
+2018-01-31 11:44:58,677 INFO  - ---------
+2018-01-31 11:44:58,677 INFO  - Before
+2018-01-31 11:44:58,677 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests
+2018-01-31 11:47:53,727 INFO  - Enter setUp()
+2018-01-31 11:47:53,732 INFO  - 
+
+
+2018-01-31 11:47:53,732 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:47:53,732 INFO  - |                                                                                       |
+2018-01-31 11:47:53,732 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:47:53,732 INFO  - |                                                                                       |
+2018-01-31 11:47:53,732 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:47:53,732 INFO  - Get project & test names and results
+2018-01-31 11:47:53,732 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:47:56,732 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 11:47:56,732 INFO  -       Split the data and return
+2018-01-31 11:47:56,732 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:47:56,732 INFO  -    Get data for command line
+2018-01-31 11:47:56,732 INFO  - ---------
+2018-01-31 11:47:56,732 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:47:56,732 INFO  -       Login
+2018-01-31 11:47:56,732 INFO  -       Good login
+2018-01-31 11:47:56,732 INFO  -       " "
+2018-01-31 11:47:56,732 INFO  -       Passed
+2018-01-31 11:47:56,732 INFO  - ---------
+2018-01-31 11:47:56,732 INFO  - Before
+2018-01-31 11:47:56,732 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests
+2018-01-31 11:50:46,482 INFO  - Enter setUp()
+2018-01-31 11:50:46,486 INFO  - 
+
+
+2018-01-31 11:50:46,486 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:50:46,486 INFO  - |                                                                                       |
+2018-01-31 11:50:46,486 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:50:46,486 INFO  - |                                                                                       |
+2018-01-31 11:50:46,487 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:50:46,487 INFO  - Get project & test names and results
+2018-01-31 11:50:46,487 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:50:49,487 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 11:50:49,487 INFO  -       Split the data and return
+2018-01-31 11:50:49,488 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:50:49,488 INFO  -    Get data for command line
+2018-01-31 11:50:49,488 INFO  - ---------
+2018-01-31 11:50:49,488 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:50:49,489 INFO  -       Login
+2018-01-31 11:50:49,489 INFO  -       Good login
+2018-01-31 11:50:49,489 INFO  -       " "
+2018-01-31 11:50:49,489 INFO  -       Passed
+2018-01-31 11:50:49,489 INFO  - ---------
+2018-01-31 11:50:49,490 INFO  - Before
+2018-01-31 11:50:49,490 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests
+2018-01-31 11:51:03,125 INFO  - Enter setUp()
+2018-01-31 11:51:03,130 INFO  - 
+
+
+2018-01-31 11:51:03,130 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:51:03,130 INFO  - |                                                                                       |
+2018-01-31 11:51:03,130 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:51:03,130 INFO  - |                                                                                       |
+2018-01-31 11:51:03,131 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:51:03,131 INFO  - Get project & test names and results
+2018-01-31 11:51:03,131 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:51:06,131 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 11:51:06,131 INFO  -       Split the data and return
+2018-01-31 11:51:06,132 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:51:06,132 INFO  -    Get data for command line
+2018-01-31 11:51:06,132 INFO  - ---------
+2018-01-31 11:51:06,132 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:51:06,133 INFO  -       Login
+2018-01-31 11:51:06,133 INFO  -       Good login
+2018-01-31 11:51:06,133 INFO  -       " "
+2018-01-31 11:51:06,133 INFO  -       Passed
+2018-01-31 11:51:06,134 INFO  - ---------
+2018-01-31 11:51:06,134 INFO  - Before
+2018-01-31 11:51:06,134 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests
+2018-01-31 11:54:45,461 INFO  - Enter setUp()
+2018-01-31 11:54:45,465 INFO  - 
+
+
+2018-01-31 11:54:45,465 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:54:45,466 INFO  - |                                                                                       |
+2018-01-31 11:54:45,466 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:54:45,466 INFO  - |                                                                                       |
+2018-01-31 11:54:45,466 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:54:45,466 INFO  - Get project & test names and results
+2018-01-31 11:54:45,466 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:54:48,466 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 11:54:48,466 INFO  -       Split the data and return
+2018-01-31 11:54:48,466 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:54:48,466 INFO  -    Get data for command line
+2018-01-31 11:54:48,466 INFO  - ---------
+2018-01-31 11:54:48,466 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:54:48,466 INFO  -       Login
+2018-01-31 11:54:48,466 INFO  -       Good login
+2018-01-31 11:54:48,466 INFO  -       " "
+2018-01-31 11:54:48,466 INFO  -       Passed
+2018-01-31 11:54:48,466 INFO  - ---------
+2018-01-31 11:54:48,466 INFO  - Before
+2018-01-31 11:54:48,466 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests
+2018-01-31 11:54:48,466 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark
+2018-01-31 11:55:21,696 INFO  - Enter setUp()
+2018-01-31 11:55:21,700 INFO  - 
+
+
+2018-01-31 11:55:21,701 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:55:21,701 INFO  - |                                                                                       |
+2018-01-31 11:55:21,701 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:55:21,701 INFO  - |                                                                                       |
+2018-01-31 11:55:21,701 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:55:21,701 INFO  - Get project & test names and results
+2018-01-31 11:55:21,701 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:55:24,701 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 11:55:24,701 INFO  -       Split the data and return
+2018-01-31 11:55:24,701 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:55:24,701 INFO  -    Get data for command line
+2018-01-31 11:55:24,701 INFO  - ---------
+2018-01-31 11:55:24,701 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:55:24,701 INFO  -       Login
+2018-01-31 11:55:24,701 INFO  -       Good login
+2018-01-31 11:55:24,701 INFO  -       " "
+2018-01-31 11:55:24,701 INFO  -       Passed
+2018-01-31 11:55:24,701 INFO  - ---------
+2018-01-31 11:55:24,701 INFO  - Before
+2018-01-31 11:55:24,701 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests
+2018-01-31 11:55:24,701 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark
+2018-01-31 11:55:24,701 INFO  -       almFullPath - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 11:55:24,702 INFO  -       almFullPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:55:52,511 INFO  - Enter setUp()
+2018-01-31 11:55:52,516 INFO  - 
+
+
+2018-01-31 11:55:52,516 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:55:52,516 INFO  - |                                                                                       |
+2018-01-31 11:55:52,516 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:55:52,516 INFO  - |                                                                                       |
+2018-01-31 11:55:52,516 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:55:52,516 INFO  - Get project & test names and results
+2018-01-31 11:55:52,516 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 11:55:55,516 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 11:55:55,516 INFO  -       Split the data and return
+2018-01-31 11:55:55,517 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:55:55,517 INFO  -    Get data for command line
+2018-01-31 11:55:55,517 INFO  - ---------
+2018-01-31 11:55:55,517 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 11:55:55,518 INFO  -       Login
+2018-01-31 11:55:55,518 INFO  -       Good login
+2018-01-31 11:55:55,518 INFO  -       " "
+2018-01-31 11:55:55,518 INFO  -       Passed
+2018-01-31 11:55:55,519 INFO  - ---------
+2018-01-31 11:55:55,519 INFO  - Before
+2018-01-31 11:55:55,519 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests
+2018-01-31 11:55:55,519 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark
+2018-01-31 11:55:55,520 INFO  -       almFullPath - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 11:55:55,520 INFO  -       almFullPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 11:55:55,729 INFO  -       DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} { } Passed
+2018-01-31 11:55:55,849 INFO  -       DEBUG: 	== ALM update: test 'Good login' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result 'Passed' (params to mark " ", conditions "")
+2018-01-31 11:55:55,932 INFO  -       DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} { } Passed'
+2018-01-31 11:55:56,014 INFO  -       DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018-01-31 11:55:56,093 INFO  -       DEBUG: test='Good login'
+2018-01-31 11:55:56,184 INFO  -       DEBUG: mark=' '
+2018-01-31 11:55:56,276 INFO  -       DEBUG: result='Passed'
+2018-01-31 11:55:56,356 INFO  -       DEBUG: condition=''
+2018-01-31 11:55:56,447 INFO  -       DEBUG: parameters=''
+2018-01-31 11:55:56,534 INFO  -       DEBUG:  current directory: 'C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark'
+2018-01-31 11:55:56,752 INFO  -       ERROR! Connection to database failed!, error: '37000 4060 {[Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "Unknown SQL_Database" requested by the login. The login failed.}'
+2018-01-31 11:59:58,113 INFO  - Enter setUp()
+2018-01-31 11:59:58,118 INFO  - 
+
+
+2018-01-31 11:59:58,118 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 11:59:58,118 INFO  - |                                                                                       |
+2018-01-31 11:59:58,118 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 11:59:58,118 INFO  - |                                                                                       |
+2018-01-31 11:59:58,118 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 11:59:58,118 INFO  - Get project & test names and results
+2018-01-31 11:59:58,118 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 12:00:01,119 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 12:00:01,119 INFO  -       Split the data and return
+2018-01-31 12:00:01,119 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 12:00:01,119 INFO  -    Get data for command line
+2018-01-31 12:00:01,119 INFO  - ---------
+2018-01-31 12:00:01,119 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 12:00:01,119 INFO  -       Login
+2018-01-31 12:00:01,119 INFO  -       Good login
+2018-01-31 12:00:01,119 INFO  -       " "
+2018-01-31 12:00:01,119 INFO  -       Passed
+2018-01-31 12:00:01,119 INFO  - ---------
+2018-01-31 12:00:01,119 INFO  - Before
+2018-01-31 12:00:01,119 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests
+2018-01-31 12:00:01,120 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark
+2018-01-31 12:00:01,120 INFO  -       almFullPath - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 12:00:01,120 INFO  -       almFullPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 12:00:01,316 INFO  -       DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} { } Passed
+2018-01-31 12:00:01,453 INFO  -       DEBUG: 	== ALM update: test 'Good login' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result 'Passed' (params to mark " ", conditions "")
+2018-01-31 12:00:01,536 INFO  -       DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} { } Passed'
+2018-01-31 12:00:01,625 INFO  -       DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018-01-31 12:00:01,710 INFO  -       DEBUG: test='Good login'
+2018-01-31 12:00:01,803 INFO  -       DEBUG: mark=' '
+2018-01-31 12:00:01,890 INFO  -       DEBUG: result='Passed'
+2018-01-31 12:00:01,971 INFO  -       DEBUG: condition=''
+2018-01-31 12:00:02,053 INFO  -       DEBUG: parameters=''
+2018-01-31 12:00:02,134 INFO  -       DEBUG:  current directory: 'C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark'
+2018-01-31 12:00:02,941 INFO  -       ERROR! Connection to database failed!, error: '37000 4060 {[Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "Unknown SQL_Database" requested by the login. The login failed.}'
+2018-01-31 12:03:39,809 INFO  - Enter setUp()
+2018-01-31 12:03:39,814 INFO  - 
+
+
+2018-01-31 12:03:39,814 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 12:03:39,814 INFO  - |                                                                                       |
+2018-01-31 12:03:39,814 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 12:03:39,814 INFO  - |                                                                                       |
+2018-01-31 12:03:39,814 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 12:03:39,814 INFO  - Get project & test names and results
+2018-01-31 12:03:39,814 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 12:03:42,815 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 12:03:42,815 INFO  -       Split the data and return
+2018-01-31 12:03:42,815 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 12:03:42,815 INFO  -    Get data for command line
+2018-01-31 12:03:42,815 INFO  - ---------
+2018-01-31 12:03:42,815 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 12:03:42,815 INFO  -       Login
+2018-01-31 12:03:42,815 INFO  -       Good login
+2018-01-31 12:03:42,815 INFO  -       " "
+2018-01-31 12:03:42,815 INFO  -       Passed
+2018-01-31 12:03:42,815 INFO  - ---------
+2018-01-31 12:03:42,815 INFO  - Before
+2018-01-31 12:03:42,815 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests
+2018-01-31 12:03:42,816 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark
+2018-01-31 12:03:42,838 INFO  -       almFullPath - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 12:03:42,838 INFO  -       almFullPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 12:06:56,895 INFO  - Enter setUp()
+2018-01-31 12:06:56,900 INFO  - 
+
+
+2018-01-31 12:06:56,900 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 12:06:56,900 INFO  - |                                                                                       |
+2018-01-31 12:06:56,900 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 12:06:56,900 INFO  - |                                                                                       |
+2018-01-31 12:06:56,900 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 12:06:56,900 INFO  - Get project & test names and results
+2018-01-31 12:06:56,900 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 12:06:59,901 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 12:06:59,901 INFO  -       Split the data and return
+2018-01-31 12:06:59,902 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 12:06:59,902 INFO  -    Get data for command line
+2018-01-31 12:06:59,902 INFO  - ---------
+2018-01-31 12:06:59,902 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 12:06:59,903 INFO  -       Login
+2018-01-31 12:06:59,903 INFO  -       Good login
+2018-01-31 12:06:59,903 INFO  -       " "
+2018-01-31 12:06:59,903 INFO  -       Passed
+2018-01-31 12:06:59,903 INFO  - ---------
+2018-01-31 12:06:59,904 INFO  - Before
+2018-01-31 12:06:59,904 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests
+2018-01-31 12:06:59,904 INFO  - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark
+2018-01-31 12:06:59,944 INFO  -       almFullPath - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark\ALM_test_mark.exe
+2018-01-31 12:06:59,945 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 12:28:09,627 INFO  - Enter setUp()
+2018-01-31 12:28:09,632 INFO  - 
+
+
+2018-01-31 12:28:09,632 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 12:28:09,632 INFO  - |                                                                                       |
+2018-01-31 12:28:09,632 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 12:28:09,632 INFO  - |                                                                                       |
+2018-01-31 12:28:09,632 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 12:28:09,632 INFO  - Get project & test names and results
+2018-01-31 12:28:09,632 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 12:28:12,633 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 12:28:12,633 INFO  -       Split the data and return
+2018-01-31 12:28:12,633 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 12:28:12,633 INFO  -    Get data for command line
+2018-01-31 12:28:12,633 INFO  - ---------
+2018-01-31 12:28:12,633 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 12:28:12,633 INFO  -       Login
+2018-01-31 12:28:12,633 INFO  -       Good login
+2018-01-31 12:28:12,633 INFO  -       " "
+2018-01-31 12:28:12,633 INFO  -       Passed
+2018-01-31 12:28:12,633 INFO  - ---------
+2018-01-31 12:28:12,633 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 12:30:25,372 INFO  - Enter setUp()
+2018-01-31 12:30:25,376 INFO  - 
+
+
+2018-01-31 12:30:25,377 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 12:30:25,377 INFO  - |                                                                                       |
+2018-01-31 12:30:25,377 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 12:30:25,377 INFO  - |                                                                                       |
+2018-01-31 12:30:25,377 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 12:30:25,377 INFO  - Get project & test names and results
+2018-01-31 12:30:25,377 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 12:30:28,377 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Passed,
+2018-01-31 12:30:28,377 INFO  -       Split the data and return
+2018-01-31 12:30:28,377 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 12:30:28,377 INFO  -    Get data for command line
+2018-01-31 12:30:28,377 INFO  - ---------
+2018-01-31 12:30:28,377 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 12:30:28,377 INFO  -       Login
+2018-01-31 12:30:28,377 INFO  -       Good login
+2018-01-31 12:30:28,377 INFO  -       " "
+2018-01-31 12:30:28,377 INFO  -       Passed
+2018-01-31 12:30:28,377 INFO  - ---------
+2018-01-31 12:30:28,377 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 12:30:28,426 INFO  -       
+2018-01-31 12:30:28,426 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-01-31 12:30:28,426 INFO  -       
+2018-01-31 12:30:28,426 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-01-31 12:30:28,426 INFO  -       
+2018-01-31 12:30:28,426 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-01-31 12:30:28,426 INFO  -       
+2018-01-31 12:30:28,426 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Good login" 
+2018-01-31 12:30:28,426 INFO  -       
+2018-01-31 12:30:28,426 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-01-31 12:30:28,426 INFO  -       
+2018-01-31 12:30:28,427 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-01-31 12:30:28,427 INFO  -       
+2018-01-31 12:30:28,427 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Good login" " " Passed 
+2018-01-31 12:31:12,304 INFO  - Enter setUp()
+2018-01-31 12:31:12,309 INFO  - 
+
+
+2018-01-31 12:31:12,309 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 12:31:12,309 INFO  - |                                                                                       |
+2018-01-31 12:31:12,309 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 12:31:12,309 INFO  - |                                                                                       |
+2018-01-31 12:31:12,309 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 12:31:12,309 INFO  - Get project & test names and results
+2018-01-31 12:31:12,309 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 12:31:15,309 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Good login," ",Failed,
+2018-01-31 12:31:15,309 INFO  -       Split the data and return
+2018-01-31 12:31:15,310 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 12:31:15,310 INFO  -    Get data for command line
+2018-01-31 12:31:15,310 INFO  - ---------
+2018-01-31 12:31:15,311 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 12:31:15,311 INFO  -       Login
+2018-01-31 12:31:15,311 INFO  -       Good login
+2018-01-31 12:31:15,311 INFO  -       " "
+2018-01-31 12:31:15,311 INFO  -       Failed
+2018-01-31 12:31:15,312 INFO  - ---------
+2018-01-31 12:31:15,312 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 12:31:15,441 INFO  -       
+2018-01-31 12:31:15,442 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-01-31 12:31:15,442 INFO  -       
+2018-01-31 12:31:15,442 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-01-31 12:31:15,442 INFO  -       
+2018-01-31 12:31:15,442 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-01-31 12:31:15,443 INFO  -       
+2018-01-31 12:31:15,443 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Good login" 
+2018-01-31 12:31:15,443 INFO  -       
+2018-01-31 12:31:15,443 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-01-31 12:31:15,443 INFO  -       
+2018-01-31 12:31:15,444 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Failed 
+2018-01-31 12:31:15,444 INFO  -       
+2018-01-31 12:31:15,444 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Good login" " " Failed 
+2018-01-31 14:39:19,455 INFO  - Enter setUp()
+2018-01-31 14:39:19,462 INFO  - 
+
+
+2018-01-31 14:39:19,462 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 14:39:19,462 INFO  - |                                                                                       |
+2018-01-31 14:39:19,462 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 14:39:19,462 INFO  - |                                                                                       |
+2018-01-31 14:39:19,462 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 14:39:19,463 INFO  - Get project & test names and results
+2018-01-31 14:39:19,463 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 14:39:22,463 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+
+Login,Bad Login," ",Passed,
+Login,Good login," ",Passed,
+Login,HTTPS," ",Passed,
+Login,Login Screen," ",Passed,
+Login,Login with long Location fields," ",Passed,
+Login,Login with long name user," ",Passed,
+Login,Several Admins," ",Passed,
+Login,timeout," ",Passed,
+2018-01-31 14:39:22,463 INFO  -       Split the data and return
+2018-01-31 14:39:22,463 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 14:39:22,463 INFO  -    Get data for command line
+2018-01-31 14:41:27,101 INFO  - Enter setUp()
+2018-01-31 14:41:27,107 INFO  - 
+
+
+2018-01-31 14:41:27,107 INFO  - +---------------------------------------------------------------------------------------+
+2018-01-31 14:41:27,107 INFO  - |                                                                                       |
+2018-01-31 14:41:27,107 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-01-31 14:41:27,107 INFO  - |                                                                                       |
+2018-01-31 14:41:27,107 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-01-31 14:41:27,107 INFO  - Get project & test names and results
+2018-01-31 14:41:27,107 INFO  -       Read tests file from C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.txt>
+2018-01-31 14:41:30,108 INFO  -       content - OVOC IPP Manager 7.4.2000/Regression/,
+Login,Bad Login," ",Passed,
+Login,Good login," ",Passed,
+Login,HTTPS," ",Passed,
+Login,Login Screen," ",Passed,
+Login,Login with long Location fields," ",Passed,
+Login,Login with long name user," ",Passed,
+Login,Several Admins," ",Passed,
+Login,timeout," ",Passed,
+2018-01-31 14:41:30,108 INFO  -       Split the data and return
+2018-01-31 14:41:30,109 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 14:41:30,109 INFO  -    Get data for command line
+2018-01-31 14:41:30,109 INFO  - ---------
+2018-01-31 14:41:30,110 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 14:41:30,110 INFO  -       Login
+2018-01-31 14:41:30,110 INFO  -       Bad Login
+2018-01-31 14:41:30,110 INFO  -       " "
+2018-01-31 14:41:30,110 INFO  -       Passed
+2018-01-31 14:41:30,111 INFO  - ---------
+2018-01-31 14:41:30,111 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 14:41:30,355 INFO  -       
+2018-01-31 14:41:30,355 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-01-31 14:41:30,355 INFO  -       
+2018-01-31 14:41:30,356 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-01-31 14:41:30,356 INFO  -       
+2018-01-31 14:41:30,356 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-01-31 14:41:30,356 INFO  -       
+2018-01-31 14:41:30,356 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Bad Login" 
+2018-01-31 14:41:30,356 INFO  -       
+2018-01-31 14:41:30,357 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-01-31 14:41:30,357 INFO  -       
+2018-01-31 14:41:30,357 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-01-31 14:41:30,357 INFO  -       
+2018-01-31 14:41:30,357 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Bad Login" " " Passed 
+2018-01-31 14:41:30,525 INFO  -    Get data for command line
+2018-01-31 14:41:30,525 INFO  - ---------
+2018-01-31 14:41:30,525 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 14:41:30,526 INFO  -       Login
+2018-01-31 14:41:30,526 INFO  -       Good login
+2018-01-31 14:41:30,526 INFO  -       " "
+2018-01-31 14:41:30,526 INFO  -       Passed
+2018-01-31 14:41:30,526 INFO  - ---------
+2018-01-31 14:41:30,526 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 14:41:30,605 INFO  -       
+2018-01-31 14:41:30,605 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-01-31 14:41:30,605 INFO  -       
+2018-01-31 14:41:30,606 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-01-31 14:41:30,606 INFO  -       
+2018-01-31 14:41:30,606 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-01-31 14:41:30,606 INFO  -       
+2018-01-31 14:41:30,607 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Good login" 
+2018-01-31 14:41:30,607 INFO  -       
+2018-01-31 14:41:30,607 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-01-31 14:41:30,607 INFO  -       
+2018-01-31 14:41:30,607 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-01-31 14:41:30,607 INFO  -       
+2018-01-31 14:41:30,607 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Good login" " " Passed 
+2018-01-31 14:41:30,675 INFO  -    Get data for command line
+2018-01-31 14:41:30,676 INFO  - ---------
+2018-01-31 14:41:30,676 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 14:41:30,676 INFO  -       Login
+2018-01-31 14:41:30,676 INFO  -       HTTPS
+2018-01-31 14:41:30,676 INFO  -       " "
+2018-01-31 14:41:30,676 INFO  -       Passed
+2018-01-31 14:41:30,676 INFO  - ---------
+2018-01-31 14:41:30,676 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 14:41:30,750 INFO  -       
+2018-01-31 14:41:30,750 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-01-31 14:41:30,750 INFO  -       
+2018-01-31 14:41:30,750 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-01-31 14:41:30,750 INFO  -       
+2018-01-31 14:41:30,750 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-01-31 14:41:30,750 INFO  -       
+2018-01-31 14:41:30,750 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME=HTTPS 
+2018-01-31 14:41:30,750 INFO  -       
+2018-01-31 14:41:30,751 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-01-31 14:41:30,751 INFO  -       
+2018-01-31 14:41:30,751 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-01-31 14:41:30,751 INFO  -       
+2018-01-31 14:41:30,751 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" HTTPS " " Passed 
+2018-01-31 14:41:30,825 INFO  -    Get data for command line
+2018-01-31 14:41:30,825 INFO  - ---------
+2018-01-31 14:41:30,825 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 14:41:30,825 INFO  -       Login
+2018-01-31 14:41:30,825 INFO  -       Login Screen
+2018-01-31 14:41:30,825 INFO  -       " "
+2018-01-31 14:41:30,825 INFO  -       Passed
+2018-01-31 14:41:30,825 INFO  - ---------
+2018-01-31 14:41:30,825 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 14:41:30,895 INFO  -       
+2018-01-31 14:41:30,895 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-01-31 14:41:30,895 INFO  -       
+2018-01-31 14:41:30,895 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-01-31 14:41:30,895 INFO  -       
+2018-01-31 14:41:30,895 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-01-31 14:41:30,895 INFO  -       
+2018-01-31 14:41:30,895 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Login Screen" 
+2018-01-31 14:41:30,895 INFO  -       
+2018-01-31 14:41:30,896 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-01-31 14:41:30,896 INFO  -       
+2018-01-31 14:41:30,896 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-01-31 14:41:30,896 INFO  -       
+2018-01-31 14:41:30,896 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Login Screen" " " Passed 
+2018-01-31 14:41:30,967 INFO  -    Get data for command line
+2018-01-31 14:41:30,967 INFO  - ---------
+2018-01-31 14:41:30,967 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 14:41:30,967 INFO  -       Login
+2018-01-31 14:41:30,967 INFO  -       Login with long Location fields
+2018-01-31 14:41:30,967 INFO  -       " "
+2018-01-31 14:41:30,967 INFO  -       Passed
+2018-01-31 14:41:30,967 INFO  - ---------
+2018-01-31 14:41:30,967 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 14:41:31,054 INFO  -       
+2018-01-31 14:41:31,054 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-01-31 14:41:31,054 INFO  -       
+2018-01-31 14:41:31,054 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-01-31 14:41:31,054 INFO  -       
+2018-01-31 14:41:31,054 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-01-31 14:41:31,054 INFO  -       
+2018-01-31 14:41:31,054 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Login with long Location fields" 
+2018-01-31 14:41:31,055 INFO  -       
+2018-01-31 14:41:31,055 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-01-31 14:41:31,055 INFO  -       
+2018-01-31 14:41:31,055 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-01-31 14:41:31,055 INFO  -       
+2018-01-31 14:41:31,055 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Login with long Location fields" " " Passed 
+2018-01-31 14:41:31,126 INFO  -    Get data for command line
+2018-01-31 14:41:31,126 INFO  - ---------
+2018-01-31 14:41:31,126 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 14:41:31,126 INFO  -       Login
+2018-01-31 14:41:31,126 INFO  -       Login with long name user
+2018-01-31 14:41:31,126 INFO  -       " "
+2018-01-31 14:41:31,126 INFO  -       Passed
+2018-01-31 14:41:31,126 INFO  - ---------
+2018-01-31 14:41:31,126 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 14:41:31,197 INFO  -       
+2018-01-31 14:41:31,197 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-01-31 14:41:31,197 INFO  -       
+2018-01-31 14:41:31,197 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-01-31 14:41:31,197 INFO  -       
+2018-01-31 14:41:31,197 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-01-31 14:41:31,198 INFO  -       
+2018-01-31 14:41:31,198 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Login with long name user" 
+2018-01-31 14:41:31,198 INFO  -       
+2018-01-31 14:41:31,198 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-01-31 14:41:31,198 INFO  -       
+2018-01-31 14:41:31,198 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-01-31 14:41:31,198 INFO  -       
+2018-01-31 14:41:31,198 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Login with long name user" " " Passed 
+2018-01-31 14:41:31,286 INFO  -    Get data for command line
+2018-01-31 14:41:31,286 INFO  - ---------
+2018-01-31 14:41:31,286 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 14:41:31,286 INFO  -       Login
+2018-01-31 14:41:31,286 INFO  -       Several Admins
+2018-01-31 14:41:31,286 INFO  -       " "
+2018-01-31 14:41:31,286 INFO  -       Passed
+2018-01-31 14:41:31,286 INFO  - ---------
+2018-01-31 14:41:31,287 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 14:41:31,356 INFO  -       
+2018-01-31 14:41:31,356 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-01-31 14:41:31,356 INFO  -       
+2018-01-31 14:41:31,356 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-01-31 14:41:31,356 INFO  -       
+2018-01-31 14:41:31,356 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-01-31 14:41:31,356 INFO  -       
+2018-01-31 14:41:31,356 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Several Admins" 
+2018-01-31 14:41:31,356 INFO  -       
+2018-01-31 14:41:31,356 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-01-31 14:41:31,356 INFO  -       
+2018-01-31 14:41:31,356 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-01-31 14:41:31,357 INFO  -       
+2018-01-31 14:41:31,357 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Several Admins" " " Passed 
+2018-01-31 14:41:31,433 INFO  -    Get data for command line
+2018-01-31 14:41:31,433 INFO  - ---------
+2018-01-31 14:41:31,433 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-01-31 14:41:31,433 INFO  -       Login
+2018-01-31 14:41:31,433 INFO  -       timeout
+2018-01-31 14:41:31,433 INFO  -       " "
+2018-01-31 14:41:31,433 INFO  -       Passed
+2018-01-31 14:41:31,433 INFO  - ---------
+2018-01-31 14:41:31,433 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-01-31 14:41:31,503 INFO  -       
+2018-01-31 14:41:31,503 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-01-31 14:41:31,503 INFO  -       
+2018-01-31 14:41:31,503 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-01-31 14:41:31,503 INFO  -       
+2018-01-31 14:41:31,503 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-01-31 14:41:31,503 INFO  -       
+2018-01-31 14:41:31,503 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME=timeout 
+2018-01-31 14:41:31,503 INFO  -       
+2018-01-31 14:41:31,503 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-01-31 14:41:31,504 INFO  -       
+2018-01-31 14:41:31,504 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-01-31 14:41:31,504 INFO  -       
+2018-01-31 14:41:31,504 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" timeout " " Passed 
