@@ -1,8 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tests projectPath="OVOC IPP Manager 7.4.2000/Regression/">
   <section secName="After Registration">
-    <test testName="Device status options" testMark="" testResult="Passed"></title>
-	<test testName="Device status options #138157" testMark="" testResult="Passed"></title>
-	<test testName="Manage Multiple Devices" testMark="" testResult="Passed"></title>
+      <test testName="Device status options" 		    testMark=" " testResult="Passed"></test>
+	  <test testName="Device status options #138157"    testMark=" " testResult="Passed"></test>
+      <test testName="Manage Multiple Devices" 		    testMark=" " testResult="Passed"></test>
+      <test testName="Manage Multiple Devices" 		    testMark=" " testResult="Passed"></test>
+      <test testName="Manage Multiple Users" 		    testMark=" " testResult="Passed"></test>
+      <test testName="Manage Multiple Users" 		    testMark=" " testResult="Passed"></test>
+      <test testName="Manage users" 				    testMark=" " testResult="Passed"></test>
+      <test testName="Manage users" 				    testMark=" " testResult="Passed"></test>
   </section>
+  <section secName="Dashboard">
+	  <test testName="Alarms export" 				    testMark=" " testResult="Passed"></test>
+	  <test testName="Alarms page" 				  	  	testMark=" " testResult="Passed"></test>
+	  <test testName="Change region" 				  	testMark=" " testResult="Passed"></test>
+	  <test testName="Check status" 				  	testMark=" " testResult="Passed"></test>
+	  <test testName="Dashboard screen" 			  	testMark=" " testResult="Passed"></test>
+	  <test testName="Delete" 				  		  	testMark=" " testResult="Passed"></test>
+	  <test testName="Devices Status screen #137998"  	testMark=" " testResult="Passed"></test>
+	  <test testName="Devices Status search" 		  	testMark=" " testResult="Passed"></test>
+	  <test testName="Open web admin" 				  	testMark=" " testResult="Passed"></test>
+	  <test testName="Reset phone" 				  	  	testMark=" " testResult="Passed"></test>
+	  <test testName="Send message" 				  	testMark=" " testResult="Passed"></test>
+	  <test testName="Telnet" 				  		  	testMark=" " testResult="Passed"></test>
+	  <test testName="Update configuration" 		  	testMark=" " testResult="Passed"></test>
+	  <test testName="Update Firmware" 				  	testMark=" " testResult="Passed"></test>
+  </section>
+  <section secName="Login">
+  	  <test testName="Bad Login" 				  	  	testMark=" " testResult="Passed"></test>
+	  <test testName="Good login" 				  	  	testMark=" " testResult="Passed"></test>
+  	  <test testName="HTTPS" 				  		  	testMark=" " testResult="Passed"></test>
+  	  <test testName="Login Screen" 				  	testMark=" " testResult="Passed"></test>
+  	  <test testName="Login with long Location fields"  testMark=" " testResult="Passed"></test>
+  	  <test testName="Login with long name user" 	    testMark=" " testResult="Passed"></test>
+  	  <test testName="Several Admins" 				    testMark=" " testResult="Passed"></test>
+	  <test testName="timeout" 				    		testMark=" " testResult="Passed"></test>  
+  </section>
+  <section secName="Non Lync">
+  	  <test testName="Device status options" 	    			 testMark=" " testResult="Passed"></test>
+	  <test testName="Device status options" 	    			 testMark=" " testResult="Passed"></test>
+	  <test testName="Device status options" 	    			 testMark=" " testResult="Passed"></test>
+	  <test testName="Login to import user" 	    			 testMark=" " testResult="Passed"></test>
+	  <test testName="Manage Multiple Devices" 	    			 testMark=" " testResult="Passed"></test>
+	  <test testName="Manage Multiple Devices" 	    			 testMark=" " testResult="Passed"></test>
+	  <test testName="Manage Multiple Devices" 	    			 testMark=" " testResult="Passed"></test>
+	  <test testName="Manage Multiple Users" 	    			 testMark=" " testResult="Passed"></test>
+	  <test testName="Manage Multiple Users" 	    			 testMark=" " testResult="Passed"></test>
+	  <test testName="Manage Multiple Users" 	    			 testMark=" " testResult="Passed"></test>
+	  <test testName="Manage users" 	    					 testMark=" " testResult="Passed"></test>
+	  <test testName="Manage users" 	    					 testMark=" " testResult="Passed"></test>
+	  <test testName="Manage users" 	    					 testMark=" " testResult="Passed"></test>
+	  <test testName="Pre condition - Adding users via approve"  testMark=" " testResult="Passed"></test>
+	  <test testName="Pre condition - Zero touch - region url" 	 testMark=" " testResult="Passed"></test>
+	  <test testName="Pre condition - Zero touch - sbc url" 	 testMark=" " testResult="Passed"></test>
+  </section>
+    <section secName="System Diagnostics">
+  	  <test testName="Log level" 	    				testMark=" " testResult="Passed"></test>
+  	  <test testName="Logs rotate" 				    	testMark=" " testResult="Passed"></test>
+	  <test testName="System Logs" 				    	testMark=" " testResult="Passed"></test>  
+  </section>
+  
+  
+  
+  
+  
+  
+  
+  
 </tests>
+
+
+
+
+
