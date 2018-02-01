@@ -1782,3 +1782,739 @@ Login,timeout," ",Passed,
 2018-01-31 14:41:31,504 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
 2018-01-31 14:41:31,504 INFO  -       
 2018-01-31 14:41:31,504 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" timeout " " Passed 
+2018-02-01 10:28:29,477 INFO  - Enter setUp()
+2018-02-01 12:05:01,497 INFO  - Enter setUp()
+2018-02-01 12:05:01,503 INFO  - 
+
+
+2018-02-01 12:05:01,503 INFO  - +---------------------------------------------------------------------------------------+
+2018-02-01 12:05:01,503 INFO  - |                                                                                       |
+2018-02-01 12:05:01,503 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-02-01 12:05:01,503 INFO  - |                                                                                       |
+2018-02-01 12:05:01,503 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-02-01 12:05:01,503 INFO  - Run on all the xml-tests-file and send tests for the command line
+2018-02-01 12:05:01,503 INFO  -       testsInpFile - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.xml
+2018-02-01 12:05:01,506 INFO  -       Get project path
+2018-02-01 12:05:01,506 INFO  -       projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:05:01,506 INFO  -       secElementName - After Registration
+2018-02-01 12:05:01,506 INFO  -       Get data for the current test
+2018-02-01 12:05:01,506 INFO  -       testName - Device status options
+2018-02-01 12:05:01,506 INFO  -       testMark - 
+2018-02-01 12:05:01,507 INFO  -       testResult - Passed
+2018-02-01 12:05:01,507 INFO  -    Call function for activate the ACL
+2018-02-01 12:05:01,507 INFO  -       Get data for the current test
+2018-02-01 12:05:01,507 INFO  -       testName - Device status options #138157
+2018-02-01 12:05:01,507 INFO  -       testMark - 
+2018-02-01 12:05:01,507 INFO  -       testResult - Passed
+2018-02-01 12:05:01,507 INFO  -    Call function for activate the ACL
+2018-02-01 12:05:01,507 INFO  -       Get data for the current test
+2018-02-01 12:05:01,507 INFO  -       testName - Manage Multiple Devices
+2018-02-01 12:05:01,507 INFO  -       testMark - 
+2018-02-01 12:05:01,507 INFO  -       testResult - Passed
+2018-02-01 12:05:01,507 INFO  -    Call function for activate the ACL
+2018-02-01 12:05:01,507 INFO  -       secElementName - Login
+2018-02-01 12:05:01,507 INFO  -       Get data for the current test
+2018-02-01 12:05:01,507 INFO  -       testName - Good login
+2018-02-01 12:05:01,507 INFO  -       testMark - 
+2018-02-01 12:05:01,507 INFO  -       testResult - Passed
+2018-02-01 12:05:01,507 INFO  -    Call function for activate the ACL
+2018-02-01 12:05:01,507 INFO  -       Get data for the current test
+2018-02-01 12:05:01,507 INFO  -       testName - Bad Login
+2018-02-01 12:05:01,507 INFO  -       testMark - 
+2018-02-01 12:05:01,507 INFO  -       testResult - Passed
+2018-02-01 12:05:01,508 INFO  -    Call function for activate the ACL
+2018-02-01 12:17:20,493 INFO  - Enter setUp()
+2018-02-01 12:17:20,498 INFO  - 
+
+
+2018-02-01 12:17:20,498 INFO  - +---------------------------------------------------------------------------------------+
+2018-02-01 12:17:20,498 INFO  - |                                                                                       |
+2018-02-01 12:17:20,498 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-02-01 12:17:20,499 INFO  - |                                                                                       |
+2018-02-01 12:17:20,499 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-02-01 12:17:20,499 INFO  - Run on all the xml-tests-file and send tests for the command line
+2018-02-01 12:17:20,499 INFO  -       testsInpFile - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.xml
+2018-02-01 12:17:20,501 INFO  -       Get project path
+2018-02-01 12:17:20,502 INFO  -    projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:17:20,502 INFO  -    secElementName - After Registration
+2018-02-01 12:17:20,502 INFO  -       Get data for the current test
+2018-02-01 12:17:20,503 INFO  -          testName - Device status options
+2018-02-01 12:17:20,503 INFO  -          testMark - 
+2018-02-01 12:17:20,503 INFO  -          testResult - Passed
+2018-02-01 12:17:20,503 INFO  -    Call function for activate the ACL
+2018-02-01 12:17:20,503 INFO  -       Get data for the current test
+2018-02-01 12:17:20,503 INFO  -          testName - ,Device status options #138157
+2018-02-01 12:17:20,503 INFO  -          testMark - 
+2018-02-01 12:17:20,503 INFO  -          testResult - Passed
+2018-02-01 12:17:20,503 INFO  -    Call function for activate the ACL
+2018-02-01 12:17:20,503 INFO  -       Get data for the current test
+2018-02-01 12:17:20,503 INFO  -          testName - Manage Multiple Devices
+2018-02-01 12:17:20,503 INFO  -          testMark - 
+2018-02-01 12:17:20,503 INFO  -          testResult - Passed
+2018-02-01 12:17:20,503 INFO  -    Call function for activate the ACL
+2018-02-01 12:17:20,503 INFO  -       Get data for the current test
+2018-02-01 12:17:20,503 INFO  -          testName - Manage Multiple Devices
+2018-02-01 12:17:20,503 INFO  -          testMark - 
+2018-02-01 12:17:20,503 INFO  -          testResult - Passed
+2018-02-01 12:17:20,504 INFO  -    Call function for activate the ACL
+2018-02-01 12:17:20,504 INFO  -       Get data for the current test
+2018-02-01 12:17:20,504 INFO  -          testName - Manage Multiple Users
+2018-02-01 12:17:20,504 INFO  -          testMark - 
+2018-02-01 12:17:20,504 INFO  -          testResult - Passed
+2018-02-01 12:17:20,504 INFO  -    Call function for activate the ACL
+2018-02-01 12:17:20,504 INFO  -       Get data for the current test
+2018-02-01 12:17:20,504 INFO  -          testName - Manage Multiple Users
+2018-02-01 12:17:20,504 INFO  -          testMark - 
+2018-02-01 12:17:20,504 INFO  -          testResult - Passed
+2018-02-01 12:17:20,504 INFO  -    Call function for activate the ACL
+2018-02-01 12:17:20,504 INFO  -       Get data for the current test
+2018-02-01 12:17:20,504 INFO  -          testName - Manage users
+2018-02-01 12:17:20,504 INFO  -          testMark - 
+2018-02-01 12:17:20,504 INFO  -          testResult - Passed
+2018-02-01 12:17:20,504 INFO  -    Call function for activate the ACL
+2018-02-01 12:17:20,504 INFO  -       Get data for the current test
+2018-02-01 12:17:20,504 INFO  -          testName - Manage users
+2018-02-01 12:17:20,504 INFO  -          testMark - 
+2018-02-01 12:17:20,504 INFO  -          testResult - Passed
+2018-02-01 12:17:20,504 INFO  -    Call function for activate the ACL
+2018-02-01 12:17:20,505 INFO  -    secElementName - Login
+2018-02-01 12:36:53,315 INFO  - Enter setUp()
+2018-02-01 12:36:53,321 INFO  - 
+
+
+2018-02-01 12:36:53,321 INFO  - +---------------------------------------------------------------------------------------+
+2018-02-01 12:36:53,321 INFO  - |                                                                                       |
+2018-02-01 12:36:53,321 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-02-01 12:36:53,322 INFO  - |                                                                                       |
+2018-02-01 12:36:53,322 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-02-01 12:36:53,322 INFO  - Run on all the xml-tests-file and send tests for the command line
+2018-02-01 12:36:53,322 INFO  -       testsInpFile - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.xml
+2018-02-01 12:36:53,324 INFO  -       Get project path
+2018-02-01 12:36:53,325 INFO  -    projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:36:53,325 INFO  -    secElementName - Login
+2018-02-01 12:36:53,325 INFO  -       Get data for the current test
+2018-02-01 12:36:53,325 INFO  -          testName - Bad Login
+2018-02-01 12:36:53,326 INFO  -          testMark - 
+2018-02-01 12:36:53,326 INFO  -          testResult - Passed
+2018-02-01 12:36:53,326 INFO  -    Call function for activate the ACL
+2018-02-01 12:36:53,326 INFO  -    Get data for command line
+2018-02-01 12:36:53,326 INFO  - ---------
+2018-02-01 12:36:53,326 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:36:53,326 INFO  -       Login
+2018-02-01 12:36:53,326 INFO  -       Bad Login
+2018-02-01 12:36:53,326 INFO  -       
+2018-02-01 12:36:53,326 INFO  -       Passed
+2018-02-01 12:36:53,326 INFO  - ---------
+2018-02-01 12:36:53,326 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:36:53,419 INFO  -       
+2018-02-01 12:36:53,419 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:36:53,419 INFO  -       
+2018-02-01 12:36:53,419 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:36:53,419 INFO  -       
+2018-02-01 12:36:53,419 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:36:53,419 INFO  -       
+2018-02-01 12:36:53,419 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Bad Login" 
+2018-02-01 12:36:53,420 INFO  -       
+2018-02-01 12:36:53,420 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=Passed 
+2018-02-01 12:36:53,420 INFO  -       
+2018-02-01 12:36:53,420 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED= 
+2018-02-01 12:36:53,420 INFO  -       
+2018-02-01 12:36:53,420 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Bad Login" Passed  
+2018-02-01 12:36:55,527 INFO  -       Get data for the current test
+2018-02-01 12:36:55,527 INFO  -          testName - Good login
+2018-02-01 12:36:55,527 INFO  -          testMark - 
+2018-02-01 12:36:55,527 INFO  -          testResult - Passed
+2018-02-01 12:36:55,527 INFO  -    Call function for activate the ACL
+2018-02-01 12:36:55,527 INFO  -    Get data for command line
+2018-02-01 12:36:55,528 INFO  - ---------
+2018-02-01 12:36:55,528 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:36:55,528 INFO  -       Login
+2018-02-01 12:36:55,528 INFO  -       Good login
+2018-02-01 12:36:55,528 INFO  -       
+2018-02-01 12:36:55,528 INFO  -       Passed
+2018-02-01 12:36:55,528 INFO  - ---------
+2018-02-01 12:36:55,528 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:36:55,570 INFO  -       
+2018-02-01 12:36:55,571 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:36:55,571 INFO  -       
+2018-02-01 12:36:55,571 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:36:55,571 INFO  -       
+2018-02-01 12:36:55,571 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:36:55,571 INFO  -       
+2018-02-01 12:36:55,571 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Good login" 
+2018-02-01 12:36:55,571 INFO  -       
+2018-02-01 12:36:55,571 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=Passed 
+2018-02-01 12:36:55,571 INFO  -       
+2018-02-01 12:36:55,571 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED= 
+2018-02-01 12:36:55,571 INFO  -       
+2018-02-01 12:36:55,571 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Good login" Passed  
+2018-02-01 12:36:57,650 INFO  -       Get data for the current test
+2018-02-01 12:36:57,650 INFO  -          testName - HTTPS
+2018-02-01 12:36:57,650 INFO  -          testMark - 
+2018-02-01 12:36:57,650 INFO  -          testResult - Passed
+2018-02-01 12:36:57,650 INFO  -    Call function for activate the ACL
+2018-02-01 12:36:57,650 INFO  -    Get data for command line
+2018-02-01 12:36:57,650 INFO  - ---------
+2018-02-01 12:36:57,650 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:36:57,650 INFO  -       Login
+2018-02-01 12:36:57,650 INFO  -       HTTPS
+2018-02-01 12:36:57,650 INFO  -       
+2018-02-01 12:36:57,650 INFO  -       Passed
+2018-02-01 12:36:57,650 INFO  - ---------
+2018-02-01 12:36:57,650 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:36:57,686 INFO  -       
+2018-02-01 12:36:57,686 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:36:57,686 INFO  -       
+2018-02-01 12:36:57,686 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:36:57,686 INFO  -       
+2018-02-01 12:36:57,687 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:36:57,687 INFO  -       
+2018-02-01 12:36:57,687 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME=HTTPS 
+2018-02-01 12:36:57,687 INFO  -       
+2018-02-01 12:36:57,687 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=Passed 
+2018-02-01 12:36:57,687 INFO  -       
+2018-02-01 12:36:57,687 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED= 
+2018-02-01 12:36:57,687 INFO  -       
+2018-02-01 12:36:57,687 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" HTTPS Passed  
+2018-02-01 12:36:59,762 INFO  -       Get data for the current test
+2018-02-01 12:36:59,762 INFO  -          testName - Login Screen
+2018-02-01 12:36:59,762 INFO  -          testMark - 
+2018-02-01 12:36:59,763 INFO  -          testResult - Passed
+2018-02-01 12:36:59,763 INFO  -    Call function for activate the ACL
+2018-02-01 12:36:59,763 INFO  -    Get data for command line
+2018-02-01 12:36:59,763 INFO  - ---------
+2018-02-01 12:36:59,763 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:36:59,763 INFO  -       Login
+2018-02-01 12:36:59,764 INFO  -       Login Screen
+2018-02-01 12:36:59,764 INFO  -       
+2018-02-01 12:36:59,764 INFO  -       Passed
+2018-02-01 12:36:59,764 INFO  - ---------
+2018-02-01 12:36:59,765 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:36:59,817 INFO  -       
+2018-02-01 12:36:59,818 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:36:59,818 INFO  -       
+2018-02-01 12:36:59,818 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:36:59,818 INFO  -       
+2018-02-01 12:36:59,818 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:36:59,818 INFO  -       
+2018-02-01 12:36:59,818 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Login Screen" 
+2018-02-01 12:36:59,818 INFO  -       
+2018-02-01 12:36:59,818 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=Passed 
+2018-02-01 12:36:59,818 INFO  -       
+2018-02-01 12:36:59,818 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED= 
+2018-02-01 12:36:59,818 INFO  -       
+2018-02-01 12:36:59,818 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Login Screen" Passed  
+2018-02-01 12:37:01,892 INFO  -       Get data for the current test
+2018-02-01 12:37:01,892 INFO  -          testName - Login with long Location fields
+2018-02-01 12:37:01,893 INFO  -          testMark - 
+2018-02-01 12:37:01,893 INFO  -          testResult - Passed
+2018-02-01 12:37:01,893 INFO  -    Call function for activate the ACL
+2018-02-01 12:37:01,893 INFO  -    Get data for command line
+2018-02-01 12:37:01,894 INFO  - ---------
+2018-02-01 12:37:01,894 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:37:01,894 INFO  -       Login
+2018-02-01 12:37:01,894 INFO  -       Login with long Location fields
+2018-02-01 12:37:01,894 INFO  -       
+2018-02-01 12:37:01,894 INFO  -       Passed
+2018-02-01 12:37:01,894 INFO  - ---------
+2018-02-01 12:37:01,895 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:37:01,962 INFO  -       
+2018-02-01 12:37:01,962 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:37:01,962 INFO  -       
+2018-02-01 12:37:01,962 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:37:01,962 INFO  -       
+2018-02-01 12:37:01,963 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:37:01,963 INFO  -       
+2018-02-01 12:37:01,963 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Login with long Location fields" 
+2018-02-01 12:37:01,963 INFO  -       
+2018-02-01 12:37:01,963 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=Passed 
+2018-02-01 12:37:01,963 INFO  -       
+2018-02-01 12:37:01,963 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED= 
+2018-02-01 12:37:01,964 INFO  -       
+2018-02-01 12:37:01,964 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Login with long Location fields" Passed  
+2018-02-01 12:37:04,068 INFO  -       Get data for the current test
+2018-02-01 12:37:04,068 INFO  -          testName - Login with long name user
+2018-02-01 12:37:04,068 INFO  -          testMark - 
+2018-02-01 12:37:04,068 INFO  -          testResult - Passed
+2018-02-01 12:37:04,069 INFO  -    Call function for activate the ACL
+2018-02-01 12:37:04,069 INFO  -    Get data for command line
+2018-02-01 12:37:04,069 INFO  - ---------
+2018-02-01 12:37:04,069 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:37:04,069 INFO  -       Login
+2018-02-01 12:37:04,069 INFO  -       Login with long name user
+2018-02-01 12:37:04,069 INFO  -       
+2018-02-01 12:37:04,070 INFO  -       Passed
+2018-02-01 12:37:04,070 INFO  - ---------
+2018-02-01 12:37:04,070 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:37:04,133 INFO  -       
+2018-02-01 12:37:04,133 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:37:04,133 INFO  -       
+2018-02-01 12:37:04,133 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:37:04,133 INFO  -       
+2018-02-01 12:37:04,133 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:37:04,133 INFO  -       
+2018-02-01 12:37:04,133 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Login with long name user" 
+2018-02-01 12:37:04,134 INFO  -       
+2018-02-01 12:37:04,134 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=Passed 
+2018-02-01 12:37:04,134 INFO  -       
+2018-02-01 12:37:04,134 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED= 
+2018-02-01 12:37:04,134 INFO  -       
+2018-02-01 12:37:04,134 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Login with long name user" Passed  
+2018-02-01 12:37:06,204 INFO  -       Get data for the current test
+2018-02-01 12:37:06,204 INFO  -          testName - Several Admins
+2018-02-01 12:37:06,204 INFO  -          testMark - 
+2018-02-01 12:37:06,204 INFO  -          testResult - Passed
+2018-02-01 12:37:06,204 INFO  -    Call function for activate the ACL
+2018-02-01 12:37:06,205 INFO  -    Get data for command line
+2018-02-01 12:37:06,205 INFO  - ---------
+2018-02-01 12:37:06,205 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:37:06,205 INFO  -       Login
+2018-02-01 12:37:06,205 INFO  -       Several Admins
+2018-02-01 12:37:06,205 INFO  -       
+2018-02-01 12:37:06,205 INFO  -       Passed
+2018-02-01 12:37:06,206 INFO  - ---------
+2018-02-01 12:37:06,206 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:37:06,269 INFO  -       
+2018-02-01 12:37:06,270 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:37:06,270 INFO  -       
+2018-02-01 12:37:06,270 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:37:06,270 INFO  -       
+2018-02-01 12:37:06,270 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:37:06,270 INFO  -       
+2018-02-01 12:37:06,270 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Several Admins" 
+2018-02-01 12:37:06,270 INFO  -       
+2018-02-01 12:37:06,270 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=Passed 
+2018-02-01 12:37:06,270 INFO  -       
+2018-02-01 12:37:06,270 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED= 
+2018-02-01 12:37:06,270 INFO  -       
+2018-02-01 12:37:06,270 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Several Admins" Passed  
+2018-02-01 12:37:46,340 INFO  - Enter setUp()
+2018-02-01 12:37:46,344 INFO  - 
+
+
+2018-02-01 12:37:46,345 INFO  - +---------------------------------------------------------------------------------------+
+2018-02-01 12:37:46,345 INFO  - |                                                                                       |
+2018-02-01 12:37:46,345 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-02-01 12:37:46,345 INFO  - |                                                                                       |
+2018-02-01 12:37:46,345 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-02-01 12:37:46,345 INFO  - Run on all the xml-tests-file and send tests for the command line
+2018-02-01 12:37:46,345 INFO  -       testsInpFile - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.xml
+2018-02-01 12:37:46,347 INFO  -       Get project path
+2018-02-01 12:37:46,347 INFO  -    projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:37:46,348 INFO  -    secElementName - Login
+2018-02-01 12:37:46,348 INFO  -       Get data for the current test
+2018-02-01 12:37:46,348 INFO  -          testName - Bad Login
+2018-02-01 12:37:46,348 INFO  -          testMark - 
+2018-02-01 12:37:46,348 INFO  -          testResult - Failed
+2018-02-01 12:37:46,348 INFO  -    Call function for activate the ACL
+2018-02-01 12:37:46,348 INFO  -    Get data for command line
+2018-02-01 12:37:46,348 INFO  - ---------
+2018-02-01 12:37:46,348 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:37:46,348 INFO  -       Login
+2018-02-01 12:37:46,349 INFO  -       Bad Login
+2018-02-01 12:37:46,349 INFO  -       
+2018-02-01 12:37:46,349 INFO  -       Failed
+2018-02-01 12:37:46,349 INFO  - ---------
+2018-02-01 12:37:46,349 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:37:46,388 INFO  -       
+2018-02-01 12:37:46,388 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:37:46,388 INFO  -       
+2018-02-01 12:37:46,388 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:37:46,388 INFO  -       
+2018-02-01 12:37:46,388 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:37:46,388 INFO  -       
+2018-02-01 12:37:46,388 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Bad Login" 
+2018-02-01 12:37:46,388 INFO  -       
+2018-02-01 12:37:46,388 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=Failed 
+2018-02-01 12:37:46,389 INFO  -       
+2018-02-01 12:37:46,389 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED= 
+2018-02-01 12:37:46,389 INFO  -       
+2018-02-01 12:37:46,389 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Bad Login" Failed  
+2018-02-01 12:37:47,461 INFO  -       Get data for the current test
+2018-02-01 12:37:47,461 INFO  -          testName - Good login
+2018-02-01 12:37:47,462 INFO  -          testMark - 
+2018-02-01 12:37:47,462 INFO  -          testResult - Failed
+2018-02-01 12:37:47,462 INFO  -    Call function for activate the ACL
+2018-02-01 12:37:47,462 INFO  -    Get data for command line
+2018-02-01 12:37:47,466 INFO  - ---------
+2018-02-01 12:37:47,466 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:37:47,466 INFO  -       Login
+2018-02-01 12:37:47,467 INFO  -       Good login
+2018-02-01 12:37:47,467 INFO  -       
+2018-02-01 12:37:47,467 INFO  -       Failed
+2018-02-01 12:37:47,467 INFO  - ---------
+2018-02-01 12:37:47,467 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:37:47,550 INFO  -       
+2018-02-01 12:37:47,550 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:37:47,550 INFO  -       
+2018-02-01 12:37:47,550 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:37:47,551 INFO  -       
+2018-02-01 12:37:47,551 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:37:47,551 INFO  -       
+2018-02-01 12:37:47,551 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Good login" 
+2018-02-01 12:37:47,551 INFO  -       
+2018-02-01 12:37:47,551 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=Failed 
+2018-02-01 12:37:47,552 INFO  -       
+2018-02-01 12:37:47,552 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED= 
+2018-02-01 12:37:47,552 INFO  -       
+2018-02-01 12:37:47,552 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Good login" Failed  
+2018-02-01 12:37:48,634 INFO  -       Get data for the current test
+2018-02-01 12:37:48,634 INFO  -          testName - HTTPS
+2018-02-01 12:37:48,635 INFO  -          testMark - 
+2018-02-01 12:37:48,635 INFO  -          testResult - Failed
+2018-02-01 12:37:48,635 INFO  -    Call function for activate the ACL
+2018-02-01 12:37:48,635 INFO  -    Get data for command line
+2018-02-01 12:37:48,635 INFO  - ---------
+2018-02-01 12:37:48,636 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:37:48,636 INFO  -       Login
+2018-02-01 12:37:48,636 INFO  -       HTTPS
+2018-02-01 12:37:48,636 INFO  -       
+2018-02-01 12:37:48,636 INFO  -       Failed
+2018-02-01 12:37:48,637 INFO  - ---------
+2018-02-01 12:37:48,637 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:37:48,717 INFO  -       
+2018-02-01 12:37:48,717 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:37:48,717 INFO  -       
+2018-02-01 12:37:48,717 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:37:48,717 INFO  -       
+2018-02-01 12:37:48,717 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:37:48,717 INFO  -       
+2018-02-01 12:37:48,718 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME=HTTPS 
+2018-02-01 12:37:48,718 INFO  -       
+2018-02-01 12:37:48,718 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=Failed 
+2018-02-01 12:37:48,718 INFO  -       
+2018-02-01 12:37:48,718 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED= 
+2018-02-01 12:37:48,718 INFO  -       
+2018-02-01 12:37:48,718 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" HTTPS Failed  
+2018-02-01 12:37:49,792 INFO  -       Get data for the current test
+2018-02-01 12:37:49,792 INFO  -          testName - Login Screen
+2018-02-01 12:37:49,792 INFO  -          testMark - 
+2018-02-01 12:37:49,792 INFO  -          testResult - Failed
+2018-02-01 12:37:49,792 INFO  -    Call function for activate the ACL
+2018-02-01 12:37:49,792 INFO  -    Get data for command line
+2018-02-01 12:37:49,792 INFO  - ---------
+2018-02-01 12:37:49,792 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:37:49,792 INFO  -       Login
+2018-02-01 12:37:49,792 INFO  -       Login Screen
+2018-02-01 12:37:49,792 INFO  -       
+2018-02-01 12:37:49,792 INFO  -       Failed
+2018-02-01 12:37:49,792 INFO  - ---------
+2018-02-01 12:37:49,792 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:37:49,838 INFO  -       
+2018-02-01 12:37:49,838 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:37:49,838 INFO  -       
+2018-02-01 12:37:49,838 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:37:49,838 INFO  -       
+2018-02-01 12:37:49,838 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:37:49,839 INFO  -       
+2018-02-01 12:37:49,839 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Login Screen" 
+2018-02-01 12:37:49,839 INFO  -       
+2018-02-01 12:37:49,839 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=Failed 
+2018-02-01 12:37:49,839 INFO  -       
+2018-02-01 12:37:49,839 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED= 
+2018-02-01 12:37:49,839 INFO  -       
+2018-02-01 12:37:49,839 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Login Screen" Failed  
+2018-02-01 12:37:50,921 INFO  -       Get data for the current test
+2018-02-01 12:37:50,921 INFO  -          testName - Login with long Location fields
+2018-02-01 12:37:50,922 INFO  -          testMark - 
+2018-02-01 12:37:50,922 INFO  -          testResult - Failed
+2018-02-01 12:37:50,922 INFO  -    Call function for activate the ACL
+2018-02-01 12:37:50,923 INFO  -    Get data for command line
+2018-02-01 12:37:50,923 INFO  - ---------
+2018-02-01 12:37:50,923 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:37:50,923 INFO  -       Login
+2018-02-01 12:37:50,924 INFO  -       Login with long Location fields
+2018-02-01 12:37:50,924 INFO  -       
+2018-02-01 12:37:50,924 INFO  -       Failed
+2018-02-01 12:37:50,924 INFO  - ---------
+2018-02-01 12:37:50,924 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:37:50,994 INFO  -       
+2018-02-01 12:37:50,994 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:37:50,994 INFO  -       
+2018-02-01 12:37:50,994 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:37:50,994 INFO  -       
+2018-02-01 12:37:50,994 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:37:50,994 INFO  -       
+2018-02-01 12:37:50,994 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Login with long Location fields" 
+2018-02-01 12:37:50,994 INFO  -       
+2018-02-01 12:37:50,994 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=Failed 
+2018-02-01 12:37:50,994 INFO  -       
+2018-02-01 12:37:50,995 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED= 
+2018-02-01 12:37:50,995 INFO  -       
+2018-02-01 12:37:50,995 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Login with long Location fields" Failed  
+2018-02-01 12:37:52,063 INFO  -       Get data for the current test
+2018-02-01 12:37:52,063 INFO  -          testName - Login with long name user
+2018-02-01 12:37:52,063 INFO  -          testMark - 
+2018-02-01 12:37:52,064 INFO  -          testResult - Failed
+2018-02-01 12:37:52,064 INFO  -    Call function for activate the ACL
+2018-02-01 12:37:52,064 INFO  -    Get data for command line
+2018-02-01 12:37:52,064 INFO  - ---------
+2018-02-01 12:37:52,064 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:37:52,065 INFO  -       Login
+2018-02-01 12:37:52,065 INFO  -       Login with long name user
+2018-02-01 12:37:52,065 INFO  -       
+2018-02-01 12:37:52,065 INFO  -       Failed
+2018-02-01 12:37:52,065 INFO  - ---------
+2018-02-01 12:37:52,065 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:37:52,139 INFO  -       
+2018-02-01 12:37:52,139 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:37:52,139 INFO  -       
+2018-02-01 12:37:52,139 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:37:52,139 INFO  -       
+2018-02-01 12:37:52,139 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:37:52,139 INFO  -       
+2018-02-01 12:37:52,139 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Login with long name user" 
+2018-02-01 12:37:52,139 INFO  -       
+2018-02-01 12:37:52,140 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=Failed 
+2018-02-01 12:37:52,140 INFO  -       
+2018-02-01 12:37:52,140 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED= 
+2018-02-01 12:37:52,140 INFO  -       
+2018-02-01 12:37:52,140 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Login with long name user" Failed  
+2018-02-01 12:37:53,222 INFO  -       Get data for the current test
+2018-02-01 12:37:53,222 INFO  -          testName - Several Admins
+2018-02-01 12:37:53,222 INFO  -          testMark - 
+2018-02-01 12:37:53,222 INFO  -          testResult - Failed
+2018-02-01 12:37:53,223 INFO  -    Call function for activate the ACL
+2018-02-01 12:37:53,223 INFO  -    Get data for command line
+2018-02-01 12:37:53,223 INFO  - ---------
+2018-02-01 12:37:53,223 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:37:53,223 INFO  -       Login
+2018-02-01 12:37:53,223 INFO  -       Several Admins
+2018-02-01 12:37:53,224 INFO  -       
+2018-02-01 12:37:53,224 INFO  -       Failed
+2018-02-01 12:37:53,224 INFO  - ---------
+2018-02-01 12:37:53,224 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:37:53,290 INFO  -       
+2018-02-01 12:37:53,291 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:37:53,291 INFO  -       
+2018-02-01 12:37:53,291 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:37:53,291 INFO  -       
+2018-02-01 12:37:53,291 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:37:53,291 INFO  -       
+2018-02-01 12:37:53,291 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Several Admins" 
+2018-02-01 12:37:53,291 INFO  -       
+2018-02-01 12:37:53,291 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=Failed 
+2018-02-01 12:37:53,291 INFO  -       
+2018-02-01 12:37:53,291 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED= 
+2018-02-01 12:37:53,291 INFO  -       
+2018-02-01 12:37:53,291 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Several Admins" Failed  
+2018-02-01 12:38:21,601 INFO  - Enter setUp()
+2018-02-01 12:38:21,607 INFO  - 
+
+
+2018-02-01 12:38:21,607 INFO  - +---------------------------------------------------------------------------------------+
+2018-02-01 12:38:21,608 INFO  - |                                                                                       |
+2018-02-01 12:38:21,608 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-02-01 12:38:21,608 INFO  - |                                                                                       |
+2018-02-01 12:38:21,608 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-02-01 12:38:21,608 INFO  - Run on all the xml-tests-file and send tests for the command line
+2018-02-01 12:38:21,608 INFO  -       testsInpFile - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\OVOC IPP Manager 7.4.2000.xml
+2018-02-01 12:38:21,611 INFO  -       Get project path
+2018-02-01 12:38:21,612 INFO  -    projectPath - OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:38:21,613 INFO  -    secElementName - Login
+2018-02-01 12:38:21,613 INFO  -       Get data for the current test
+2018-02-01 12:38:21,613 INFO  -          testName - Bad Login
+2018-02-01 12:38:21,613 INFO  -          testMark -  
+2018-02-01 12:38:21,613 INFO  -          testResult - Failed
+2018-02-01 12:38:21,613 INFO  -    Call function for activate the ACL
+2018-02-01 12:38:21,613 INFO  -    Get data for command line
+2018-02-01 12:38:21,613 INFO  - ---------
+2018-02-01 12:38:21,613 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:38:21,613 INFO  -       Login
+2018-02-01 12:38:21,613 INFO  -       Bad Login
+2018-02-01 12:38:21,613 INFO  -        
+2018-02-01 12:38:21,614 INFO  -       Failed
+2018-02-01 12:38:21,614 INFO  - ---------
+2018-02-01 12:38:21,614 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:38:21,660 INFO  -       
+2018-02-01 12:38:21,660 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:38:21,660 INFO  -       
+2018-02-01 12:38:21,660 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:38:21,660 INFO  -       
+2018-02-01 12:38:21,661 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:38:21,661 INFO  -       
+2018-02-01 12:38:21,661 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Bad Login" 
+2018-02-01 12:38:21,661 INFO  -       
+2018-02-01 12:38:21,661 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-02-01 12:38:21,661 INFO  -       
+2018-02-01 12:38:21,661 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Failed 
+2018-02-01 12:38:21,661 INFO  -       
+2018-02-01 12:38:21,661 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Bad Login" " " Failed 
+2018-02-01 12:38:22,732 INFO  -       Get data for the current test
+2018-02-01 12:38:22,732 INFO  -          testName - Good login
+2018-02-01 12:38:22,733 INFO  -          testMark -  
+2018-02-01 12:38:22,733 INFO  -          testResult - Failed
+2018-02-01 12:38:22,733 INFO  -    Call function for activate the ACL
+2018-02-01 12:38:22,734 INFO  -    Get data for command line
+2018-02-01 12:38:22,737 INFO  - ---------
+2018-02-01 12:38:22,738 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:38:22,738 INFO  -       Login
+2018-02-01 12:38:22,738 INFO  -       Good login
+2018-02-01 12:38:22,738 INFO  -        
+2018-02-01 12:38:22,738 INFO  -       Failed
+2018-02-01 12:38:22,739 INFO  - ---------
+2018-02-01 12:38:22,739 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:38:22,805 INFO  -       
+2018-02-01 12:38:22,805 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:38:22,805 INFO  -       
+2018-02-01 12:38:22,805 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:38:22,805 INFO  -       
+2018-02-01 12:38:22,805 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:38:22,806 INFO  -       
+2018-02-01 12:38:22,806 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Good login" 
+2018-02-01 12:38:22,806 INFO  -       
+2018-02-01 12:38:22,806 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-02-01 12:38:22,806 INFO  -       
+2018-02-01 12:38:22,806 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Failed 
+2018-02-01 12:38:22,806 INFO  -       
+2018-02-01 12:38:22,806 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Good login" " " Failed 
+2018-02-01 12:38:23,883 INFO  -       Get data for the current test
+2018-02-01 12:38:23,884 INFO  -          testName - HTTPS
+2018-02-01 12:38:23,885 INFO  -          testMark -  
+2018-02-01 12:38:23,885 INFO  -          testResult - Failed
+2018-02-01 12:38:23,885 INFO  -    Call function for activate the ACL
+2018-02-01 12:38:23,885 INFO  -    Get data for command line
+2018-02-01 12:38:23,886 INFO  - ---------
+2018-02-01 12:38:23,886 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:38:23,886 INFO  -       Login
+2018-02-01 12:38:23,886 INFO  -       HTTPS
+2018-02-01 12:38:23,886 INFO  -        
+2018-02-01 12:38:23,886 INFO  -       Failed
+2018-02-01 12:38:23,886 INFO  - ---------
+2018-02-01 12:38:23,886 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:38:23,939 INFO  -       
+2018-02-01 12:38:23,940 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:38:23,940 INFO  -       
+2018-02-01 12:38:23,940 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:38:23,940 INFO  -       
+2018-02-01 12:38:23,940 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:38:23,940 INFO  -       
+2018-02-01 12:38:23,940 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME=HTTPS 
+2018-02-01 12:38:23,940 INFO  -       
+2018-02-01 12:38:23,940 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-02-01 12:38:23,940 INFO  -       
+2018-02-01 12:38:23,940 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Failed 
+2018-02-01 12:38:23,940 INFO  -       
+2018-02-01 12:38:23,940 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" HTTPS " " Failed 
+2018-02-01 12:38:25,013 INFO  -       Get data for the current test
+2018-02-01 12:38:25,013 INFO  -          testName - Login Screen
+2018-02-01 12:38:25,013 INFO  -          testMark -  
+2018-02-01 12:38:25,013 INFO  -          testResult - Failed
+2018-02-01 12:38:25,013 INFO  -    Call function for activate the ACL
+2018-02-01 12:38:25,013 INFO  -    Get data for command line
+2018-02-01 12:38:25,013 INFO  - ---------
+2018-02-01 12:38:25,013 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:38:25,014 INFO  -       Login
+2018-02-01 12:38:25,014 INFO  -       Login Screen
+2018-02-01 12:38:25,014 INFO  -        
+2018-02-01 12:38:25,014 INFO  -       Failed
+2018-02-01 12:38:25,014 INFO  - ---------
+2018-02-01 12:38:25,014 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:38:25,062 INFO  -       
+2018-02-01 12:38:25,062 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:38:25,062 INFO  -       
+2018-02-01 12:38:25,062 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:38:25,062 INFO  -       
+2018-02-01 12:38:25,063 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:38:25,063 INFO  -       
+2018-02-01 12:38:25,063 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Login Screen" 
+2018-02-01 12:38:25,063 INFO  -       
+2018-02-01 12:38:25,063 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-02-01 12:38:25,063 INFO  -       
+2018-02-01 12:38:25,063 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Failed 
+2018-02-01 12:38:25,063 INFO  -       
+2018-02-01 12:38:25,063 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Login Screen" " " Failed 
+2018-02-01 12:38:26,134 INFO  -       Get data for the current test
+2018-02-01 12:38:26,134 INFO  -          testName - Login with long Location fields
+2018-02-01 12:38:26,135 INFO  -          testMark -  
+2018-02-01 12:38:26,135 INFO  -          testResult - Failed
+2018-02-01 12:38:26,135 INFO  -    Call function for activate the ACL
+2018-02-01 12:38:26,136 INFO  -    Get data for command line
+2018-02-01 12:38:26,136 INFO  - ---------
+2018-02-01 12:38:26,136 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:38:26,136 INFO  -       Login
+2018-02-01 12:38:26,136 INFO  -       Login with long Location fields
+2018-02-01 12:38:26,137 INFO  -        
+2018-02-01 12:38:26,137 INFO  -       Failed
+2018-02-01 12:38:26,137 INFO  - ---------
+2018-02-01 12:38:26,137 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:38:26,211 INFO  -       
+2018-02-01 12:38:26,211 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:38:26,211 INFO  -       
+2018-02-01 12:38:26,211 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:38:26,211 INFO  -       
+2018-02-01 12:38:26,211 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:38:26,211 INFO  -       
+2018-02-01 12:38:26,211 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Login with long Location fields" 
+2018-02-01 12:38:26,212 INFO  -       
+2018-02-01 12:38:26,212 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-02-01 12:38:26,212 INFO  -       
+2018-02-01 12:38:26,212 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Failed 
+2018-02-01 12:38:26,213 INFO  -       
+2018-02-01 12:38:26,213 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Login with long Location fields" " " Failed 
+2018-02-01 12:38:27,297 INFO  -       Get data for the current test
+2018-02-01 12:38:27,297 INFO  -          testName - Login with long name user
+2018-02-01 12:38:27,297 INFO  -          testMark -  
+2018-02-01 12:38:27,298 INFO  -          testResult - Failed
+2018-02-01 12:38:27,298 INFO  -    Call function for activate the ACL
+2018-02-01 12:38:27,298 INFO  -    Get data for command line
+2018-02-01 12:38:27,298 INFO  - ---------
+2018-02-01 12:38:27,298 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:38:27,298 INFO  -       Login
+2018-02-01 12:38:27,299 INFO  -       Login with long name user
+2018-02-01 12:38:27,299 INFO  -        
+2018-02-01 12:38:27,299 INFO  -       Failed
+2018-02-01 12:38:27,299 INFO  - ---------
+2018-02-01 12:38:27,299 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:38:27,376 INFO  -       
+2018-02-01 12:38:27,376 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:38:27,376 INFO  -       
+2018-02-01 12:38:27,376 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:38:27,377 INFO  -       
+2018-02-01 12:38:27,377 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:38:27,377 INFO  -       
+2018-02-01 12:38:27,377 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Login with long name user" 
+2018-02-01 12:38:27,377 INFO  -       
+2018-02-01 12:38:27,377 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-02-01 12:38:27,377 INFO  -       
+2018-02-01 12:38:27,377 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Failed 
+2018-02-01 12:38:27,377 INFO  -       
+2018-02-01 12:38:27,377 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Login with long name user" " " Failed 
+2018-02-01 12:38:28,463 INFO  -       Get data for the current test
+2018-02-01 12:38:28,463 INFO  -          testName - Several Admins
+2018-02-01 12:38:28,463 INFO  -          testMark -  
+2018-02-01 12:38:28,463 INFO  -          testResult - Failed
+2018-02-01 12:38:28,464 INFO  -    Call function for activate the ACL
+2018-02-01 12:38:28,464 INFO  -    Get data for command line
+2018-02-01 12:38:28,464 INFO  - ---------
+2018-02-01 12:38:28,464 INFO  -       OVOC IPP Manager 7.4.2000/Regression/
+2018-02-01 12:38:28,464 INFO  -       Login
+2018-02-01 12:38:28,464 INFO  -       Several Admins
+2018-02-01 12:38:28,465 INFO  -        
+2018-02-01 12:38:28,465 INFO  -       Failed
+2018-02-01 12:38:28,465 INFO  - ---------
+2018-02-01 12:38:28,465 INFO  -       almFullsecPath - OVOC IPP Manager 7.4.2000/Regression/Login
+2018-02-01 12:38:28,519 INFO  -       
+2018-02-01 12:38:28,519 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-02-01 12:38:28,519 INFO  -       
+2018-02-01 12:38:28,519 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-02-01 12:38:28,519 INFO  -       
+2018-02-01 12:38:28,519 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="OVOC IPP Manager 7.4.2000/Regression/Login" 
+2018-02-01 12:38:28,519 INFO  -       
+2018-02-01 12:38:28,519 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Several Admins" 
+2018-02-01 12:38:28,520 INFO  -       
+2018-02-01 12:38:28,520 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-02-01 12:38:28,520 INFO  -       
+2018-02-01 12:38:28,520 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Failed 
+2018-02-01 12:38:28,520 INFO  -       
+2018-02-01 12:38:28,520 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Login" "Several Admins" " " Failed 

@@ -313,3 +313,388 @@ Date {Wed, 31 Jan 2018 12:41:35 GMT} Set-Cookie {QCSession=MzAyODA1NDtpODRIZjB4M
 2018 01/31/2018 14:41:34:(pid 18804, host il-nirk-pc) DEBUG: REST close session:
 
 2018 01/31/2018 14:41:34:(pid 18804, host il-nirk-pc) OK! update ALM completed successfully (test 'Good login' in 'OVOC IPP Manager 7.4.2000/Regression/Login', new result 'Passed', previous status was 'Failed')
+2018 02/01/2018 12:36:53:(pid 12928, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Bad Login} Passed
+2018 02/01/2018 12:36:53:(pid 12928, host il-nirk-pc) DEBUG: 	== ALM update: test 'Bad Login' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result '' (params to mark "Passed", conditions "")
+2018 02/01/2018 12:36:53:(pid 12928, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Bad Login} Passed'
+2018 02/01/2018 12:36:53:(pid 12928, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:36:53:(pid 12928, host il-nirk-pc) DEBUG: test='Bad Login'
+2018 02/01/2018 12:36:53:(pid 12928, host il-nirk-pc) DEBUG: mark='Passed'
+2018 02/01/2018 12:36:53:(pid 12928, host il-nirk-pc) DEBUG: result=''
+2018 02/01/2018 12:36:53:(pid 12928, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:36:53:(pid 12928, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:36:53:(pid 12928, host il-nirk-pc) ERROR! Wrong result string () - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018 02/01/2018 12:36:55:(pid 10772, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} Passed
+2018 02/01/2018 12:36:55:(pid 10772, host il-nirk-pc) DEBUG: 	== ALM update: test 'Good login' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result '' (params to mark "Passed", conditions "")
+2018 02/01/2018 12:36:55:(pid 10772, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} Passed'
+2018 02/01/2018 12:36:55:(pid 10772, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:36:55:(pid 10772, host il-nirk-pc) DEBUG: test='Good login'
+2018 02/01/2018 12:36:55:(pid 10772, host il-nirk-pc) DEBUG: mark='Passed'
+2018 02/01/2018 12:36:55:(pid 10772, host il-nirk-pc) DEBUG: result=''
+2018 02/01/2018 12:36:55:(pid 10772, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:36:55:(pid 10772, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:36:55:(pid 10772, host il-nirk-pc) ERROR! Wrong result string () - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018 02/01/2018 12:36:57:(pid 3620, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} HTTPS Passed
+2018 02/01/2018 12:36:57:(pid 3620, host il-nirk-pc) DEBUG: 	== ALM update: test 'HTTPS' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result '' (params to mark "Passed", conditions "")
+2018 02/01/2018 12:36:57:(pid 3620, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} HTTPS Passed'
+2018 02/01/2018 12:36:57:(pid 3620, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:36:57:(pid 3620, host il-nirk-pc) DEBUG: test='HTTPS'
+2018 02/01/2018 12:36:57:(pid 3620, host il-nirk-pc) DEBUG: mark='Passed'
+2018 02/01/2018 12:36:57:(pid 3620, host il-nirk-pc) DEBUG: result=''
+2018 02/01/2018 12:36:57:(pid 3620, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:36:57:(pid 3620, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:36:57:(pid 3620, host il-nirk-pc) ERROR! Wrong result string () - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018 02/01/2018 12:37:00:(pid 18788, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Login Screen} Passed
+2018 02/01/2018 12:37:00:(pid 18788, host il-nirk-pc) DEBUG: 	== ALM update: test 'Login Screen' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result '' (params to mark "Passed", conditions "")
+2018 02/01/2018 12:37:00:(pid 18788, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Login Screen} Passed'
+2018 02/01/2018 12:37:00:(pid 18788, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:37:00:(pid 18788, host il-nirk-pc) DEBUG: test='Login Screen'
+2018 02/01/2018 12:37:00:(pid 18788, host il-nirk-pc) DEBUG: mark='Passed'
+2018 02/01/2018 12:37:00:(pid 18788, host il-nirk-pc) DEBUG: result=''
+2018 02/01/2018 12:37:00:(pid 18788, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:37:00:(pid 18788, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:37:00:(pid 18788, host il-nirk-pc) ERROR! Wrong result string () - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018 02/01/2018 12:37:02:(pid 14156, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Login with long Location fields} Passed
+2018 02/01/2018 12:37:02:(pid 14156, host il-nirk-pc) DEBUG: 	== ALM update: test 'Login with long Location fields' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result '' (params to mark "Passed", conditions "")
+2018 02/01/2018 12:37:02:(pid 14156, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Login with long Location fields} Passed'
+2018 02/01/2018 12:37:02:(pid 14156, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:37:02:(pid 14156, host il-nirk-pc) DEBUG: test='Login with long Location fields'
+2018 02/01/2018 12:37:02:(pid 14156, host il-nirk-pc) DEBUG: mark='Passed'
+2018 02/01/2018 12:37:02:(pid 14156, host il-nirk-pc) DEBUG: result=''
+2018 02/01/2018 12:37:02:(pid 14156, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:37:02:(pid 14156, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:37:02:(pid 14156, host il-nirk-pc) ERROR! Wrong result string () - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018 02/01/2018 12:37:04:(pid 7648, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Login with long name user} Passed
+2018 02/01/2018 12:37:04:(pid 7648, host il-nirk-pc) DEBUG: 	== ALM update: test 'Login with long name user' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result '' (params to mark "Passed", conditions "")
+2018 02/01/2018 12:37:04:(pid 7648, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Login with long name user} Passed'
+2018 02/01/2018 12:37:04:(pid 7648, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:37:04:(pid 7648, host il-nirk-pc) DEBUG: test='Login with long name user'
+2018 02/01/2018 12:37:04:(pid 7648, host il-nirk-pc) DEBUG: mark='Passed'
+2018 02/01/2018 12:37:04:(pid 7648, host il-nirk-pc) DEBUG: result=''
+2018 02/01/2018 12:37:04:(pid 7648, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:37:04:(pid 7648, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:37:04:(pid 7648, host il-nirk-pc) ERROR! Wrong result string () - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018 02/01/2018 12:37:06:(pid 19448, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Several Admins} Passed
+2018 02/01/2018 12:37:06:(pid 19448, host il-nirk-pc) DEBUG: 	== ALM update: test 'Several Admins' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result '' (params to mark "Passed", conditions "")
+2018 02/01/2018 12:37:06:(pid 19448, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Several Admins} Passed'
+2018 02/01/2018 12:37:06:(pid 19448, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:37:06:(pid 19448, host il-nirk-pc) DEBUG: test='Several Admins'
+2018 02/01/2018 12:37:06:(pid 19448, host il-nirk-pc) DEBUG: mark='Passed'
+2018 02/01/2018 12:37:06:(pid 19448, host il-nirk-pc) DEBUG: result=''
+2018 02/01/2018 12:37:06:(pid 19448, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:37:06:(pid 19448, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:37:06:(pid 19448, host il-nirk-pc) ERROR! Wrong result string () - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018 02/01/2018 12:37:46:(pid 19880, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Bad Login} Failed
+2018 02/01/2018 12:37:46:(pid 19880, host il-nirk-pc) DEBUG: 	== ALM update: test 'Bad Login' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result '' (params to mark "Failed", conditions "")
+2018 02/01/2018 12:37:46:(pid 19880, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Bad Login} Failed'
+2018 02/01/2018 12:37:46:(pid 19880, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:37:46:(pid 19880, host il-nirk-pc) DEBUG: test='Bad Login'
+2018 02/01/2018 12:37:46:(pid 19880, host il-nirk-pc) DEBUG: mark='Failed'
+2018 02/01/2018 12:37:46:(pid 19880, host il-nirk-pc) DEBUG: result=''
+2018 02/01/2018 12:37:46:(pid 19880, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:37:46:(pid 19880, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:37:46:(pid 19880, host il-nirk-pc) ERROR! Wrong result string () - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018 02/01/2018 12:37:47:(pid 15696, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} Failed
+2018 02/01/2018 12:37:47:(pid 15696, host il-nirk-pc) DEBUG: 	== ALM update: test 'Good login' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result '' (params to mark "Failed", conditions "")
+2018 02/01/2018 12:37:47:(pid 15696, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} Failed'
+2018 02/01/2018 12:37:47:(pid 15696, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:37:47:(pid 15696, host il-nirk-pc) DEBUG: test='Good login'
+2018 02/01/2018 12:37:47:(pid 15696, host il-nirk-pc) DEBUG: mark='Failed'
+2018 02/01/2018 12:37:47:(pid 15696, host il-nirk-pc) DEBUG: result=''
+2018 02/01/2018 12:37:47:(pid 15696, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:37:47:(pid 15696, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:37:47:(pid 15696, host il-nirk-pc) ERROR! Wrong result string () - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018 02/01/2018 12:37:48:(pid 7388, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} HTTPS Failed
+2018 02/01/2018 12:37:48:(pid 7388, host il-nirk-pc) DEBUG: 	== ALM update: test 'HTTPS' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result '' (params to mark "Failed", conditions "")
+2018 02/01/2018 12:37:48:(pid 7388, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} HTTPS Failed'
+2018 02/01/2018 12:37:48:(pid 7388, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:37:48:(pid 7388, host il-nirk-pc) DEBUG: test='HTTPS'
+2018 02/01/2018 12:37:48:(pid 7388, host il-nirk-pc) DEBUG: mark='Failed'
+2018 02/01/2018 12:37:48:(pid 7388, host il-nirk-pc) DEBUG: result=''
+2018 02/01/2018 12:37:48:(pid 7388, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:37:48:(pid 7388, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:37:48:(pid 7388, host il-nirk-pc) ERROR! Wrong result string () - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018 02/01/2018 12:37:50:(pid 19304, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Login Screen} Failed
+2018 02/01/2018 12:37:50:(pid 19304, host il-nirk-pc) DEBUG: 	== ALM update: test 'Login Screen' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result '' (params to mark "Failed", conditions "")
+2018 02/01/2018 12:37:50:(pid 19304, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Login Screen} Failed'
+2018 02/01/2018 12:37:50:(pid 19304, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:37:50:(pid 19304, host il-nirk-pc) DEBUG: test='Login Screen'
+2018 02/01/2018 12:37:50:(pid 19304, host il-nirk-pc) DEBUG: mark='Failed'
+2018 02/01/2018 12:37:50:(pid 19304, host il-nirk-pc) DEBUG: result=''
+2018 02/01/2018 12:37:50:(pid 19304, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:37:50:(pid 19304, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:37:50:(pid 19304, host il-nirk-pc) ERROR! Wrong result string () - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018 02/01/2018 12:37:51:(pid 19732, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Login with long Location fields} Failed
+2018 02/01/2018 12:37:51:(pid 19732, host il-nirk-pc) DEBUG: 	== ALM update: test 'Login with long Location fields' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result '' (params to mark "Failed", conditions "")
+2018 02/01/2018 12:37:51:(pid 19732, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Login with long Location fields} Failed'
+2018 02/01/2018 12:37:51:(pid 19732, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:37:51:(pid 19732, host il-nirk-pc) DEBUG: test='Login with long Location fields'
+2018 02/01/2018 12:37:51:(pid 19732, host il-nirk-pc) DEBUG: mark='Failed'
+2018 02/01/2018 12:37:51:(pid 19732, host il-nirk-pc) DEBUG: result=''
+2018 02/01/2018 12:37:51:(pid 19732, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:37:51:(pid 19732, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:37:51:(pid 19732, host il-nirk-pc) ERROR! Wrong result string () - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018 02/01/2018 12:37:52:(pid 15792, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Login with long name user} Failed
+2018 02/01/2018 12:37:52:(pid 15792, host il-nirk-pc) DEBUG: 	== ALM update: test 'Login with long name user' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result '' (params to mark "Failed", conditions "")
+2018 02/01/2018 12:37:52:(pid 15792, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Login with long name user} Failed'
+2018 02/01/2018 12:37:52:(pid 15792, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:37:52:(pid 15792, host il-nirk-pc) DEBUG: test='Login with long name user'
+2018 02/01/2018 12:37:52:(pid 15792, host il-nirk-pc) DEBUG: mark='Failed'
+2018 02/01/2018 12:37:52:(pid 15792, host il-nirk-pc) DEBUG: result=''
+2018 02/01/2018 12:37:52:(pid 15792, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:37:52:(pid 15792, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:37:52:(pid 15792, host il-nirk-pc) ERROR! Wrong result string () - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018 02/01/2018 12:37:53:(pid 15984, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Several Admins} Failed
+2018 02/01/2018 12:37:53:(pid 15984, host il-nirk-pc) DEBUG: 	== ALM update: test 'Several Admins' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result '' (params to mark "Failed", conditions "")
+2018 02/01/2018 12:37:53:(pid 15984, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Several Admins} Failed'
+2018 02/01/2018 12:37:53:(pid 15984, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:37:53:(pid 15984, host il-nirk-pc) DEBUG: test='Several Admins'
+2018 02/01/2018 12:37:53:(pid 15984, host il-nirk-pc) DEBUG: mark='Failed'
+2018 02/01/2018 12:37:53:(pid 15984, host il-nirk-pc) DEBUG: result=''
+2018 02/01/2018 12:37:53:(pid 15984, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:37:53:(pid 15984, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:37:53:(pid 15984, host il-nirk-pc) ERROR! Wrong result string () - should be one of 'Passed Failed N/A Blocked {No Run} {Not Completed}'
+2018 02/01/2018 12:38:21:(pid 20128, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Bad Login} { } Failed
+2018 02/01/2018 12:38:21:(pid 20128, host il-nirk-pc) DEBUG: 	== ALM update: test 'Bad Login' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result 'Failed' (params to mark " ", conditions "")
+2018 02/01/2018 12:38:21:(pid 20128, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Bad Login} { } Failed'
+2018 02/01/2018 12:38:21:(pid 20128, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:38:21:(pid 20128, host il-nirk-pc) DEBUG: test='Bad Login'
+2018 02/01/2018 12:38:21:(pid 20128, host il-nirk-pc) DEBUG: mark=' '
+2018 02/01/2018 12:38:21:(pid 20128, host il-nirk-pc) DEBUG: result='Failed'
+2018 02/01/2018 12:38:21:(pid 20128, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:38:21:(pid 20128, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:38:21:(pid 20128, host il-nirk-pc) DEBUG: ALM_test_mark.cfg body:
+----------------------------------------
+set logfilename ALM_IPP_update.log
+set SQL_Database default_tp_6_6_tp1610_new_db
+set ALM_project Lync_Application_Group
+set ALM_user nirk
+set ALM_password Kliemann5555
+2018 02/01/2018 12:38:21:(pid 20128, host il-nirk-pc) DEBUG:  current directory: 'C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark'
+2018 02/01/2018 12:38:22:(pid 20128, host il-nirk-pc) DEBUG:  Found '35165 36056 36161 38561 38945 43004 43895 44000 46400 46784' (10 instances) of 'Bad Login' in TestPlan
+2018 02/01/2018 12:38:22:(pid 20128, host il-nirk-pc) DEBUG: OK! found TestSet 'Login' (TestSetID=687) in 'OVOC IPP Manager 7.4.2000/Regression' folder
+2018 02/01/2018 12:38:22:(pid 20128, host il-nirk-pc) DEBUG: Found Test instances: '18246'
+2018 02/01/2018 12:38:22:(pid 20128, host il-nirk-pc) DEBUG:  Found '18246' (1 instances) of 'Bad Login' in TestLab
+2018 02/01/2018 12:38:22:(pid 20128, host il-nirk-pc) DEBUG:  Current status 'Passed'
+2018 02/01/2018 12:38:22:(pid 20128, host il-nirk-pc) DEBUG: REST connect:
+Date {Thu, 01 Feb 2018 10:38:21 GMT} Set-Cookie {LWSSO_COOKIE_KEY=PfrCWGycgHBYgt8nUHyww8Gq5sz3I7FxnWavdUObB4bR13sMfsuBj49FTj0LS_PIqvtMKJaIl49GHKIYfhGTdK0tWhYj2Xf6tAX8Pbr55AdKzmSo39gqNKG2ST14Lqu7uwqTiLH0l4M00guhRENlz3X07jfCh9dodpWTMKpb1KG_TiKwIKZiv_FzGjakApSs0mI75T4Xe9vbKN-YLmIo56QVObTvKs2cgluNllz6qB9WoDB-Tjl3TavwRQsEn0rwCY5KFDt0r7ku6tBxWO560jsKNWmyJwcvhXRZNaa0oNs.;Path=/;HTTPOnly} Connection close Server Jetty(7.5.4.v20111024)
+2018 02/01/2018 12:38:22:(pid 20128, host il-nirk-pc) DEBUG: REST Get session ID:
+Date {Thu, 01 Feb 2018 10:38:22 GMT} Set-Cookie {QCSession=MzAzMDA5NztBcXYwQmNQamVzZ1E1WG0waHVDandnKio7UkVTVCBjbGllbnQ7IDsg;Path=/} Expires {Thu, 01 Jan 1970 00:00:00 GMT} Connection close Server Jetty(7.5.4.v20111024)
+2018 02/01/2018 12:38:22:(pid 20128, host il-nirk-pc) DEBUG: REST get data for test instance '18246' (GET url 'http://aclalmqa:8080/qcbin/rest/domains/DEFAULT/projects/Lync_Application_Group/test-instances/18246')
+2018 02/01/2018 12:38:22:(pid 20128, host il-nirk-pc) DEBUG: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Entity Type="test-instance"><Fields><Field Name="test-instance"><Value>1</Value></Field><Field Name="user-01"><Value></Value></Field><Field Name="task-status"><Value></Value></Field><Field Name="eparams"><Value></Value></Field><Field Name="testcycle-ver-stamp"><Value>2</Value></Field><Field Name="plan-scheduling-date"/><Field Name="plan-scheduling-time"><Value></Value></Field><Field Name="id"><Value>18246</Value></Field><Field Name="os-config"><Value></Value></Field><Field Name="host-name"><Value></Value></Field><Field Name="test-config-id"><Value>39561</Value></Field><Field Name="data-obj"><Value></Value></Field><Field Name="has-linkage"><Value>N</Value></Field><Field Name="pinned-baseline"><Value></Value></Field><Field Name="exec-date"><Value>2018-01-31</Value></Field><Field Name="cycle-id"><Value>687</Value></Field><Field Name="cycle"><Value></Value></Field><Field Name="assign-rcyc"><Value></Value></Field><Field Name="exec-time"><Value>14:41:32</Value></Field><Field Name="last-modified"><Value>2018-01-31 14:41:32</Value></Field><Field Name="status"><Value>Passed</Value></Field><Field Name="iterations"><Value></Value></Field><Field Name="actual-tester"><Value>nirk</Value></Field><Field Name="exec-event-handle"><Value></Value></Field><Field Name="attachment"><Value></Value></Field><Field Name="test-id"><Value>38561</Value></Field><Field Name="subtype-id"><Value>hp.qc.test-instance.LR-SCENARIO</Value></Field><Field Name="test-order"><Value>1</Value></Field><Field Name="owner"><Value>yacova</Value></Field><Field Name="bpta-change-awareness"><Value></Value></Field></Fields><RelatedEntities/></Entity>
+2018 02/01/2018 12:38:22:(pid 20128, host il-nirk-pc) DEBUG: REST query result:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Entity Type="test-instance"><Fields><Field Name="test-instance"><Value>1</Value></Field><Field Name="user-01"><Value></Value></Field><Field Name="task-status"><Value></Value></Field><Field Name="eparams"><Value></Value></Field><Field Name="testcycle-ver-stamp"><Value>3</Value></Field><Field Name="plan-scheduling-date"/><Field Name="plan-scheduling-time"><Value></Value></Field><Field Name="id"><Value>18246</Value></Field><Field Name="os-config"><Value></Value></Field><Field Name="host-name"><Value></Value></Field><Field Name="test-config-id"><Value>39561</Value></Field><Field Name="data-obj"><Value></Value></Field><Field Name="has-linkage"><Value>N</Value></Field><Field Name="pinned-baseline"><Value></Value></Field><Field Name="exec-date"><Value>2018-02-01</Value></Field><Field Name="cycle-id"><Value>687</Value></Field><Field Name="cycle"><Value></Value></Field><Field Name="assign-rcyc"><Value></Value></Field><Field Name="exec-time"><Value>12:38:22</Value></Field><Field Name="last-modified"><Value>2018-02-01 12:38:22</Value></Field><Field Name="status"><Value>Failed</Value></Field><Field Name="iterations"><Value></Value></Field><Field Name="actual-tester"><Value>nirk</Value></Field><Field Name="exec-event-handle"><Value></Value></Field><Field Name="attachment"><Value></Value></Field><Field Name="test-id"><Value>38561</Value></Field><Field Name="subtype-id"><Value>hp.qc.test-instance.LR-SCENARIO</Value></Field><Field Name="test-order"><Value>1</Value></Field><Field Name="owner"><Value>yacova</Value></Field><Field Name="bpta-change-awareness"><Value></Value></Field></Fields><RelatedEntities/></Entity>
+2018 02/01/2018 12:38:22:(pid 20128, host il-nirk-pc) DEBUG:  Successfully marked 'Bad Login' in 'OVOC IPP Manager 7.4.2000/Regression/Login', result 'Failed'
+2018 02/01/2018 12:38:22:(pid 20128, host il-nirk-pc) DEBUG:  found RUN ID '97' (TC_TESTCYCL_ID='18246')
+2018 02/01/2018 12:38:22:(pid 20128, host il-nirk-pc) DEBUG: REST close session:
+
+2018 02/01/2018 12:38:22:(pid 20128, host il-nirk-pc) OK! update ALM completed successfully (test 'Bad Login' in 'OVOC IPP Manager 7.4.2000/Regression/Login', new result 'Failed', previous status was 'Passed')
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} { } Failed
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG: 	== ALM update: test 'Good login' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result 'Failed' (params to mark " ", conditions "")
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Good login} { } Failed'
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG: test='Good login'
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG: mark=' '
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG: result='Failed'
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG: ALM_test_mark.cfg body:
+----------------------------------------
+set logfilename ALM_IPP_update.log
+set SQL_Database default_tp_6_6_tp1610_new_db
+set ALM_project Lync_Application_Group
+set ALM_user nirk
+set ALM_password Kliemann5555
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG:  current directory: 'C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark'
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG:  Found '35164 36055 36160 38560 38944 43003 43894 43999 46399 46783' (10 instances) of 'Good login' in TestPlan
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG: OK! found TestSet 'Login' (TestSetID=687) in 'OVOC IPP Manager 7.4.2000/Regression' folder
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG: Found Test instances: '18245'
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG:  Found '18245' (1 instances) of 'Good login' in TestLab
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG:  Current status 'Passed'
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG: REST connect:
+Date {Thu, 01 Feb 2018 10:38:23 GMT} Set-Cookie {LWSSO_COOKIE_KEY=m0OZ7Kv945nlvfl-qCgTfik-8WLUTV0g_uWm7QNzUX0tVrzqF0_OTJfu2OYWaXHFcmH83SZDYx-n6zn_UmvOnpq9Nt_1bMqg__XTh89Tl0c1AYuK_xlZQjfZeS-DhnZ03TDSuYN8PickIhYb0k7MgiTeXeDBjp6sjx7DCHuvfrkndP2rMwDvdlru9jWwYG4g4g_jx_zJko2qj7jg-lu_hJS1_tlb2V8uLs_mbjH59Od_-LEmoDWZXWHfVWpO4jmzXsDMvlQAE7QnguMH4LnOngP097B9LR_xw4w3kDrgVCs.;Path=/;HTTPOnly} Connection close Server Jetty(7.5.4.v20111024)
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG: REST Get session ID:
+Date {Thu, 01 Feb 2018 10:38:23 GMT} Set-Cookie {QCSession=MzAzMDEwMDtYTTdNNlFzTHlzbWpHOVRDSFE4UCtRKio7UkVTVCBjbGllbnQ7IDsg;Path=/} Expires {Thu, 01 Jan 1970 00:00:00 GMT} Connection close Server Jetty(7.5.4.v20111024)
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG: REST get data for test instance '18245' (GET url 'http://aclalmqa:8080/qcbin/rest/domains/DEFAULT/projects/Lync_Application_Group/test-instances/18245')
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Entity Type="test-instance"><Fields><Field Name="test-instance"><Value>1</Value></Field><Field Name="user-01"><Value>12345</Value></Field><Field Name="task-status"><Value></Value></Field><Field Name="eparams"><Value></Value></Field><Field Name="testcycle-ver-stamp"><Value>10</Value></Field><Field Name="plan-scheduling-date"/><Field Name="plan-scheduling-time"><Value></Value></Field><Field Name="id"><Value>18245</Value></Field><Field Name="os-config"><Value></Value></Field><Field Name="host-name"><Value></Value></Field><Field Name="test-config-id"><Value>39560</Value></Field><Field Name="data-obj"><Value></Value></Field><Field Name="has-linkage"><Value>N</Value></Field><Field Name="pinned-baseline"><Value></Value></Field><Field Name="exec-date"><Value>2018-01-31</Value></Field><Field Name="cycle-id"><Value>687</Value></Field><Field Name="cycle"><Value></Value></Field><Field Name="assign-rcyc"><Value></Value></Field><Field Name="exec-time"><Value>14:41:35</Value></Field><Field Name="last-modified"><Value>2018-01-31 14:41:35</Value></Field><Field Name="status"><Value>Passed</Value></Field><Field Name="iterations"><Value></Value></Field><Field Name="actual-tester"><Value>nirk</Value></Field><Field Name="exec-event-handle"><Value></Value></Field><Field Name="attachment"><Value></Value></Field><Field Name="test-id"><Value>38560</Value></Field><Field Name="subtype-id"><Value>hp.qc.test-instance.LR-SCENARIO</Value></Field><Field Name="test-order"><Value>2</Value></Field><Field Name="owner"><Value>yacova</Value></Field><Field Name="bpta-change-awareness"><Value></Value></Field></Fields><RelatedEntities/></Entity>
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG: REST query result:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Entity Type="test-instance"><Fields><Field Name="test-instance"><Value>1</Value></Field><Field Name="user-01"><Value>12345</Value></Field><Field Name="task-status"><Value></Value></Field><Field Name="eparams"><Value></Value></Field><Field Name="testcycle-ver-stamp"><Value>11</Value></Field><Field Name="plan-scheduling-date"/><Field Name="plan-scheduling-time"><Value></Value></Field><Field Name="id"><Value>18245</Value></Field><Field Name="os-config"><Value></Value></Field><Field Name="host-name"><Value></Value></Field><Field Name="test-config-id"><Value>39560</Value></Field><Field Name="data-obj"><Value></Value></Field><Field Name="has-linkage"><Value>N</Value></Field><Field Name="pinned-baseline"><Value></Value></Field><Field Name="exec-date"><Value>2018-02-01</Value></Field><Field Name="cycle-id"><Value>687</Value></Field><Field Name="cycle"><Value></Value></Field><Field Name="assign-rcyc"><Value></Value></Field><Field Name="exec-time"><Value>12:38:23</Value></Field><Field Name="last-modified"><Value>2018-02-01 12:38:23</Value></Field><Field Name="status"><Value>Failed</Value></Field><Field Name="iterations"><Value></Value></Field><Field Name="actual-tester"><Value>nirk</Value></Field><Field Name="exec-event-handle"><Value></Value></Field><Field Name="attachment"><Value></Value></Field><Field Name="test-id"><Value>38560</Value></Field><Field Name="subtype-id"><Value>hp.qc.test-instance.LR-SCENARIO</Value></Field><Field Name="test-order"><Value>2</Value></Field><Field Name="owner"><Value>yacova</Value></Field><Field Name="bpta-change-awareness"><Value></Value></Field></Fields><RelatedEntities/></Entity>
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG:  Successfully marked 'Good login' in 'OVOC IPP Manager 7.4.2000/Regression/Login', result 'Failed'
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG:  found RUN ID '98' (TC_TESTCYCL_ID='18245')
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) DEBUG: REST close session:
+
+2018 02/01/2018 12:38:23:(pid 4072, host il-nirk-pc) OK! update ALM completed successfully (test 'Good login' in 'OVOC IPP Manager 7.4.2000/Regression/Login', new result 'Failed', previous status was 'Passed')
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} HTTPS { } Failed
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG: 	== ALM update: test 'HTTPS' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result 'Failed' (params to mark " ", conditions "")
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} HTTPS { } Failed'
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG: test='HTTPS'
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG: mark=' '
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG: result='Failed'
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG: ALM_test_mark.cfg body:
+----------------------------------------
+set logfilename ALM_IPP_update.log
+set SQL_Database default_tp_6_6_tp1610_new_db
+set ALM_project Lync_Application_Group
+set ALM_user nirk
+set ALM_password Kliemann5555
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG:  current directory: 'C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark'
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG:  Found '35161 36057 36162 38557 38941 39626 43000 43896 44001 46396 46780 47465' (12 instances) of 'HTTPS' in TestPlan
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG: OK! found TestSet 'Login' (TestSetID=687) in 'OVOC IPP Manager 7.4.2000/Regression' folder
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG: Found Test instances: '18242'
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG:  Found '18242' (1 instances) of 'HTTPS' in TestLab
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG:  Current status 'Passed'
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG: REST connect:
+Date {Thu, 01 Feb 2018 10:38:24 GMT} Set-Cookie {LWSSO_COOKIE_KEY=t1NqrxV1lZXMXLV4R_YHlu6VL10-onH8gbnxMc95yH8n5p-GvM4CKGyDcjxMp05jnxtHx7CQ2tDrkyj11O4U-H9NVDR3S6kdYnGy0qQlGKriftiXJFyPiwzmv-sc2puRFgUvFkoxh1MhS_OoqR4E5fXhTbixAEG56wE-Oi-rejkJ8QCDFmgFYnmvg6LMZvlTT0crm50NMDOFovNqSPZxuXyasFbvrGm4VS4hND34bI4cMtMujErOF9yWuzBCGyJsAOJLiS0PeUNxKu1gPi4NXhAiEUpVU6qsOQHZpNUdGw4.;Path=/;HTTPOnly} Connection close Server Jetty(7.5.4.v20111024)
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG: REST Get session ID:
+Date {Thu, 01 Feb 2018 10:38:24 GMT} Set-Cookie {QCSession=MzAzMDEwMztPTkp1Z3FDOW1RSjV5Zk9ueXd2TFJRKio7UkVTVCBjbGllbnQ7IDsg;Path=/} Expires {Thu, 01 Jan 1970 00:00:00 GMT} Connection close Server Jetty(7.5.4.v20111024)
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG: REST get data for test instance '18242' (GET url 'http://aclalmqa:8080/qcbin/rest/domains/DEFAULT/projects/Lync_Application_Group/test-instances/18242')
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Entity Type="test-instance"><Fields><Field Name="test-instance"><Value>1</Value></Field><Field Name="user-01"><Value></Value></Field><Field Name="task-status"><Value></Value></Field><Field Name="eparams"><Value></Value></Field><Field Name="testcycle-ver-stamp"><Value>2</Value></Field><Field Name="plan-scheduling-date"/><Field Name="plan-scheduling-time"><Value></Value></Field><Field Name="id"><Value>18242</Value></Field><Field Name="os-config"><Value></Value></Field><Field Name="host-name"><Value></Value></Field><Field Name="test-config-id"><Value>39557</Value></Field><Field Name="data-obj"><Value></Value></Field><Field Name="has-linkage"><Value>N</Value></Field><Field Name="pinned-baseline"><Value></Value></Field><Field Name="exec-date"><Value>2018-01-31</Value></Field><Field Name="cycle-id"><Value>687</Value></Field><Field Name="cycle"><Value></Value></Field><Field Name="assign-rcyc"><Value></Value></Field><Field Name="exec-time"><Value>14:41:32</Value></Field><Field Name="last-modified"><Value>2018-01-31 14:41:32</Value></Field><Field Name="status"><Value>Passed</Value></Field><Field Name="iterations"><Value></Value></Field><Field Name="actual-tester"><Value>nirk</Value></Field><Field Name="exec-event-handle"><Value></Value></Field><Field Name="attachment"><Value></Value></Field><Field Name="test-id"><Value>38557</Value></Field><Field Name="subtype-id"><Value>hp.qc.test-instance.LR-SCENARIO</Value></Field><Field Name="test-order"><Value>3</Value></Field><Field Name="owner"><Value>yacova</Value></Field><Field Name="bpta-change-awareness"><Value></Value></Field></Fields><RelatedEntities/></Entity>
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG: REST query result:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Entity Type="test-instance"><Fields><Field Name="test-instance"><Value>1</Value></Field><Field Name="user-01"><Value></Value></Field><Field Name="task-status"><Value></Value></Field><Field Name="eparams"><Value></Value></Field><Field Name="testcycle-ver-stamp"><Value>3</Value></Field><Field Name="plan-scheduling-date"/><Field Name="plan-scheduling-time"><Value></Value></Field><Field Name="id"><Value>18242</Value></Field><Field Name="os-config"><Value></Value></Field><Field Name="host-name"><Value></Value></Field><Field Name="test-config-id"><Value>39557</Value></Field><Field Name="data-obj"><Value></Value></Field><Field Name="has-linkage"><Value>N</Value></Field><Field Name="pinned-baseline"><Value></Value></Field><Field Name="exec-date"><Value>2018-02-01</Value></Field><Field Name="cycle-id"><Value>687</Value></Field><Field Name="cycle"><Value></Value></Field><Field Name="assign-rcyc"><Value></Value></Field><Field Name="exec-time"><Value>12:38:24</Value></Field><Field Name="last-modified"><Value>2018-02-01 12:38:24</Value></Field><Field Name="status"><Value>Failed</Value></Field><Field Name="iterations"><Value></Value></Field><Field Name="actual-tester"><Value>nirk</Value></Field><Field Name="exec-event-handle"><Value></Value></Field><Field Name="attachment"><Value></Value></Field><Field Name="test-id"><Value>38557</Value></Field><Field Name="subtype-id"><Value>hp.qc.test-instance.LR-SCENARIO</Value></Field><Field Name="test-order"><Value>3</Value></Field><Field Name="owner"><Value>yacova</Value></Field><Field Name="bpta-change-awareness"><Value></Value></Field></Fields><RelatedEntities/></Entity>
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG:  Successfully marked 'HTTPS' in 'OVOC IPP Manager 7.4.2000/Regression/Login', result 'Failed'
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG:  found RUN ID '99' (TC_TESTCYCL_ID='18242')
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) DEBUG: REST close session:
+
+2018 02/01/2018 12:38:24:(pid 18096, host il-nirk-pc) OK! update ALM completed successfully (test 'HTTPS' in 'OVOC IPP Manager 7.4.2000/Regression/Login', new result 'Failed', previous status was 'Passed')
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Login Screen} { } Failed
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG: 	== ALM update: test 'Login Screen' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result 'Failed' (params to mark " ", conditions "")
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Login Screen} { } Failed'
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG: test='Login Screen'
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG: mark=' '
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG: result='Failed'
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG: ALM_test_mark.cfg body:
+----------------------------------------
+set logfilename ALM_IPP_update.log
+set SQL_Database default_tp_6_6_tp1610_new_db
+set ALM_project Lync_Application_Group
+set ALM_user nirk
+set ALM_password Kliemann5555
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG:  current directory: 'C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark'
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG:  Found '35163 36054 36159 38559 38943 43002 43893 43998 46398 46782' (10 instances) of 'Login Screen' in TestPlan
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG: OK! found TestSet 'Login' (TestSetID=687) in 'OVOC IPP Manager 7.4.2000/Regression' folder
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG: Found Test instances: '18244'
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG:  Found '18244' (1 instances) of 'Login Screen' in TestLab
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG:  Current status 'Passed'
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG: REST connect:
+Date {Thu, 01 Feb 2018 10:38:25 GMT} Set-Cookie {LWSSO_COOKIE_KEY=eBf17PNK7R5sEqlMEa6pGAWIqAmPQxD6UAoD-B64QM9isd8ET76GF5eBv0zrH8YHbBEZ_tKoHLY3KR6sGwM7mb12w46PsE0BuPz3Cdv3a-yaqBe9Dbv-p-dDayDc3XKiatEAfE8dXmvMDALAlETSag7pCcHLlsIDD0zwIy8wv8o0qo_7Gg2CqreD7qfmPGPalBvDbpTEj8sYwsezbWc8Ki6c7uxKEjER8xVbh6MKG3pz1B71utVDu38Os-Q7W0GOdgqvanvRMFl8HxGN9OZ-rPXz8C1BIxmxvhCEn5USkrE.;Path=/;HTTPOnly} Connection close Server Jetty(7.5.4.v20111024)
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG: REST Get session ID:
+Date {Thu, 01 Feb 2018 10:38:25 GMT} Set-Cookie {QCSession=MzAzMDEwNjtWR1lsZC12bjJFUEpMcXh4QXZlN09BKio7UkVTVCBjbGllbnQ7IDsg;Path=/} Expires {Thu, 01 Jan 1970 00:00:00 GMT} Connection close Server Jetty(7.5.4.v20111024)
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG: REST get data for test instance '18244' (GET url 'http://aclalmqa:8080/qcbin/rest/domains/DEFAULT/projects/Lync_Application_Group/test-instances/18244')
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Entity Type="test-instance"><Fields><Field Name="test-instance"><Value>1</Value></Field><Field Name="user-01"><Value></Value></Field><Field Name="task-status"><Value></Value></Field><Field Name="eparams"><Value></Value></Field><Field Name="testcycle-ver-stamp"><Value>2</Value></Field><Field Name="plan-scheduling-date"/><Field Name="plan-scheduling-time"><Value></Value></Field><Field Name="id"><Value>18244</Value></Field><Field Name="os-config"><Value></Value></Field><Field Name="host-name"><Value></Value></Field><Field Name="test-config-id"><Value>39559</Value></Field><Field Name="data-obj"><Value></Value></Field><Field Name="has-linkage"><Value>N</Value></Field><Field Name="pinned-baseline"><Value></Value></Field><Field Name="exec-date"><Value>2018-01-31</Value></Field><Field Name="cycle-id"><Value>687</Value></Field><Field Name="cycle"><Value></Value></Field><Field Name="assign-rcyc"><Value></Value></Field><Field Name="exec-time"><Value>14:41:32</Value></Field><Field Name="last-modified"><Value>2018-01-31 14:41:32</Value></Field><Field Name="status"><Value>Passed</Value></Field><Field Name="iterations"><Value></Value></Field><Field Name="actual-tester"><Value>nirk</Value></Field><Field Name="exec-event-handle"><Value></Value></Field><Field Name="attachment"><Value></Value></Field><Field Name="test-id"><Value>38559</Value></Field><Field Name="subtype-id"><Value>hp.qc.test-instance.LR-SCENARIO</Value></Field><Field Name="test-order"><Value>4</Value></Field><Field Name="owner"><Value>yacova</Value></Field><Field Name="bpta-change-awareness"><Value></Value></Field></Fields><RelatedEntities/></Entity>
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG: REST query result:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Entity Type="test-instance"><Fields><Field Name="test-instance"><Value>1</Value></Field><Field Name="user-01"><Value></Value></Field><Field Name="task-status"><Value></Value></Field><Field Name="eparams"><Value></Value></Field><Field Name="testcycle-ver-stamp"><Value>3</Value></Field><Field Name="plan-scheduling-date"/><Field Name="plan-scheduling-time"><Value></Value></Field><Field Name="id"><Value>18244</Value></Field><Field Name="os-config"><Value></Value></Field><Field Name="host-name"><Value></Value></Field><Field Name="test-config-id"><Value>39559</Value></Field><Field Name="data-obj"><Value></Value></Field><Field Name="has-linkage"><Value>N</Value></Field><Field Name="pinned-baseline"><Value></Value></Field><Field Name="exec-date"><Value>2018-02-01</Value></Field><Field Name="cycle-id"><Value>687</Value></Field><Field Name="cycle"><Value></Value></Field><Field Name="assign-rcyc"><Value></Value></Field><Field Name="exec-time"><Value>12:38:25</Value></Field><Field Name="last-modified"><Value>2018-02-01 12:38:25</Value></Field><Field Name="status"><Value>Failed</Value></Field><Field Name="iterations"><Value></Value></Field><Field Name="actual-tester"><Value>nirk</Value></Field><Field Name="exec-event-handle"><Value></Value></Field><Field Name="attachment"><Value></Value></Field><Field Name="test-id"><Value>38559</Value></Field><Field Name="subtype-id"><Value>hp.qc.test-instance.LR-SCENARIO</Value></Field><Field Name="test-order"><Value>4</Value></Field><Field Name="owner"><Value>yacova</Value></Field><Field Name="bpta-change-awareness"><Value></Value></Field></Fields><RelatedEntities/></Entity>
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG:  Successfully marked 'Login Screen' in 'OVOC IPP Manager 7.4.2000/Regression/Login', result 'Failed'
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG:  found RUN ID '100' (TC_TESTCYCL_ID='18244')
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) DEBUG: REST close session:
+
+2018 02/01/2018 12:38:25:(pid 20220, host il-nirk-pc) OK! update ALM completed successfully (test 'Login Screen' in 'OVOC IPP Manager 7.4.2000/Regression/Login', new result 'Failed', previous status was 'Passed')
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Login with long Location fields} { } Failed
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG: 	== ALM update: test 'Login with long Location fields' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result 'Failed' (params to mark " ", conditions "")
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Login with long Location fields} { } Failed'
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG: test='Login with long Location fields'
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG: mark=' '
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG: result='Failed'
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG: ALM_test_mark.cfg body:
+----------------------------------------
+set logfilename ALM_IPP_update.log
+set SQL_Database default_tp_6_6_tp1610_new_db
+set ALM_project Lync_Application_Group
+set ALM_user nirk
+set ALM_password Kliemann5555
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG:  current directory: 'C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark'
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG:  Found '35168 38564 38948 43007 46403 46787' (6 instances) of 'Login with long Location fields' in TestPlan
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG: OK! found TestSet 'Login' (TestSetID=687) in 'OVOC IPP Manager 7.4.2000/Regression' folder
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG: Found Test instances: '18249'
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG:  Found '18249' (1 instances) of 'Login with long Location fields' in TestLab
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG:  Current status 'Passed'
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG: REST connect:
+Date {Thu, 01 Feb 2018 10:38:26 GMT} Set-Cookie {LWSSO_COOKIE_KEY=kSbG2y6fjFDPs97rQnZHCCbqmcmq6n_aSQFiRK4MJYAtPN5unQXSjNfAew7p7Ayd34v9styE7-Z5OKpTvW6BNBWX9H7tZ-ckDs37SqfzGokO8fyzbaMBSZQJgj6L8xAlvgYdAZ9fCg1psX5b0HtfZIGeQjA_YzJIE2dTuLA7bqvcQL3-befUxOQtnNleHGyK36oiEo0uw6YckqoHae8JHkYoK6psz2e3k7LvNBN1CfQ5qzJZBikEHpsKkGQ6jcM_XtZ8oFQprvE33hgtooBqvIlxFqm0LBwwOeYD44knTOY.;Path=/;HTTPOnly} Connection close Server Jetty(7.5.4.v20111024)
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG: REST Get session ID:
+Date {Thu, 01 Feb 2018 10:38:26 GMT} Set-Cookie {QCSession=MzAzMDEwOTtkNHptSGlKTFV4R2g1dHpYWG5PaVZnKio7UkVTVCBjbGllbnQ7IDsg;Path=/} Expires {Thu, 01 Jan 1970 00:00:00 GMT} Connection close Server Jetty(7.5.4.v20111024)
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG: REST get data for test instance '18249' (GET url 'http://aclalmqa:8080/qcbin/rest/domains/DEFAULT/projects/Lync_Application_Group/test-instances/18249')
+2018 02/01/2018 12:38:26:(pid 18496, host il-nirk-pc) DEBUG: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Entity Type="test-instance"><Fields><Field Name="test-instance"><Value>1</Value></Field><Field Name="user-01"><Value></Value></Field><Field Name="task-status"><Value></Value></Field><Field Name="eparams"><Value></Value></Field><Field Name="testcycle-ver-stamp"><Value>2</Value></Field><Field Name="plan-scheduling-date"/><Field Name="plan-scheduling-time"><Value></Value></Field><Field Name="id"><Value>18249</Value></Field><Field Name="os-config"><Value></Value></Field><Field Name="host-name"><Value></Value></Field><Field Name="test-config-id"><Value>39564</Value></Field><Field Name="data-obj"><Value></Value></Field><Field Name="has-linkage"><Value>N</Value></Field><Field Name="pinned-baseline"><Value></Value></Field><Field Name="exec-date"><Value>2018-01-31</Value></Field><Field Name="cycle-id"><Value>687</Value></Field><Field Name="cycle"><Value></Value></Field><Field Name="assign-rcyc"><Value></Value></Field><Field Name="exec-time"><Value>14:41:32</Value></Field><Field Name="last-modified"><Value>2018-01-31 14:41:32</Value></Field><Field Name="status"><Value>Passed</Value></Field><Field Name="iterations"><Value></Value></Field><Field Name="actual-tester"><Value>nirk</Value></Field><Field Name="exec-event-handle"><Value></Value></Field><Field Name="attachment"><Value></Value></Field><Field Name="test-id"><Value>38564</Value></Field><Field Name="subtype-id"><Value>hp.qc.test-instance.LR-SCENARIO</Value></Field><Field Name="test-order"><Value>5</Value></Field><Field Name="owner"><Value>yacova</Value></Field><Field Name="bpta-change-awareness"><Value></Value></Field></Fields><RelatedEntities/></Entity>
+2018 02/01/2018 12:38:27:(pid 18496, host il-nirk-pc) DEBUG: REST query result:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Entity Type="test-instance"><Fields><Field Name="test-instance"><Value>1</Value></Field><Field Name="user-01"><Value></Value></Field><Field Name="task-status"><Value></Value></Field><Field Name="eparams"><Value></Value></Field><Field Name="testcycle-ver-stamp"><Value>3</Value></Field><Field Name="plan-scheduling-date"/><Field Name="plan-scheduling-time"><Value></Value></Field><Field Name="id"><Value>18249</Value></Field><Field Name="os-config"><Value></Value></Field><Field Name="host-name"><Value></Value></Field><Field Name="test-config-id"><Value>39564</Value></Field><Field Name="data-obj"><Value></Value></Field><Field Name="has-linkage"><Value>N</Value></Field><Field Name="pinned-baseline"><Value></Value></Field><Field Name="exec-date"><Value>2018-02-01</Value></Field><Field Name="cycle-id"><Value>687</Value></Field><Field Name="cycle"><Value></Value></Field><Field Name="assign-rcyc"><Value></Value></Field><Field Name="exec-time"><Value>12:38:26</Value></Field><Field Name="last-modified"><Value>2018-02-01 12:38:26</Value></Field><Field Name="status"><Value>Failed</Value></Field><Field Name="iterations"><Value></Value></Field><Field Name="actual-tester"><Value>nirk</Value></Field><Field Name="exec-event-handle"><Value></Value></Field><Field Name="attachment"><Value></Value></Field><Field Name="test-id"><Value>38564</Value></Field><Field Name="subtype-id"><Value>hp.qc.test-instance.LR-SCENARIO</Value></Field><Field Name="test-order"><Value>5</Value></Field><Field Name="owner"><Value>yacova</Value></Field><Field Name="bpta-change-awareness"><Value></Value></Field></Fields><RelatedEntities/></Entity>
+2018 02/01/2018 12:38:27:(pid 18496, host il-nirk-pc) DEBUG:  Successfully marked 'Login with long Location fields' in 'OVOC IPP Manager 7.4.2000/Regression/Login', result 'Failed'
+2018 02/01/2018 12:38:27:(pid 18496, host il-nirk-pc) DEBUG:  found RUN ID '101' (TC_TESTCYCL_ID='18249')
+2018 02/01/2018 12:38:27:(pid 18496, host il-nirk-pc) DEBUG: REST close session:
+
+2018 02/01/2018 12:38:27:(pid 18496, host il-nirk-pc) OK! update ALM completed successfully (test 'Login with long Location fields' in 'OVOC IPP Manager 7.4.2000/Regression/Login', new result 'Failed', previous status was 'Passed')
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Login with long name user} { } Failed
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG: 	== ALM update: test 'Login with long name user' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result 'Failed' (params to mark " ", conditions "")
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Login with long name user} { } Failed'
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG: test='Login with long name user'
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG: mark=' '
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG: result='Failed'
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG: ALM_test_mark.cfg body:
+----------------------------------------
+set logfilename ALM_IPP_update.log
+set SQL_Database default_tp_6_6_tp1610_new_db
+set ALM_project Lync_Application_Group
+set ALM_user nirk
+set ALM_password Kliemann5555
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG:  current directory: 'C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark'
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG:  Found '35167 38563 38947 43006 46402 46786' (6 instances) of 'Login with long name user' in TestPlan
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG: OK! found TestSet 'Login' (TestSetID=687) in 'OVOC IPP Manager 7.4.2000/Regression' folder
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG: Found Test instances: '18248'
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG:  Found '18248' (1 instances) of 'Login with long name user' in TestLab
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG:  Current status 'Passed'
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG: REST connect:
+Date {Thu, 01 Feb 2018 10:38:27 GMT} Set-Cookie {LWSSO_COOKIE_KEY=6MbWbRYOwXvVAny6l5cqZ3vxSAP1PzjB8RzN98HqOsjp8SRoyGg0Ak4ws9Io8EmothXpvKwA6CTzetinRKuA-76cWOf14lAIYwbV8HfohFRDx_nhmOzxvlXr15LMLyrvtQnEeH4IDLRA9NztuWypL2vWvPxYUZSDMjs40CcBlT7BHYkHMlA3AFjXB_gZQN0106aiCGHQk6Rn1XuGqwWqrj_0a4bq6VMOzdHXsVIlDl6s4zHXyH7ol2zjbdJJhK3KK1k_GCCGfhD54hu329O6H7mPnI30RJFm6Kdpl0d5geg.;Path=/;HTTPOnly} Connection close Server Jetty(7.5.4.v20111024)
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG: REST Get session ID:
+Date {Thu, 01 Feb 2018 10:38:27 GMT} Set-Cookie {QCSession=MzAzMDExMjtlcnQxZDl3MkN2SDN0aW80NDhxSDNRKio7UkVTVCBjbGllbnQ7IDsg;Path=/} Expires {Thu, 01 Jan 1970 00:00:00 GMT} Connection close Server Jetty(7.5.4.v20111024)
+2018 02/01/2018 12:38:27:(pid 15244, host il-nirk-pc) DEBUG: REST get data for test instance '18248' (GET url 'http://aclalmqa:8080/qcbin/rest/domains/DEFAULT/projects/Lync_Application_Group/test-instances/18248')
+2018 02/01/2018 12:38:28:(pid 15244, host il-nirk-pc) DEBUG: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Entity Type="test-instance"><Fields><Field Name="test-instance"><Value>1</Value></Field><Field Name="user-01"><Value></Value></Field><Field Name="task-status"><Value></Value></Field><Field Name="eparams"><Value></Value></Field><Field Name="testcycle-ver-stamp"><Value>2</Value></Field><Field Name="plan-scheduling-date"/><Field Name="plan-scheduling-time"><Value></Value></Field><Field Name="id"><Value>18248</Value></Field><Field Name="os-config"><Value></Value></Field><Field Name="host-name"><Value></Value></Field><Field Name="test-config-id"><Value>39563</Value></Field><Field Name="data-obj"><Value></Value></Field><Field Name="has-linkage"><Value>N</Value></Field><Field Name="pinned-baseline"><Value></Value></Field><Field Name="exec-date"><Value>2018-01-31</Value></Field><Field Name="cycle-id"><Value>687</Value></Field><Field Name="cycle"><Value></Value></Field><Field Name="assign-rcyc"><Value></Value></Field><Field Name="exec-time"><Value>14:41:33</Value></Field><Field Name="last-modified"><Value>2018-01-31 14:41:33</Value></Field><Field Name="status"><Value>Passed</Value></Field><Field Name="iterations"><Value></Value></Field><Field Name="actual-tester"><Value>nirk</Value></Field><Field Name="exec-event-handle"><Value></Value></Field><Field Name="attachment"><Value></Value></Field><Field Name="test-id"><Value>38563</Value></Field><Field Name="subtype-id"><Value>hp.qc.test-instance.MANUAL</Value></Field><Field Name="test-order"><Value>6</Value></Field><Field Name="owner"><Value>yacova</Value></Field><Field Name="bpta-change-awareness"><Value></Value></Field></Fields><RelatedEntities/></Entity>
+2018 02/01/2018 12:38:28:(pid 15244, host il-nirk-pc) DEBUG: REST query result:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Entity Type="test-instance"><Fields><Field Name="test-instance"><Value>1</Value></Field><Field Name="user-01"><Value></Value></Field><Field Name="task-status"><Value></Value></Field><Field Name="eparams"><Value></Value></Field><Field Name="testcycle-ver-stamp"><Value>3</Value></Field><Field Name="plan-scheduling-date"/><Field Name="plan-scheduling-time"><Value></Value></Field><Field Name="id"><Value>18248</Value></Field><Field Name="os-config"><Value></Value></Field><Field Name="host-name"><Value></Value></Field><Field Name="test-config-id"><Value>39563</Value></Field><Field Name="data-obj"><Value></Value></Field><Field Name="has-linkage"><Value>N</Value></Field><Field Name="pinned-baseline"><Value></Value></Field><Field Name="exec-date"><Value>2018-02-01</Value></Field><Field Name="cycle-id"><Value>687</Value></Field><Field Name="cycle"><Value></Value></Field><Field Name="assign-rcyc"><Value></Value></Field><Field Name="exec-time"><Value>12:38:27</Value></Field><Field Name="last-modified"><Value>2018-02-01 12:38:27</Value></Field><Field Name="status"><Value>Failed</Value></Field><Field Name="iterations"><Value></Value></Field><Field Name="actual-tester"><Value>nirk</Value></Field><Field Name="exec-event-handle"><Value></Value></Field><Field Name="attachment"><Value></Value></Field><Field Name="test-id"><Value>38563</Value></Field><Field Name="subtype-id"><Value>hp.qc.test-instance.MANUAL</Value></Field><Field Name="test-order"><Value>6</Value></Field><Field Name="owner"><Value>yacova</Value></Field><Field Name="bpta-change-awareness"><Value></Value></Field></Fields><RelatedEntities/></Entity>
+2018 02/01/2018 12:38:28:(pid 15244, host il-nirk-pc) DEBUG:  Successfully marked 'Login with long name user' in 'OVOC IPP Manager 7.4.2000/Regression/Login', result 'Failed'
+2018 02/01/2018 12:38:28:(pid 15244, host il-nirk-pc) DEBUG:  found RUN ID '102' (TC_TESTCYCL_ID='18248')
+2018 02/01/2018 12:38:28:(pid 15244, host il-nirk-pc) DEBUG: REST close session:
+
+2018 02/01/2018 12:38:28:(pid 15244, host il-nirk-pc) OK! update ALM completed successfully (test 'Login with long name user' in 'OVOC IPP Manager 7.4.2000/Regression/Login', new result 'Failed', previous status was 'Passed')
+2018 02/01/2018 12:38:28:(pid 6428, host il-nirk-pc) DEBUG: C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark/ALM_test_mark.tcl {OVOC IPP Manager 7.4.2000/Regression/Login} {Several Admins} { } Failed
+2018 02/01/2018 12:38:28:(pid 6428, host il-nirk-pc) DEBUG: 	== ALM update: test 'Several Admins' in 'OVOC IPP Manager 7.4.2000/Regression/Login' TestSet, result 'Failed' (params to mark " ", conditions "")
+2018 02/01/2018 12:38:28:(pid 6428, host il-nirk-pc) DEBUG:  argv = '{OVOC IPP Manager 7.4.2000/Regression/Login} {Several Admins} { } Failed'
+2018 02/01/2018 12:38:28:(pid 6428, host il-nirk-pc) DEBUG: path='OVOC IPP Manager 7.4.2000/Regression/Login'
+2018 02/01/2018 12:38:28:(pid 6428, host il-nirk-pc) DEBUG: test='Several Admins'
+2018 02/01/2018 12:38:28:(pid 6428, host il-nirk-pc) DEBUG: mark=' '
+2018 02/01/2018 12:38:28:(pid 6428, host il-nirk-pc) DEBUG: result='Failed'
+2018 02/01/2018 12:38:28:(pid 6428, host il-nirk-pc) DEBUG: condition=''
+2018 02/01/2018 12:38:28:(pid 6428, host il-nirk-pc) DEBUG: parameters=''
+2018 02/01/2018 12:38:28:(pid 6428, host il-nirk-pc) DEBUG: ALM_test_mark.cfg body:
+----------------------------------------
+set logfilename ALM_IPP_update.log
+set SQL_Database default_tp_6_6_tp1610_new_db
+set ALM_project Lync_Application_Group
+set ALM_user nirk
+set ALM_password Kliemann5555
+2018 02/01/2018 12:38:28:(pid 6428, host il-nirk-pc) DEBUG:  current directory: 'C:/Users/nirk/Desktop/myEclipseProjects/ACL_MarkTests/ALM_test_mark/ALM_test_mark.exe/lib/app-ALM_test_mark'
+2018 02/01/2018 12:38:28:(pid 6428, host il-nirk-pc) DEBUG:  Found '35162 36058 36163 38558 38942 43001 43897 44002 46397 46781' (10 instances) of 'Several Admins' in TestPlan
+2018 02/01/2018 12:38:28:(pid 6428, host il-nirk-pc) DEBUG: OK! found TestSet 'Login' (TestSetID=687) in 'OVOC IPP Manager 7.4.2000/Regression' folder
+2018 02/01/2018 12:38:29:(pid 6428, host il-nirk-pc) DEBUG: Found Test instances: '18243'
+2018 02/01/2018 12:38:29:(pid 6428, host il-nirk-pc) DEBUG:  Found '18243' (1 instances) of 'Several Admins' in TestLab
+2018 02/01/2018 12:38:29:(pid 6428, host il-nirk-pc) DEBUG:  Current status 'Passed'
+2018 02/01/2018 12:38:29:(pid 6428, host il-nirk-pc) DEBUG: REST connect:
+Date {Thu, 01 Feb 2018 10:38:28 GMT} Set-Cookie {LWSSO_COOKIE_KEY=5e-bfkYBYXoHvFytRgycZ6NTD8T7Kx9ejb86gaRrPdBzkiVqQww5Cy3efIk1UduaKVhaVFvBQSJfU9m6iL8VXqlEqau1pKs-x1oqbs7Q_QQWt-bS7-SSc-86FZxXZRNMTSTNa4cV0CfKN_-FAFplREvcWM9IgjwnwHhqoagfMTBx6UlgcqWOjPyFedrFA_Xx66ZWWUC3Q0zDzQbW3wzND4d3Z1b4_fSIDDCKsAfN2bHnYUPvquHb4XoZH7YutovKoabGUrr08vB3w7zD4cvx1pyFhKthBEZdzmZAVafFZKA.;Path=/;HTTPOnly} Connection close Server Jetty(7.5.4.v20111024)
+2018 02/01/2018 12:38:29:(pid 6428, host il-nirk-pc) DEBUG: REST Get session ID:
+Date {Thu, 01 Feb 2018 10:38:28 GMT} Set-Cookie {QCSession=MzAzMDExNTt3VHQycjBCN25OYWFoLUJjUXhFenZnKio7UkVTVCBjbGllbnQ7IDsg;Path=/} Expires {Thu, 01 Jan 1970 00:00:00 GMT} Connection close Server Jetty(7.5.4.v20111024)
+2018 02/01/2018 12:38:29:(pid 6428, host il-nirk-pc) DEBUG: REST get data for test instance '18243' (GET url 'http://aclalmqa:8080/qcbin/rest/domains/DEFAULT/projects/Lync_Application_Group/test-instances/18243')
+2018 02/01/2018 12:38:29:(pid 6428, host il-nirk-pc) DEBUG: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Entity Type="test-instance"><Fields><Field Name="test-instance"><Value>1</Value></Field><Field Name="user-01"><Value></Value></Field><Field Name="task-status"><Value></Value></Field><Field Name="eparams"><Value></Value></Field><Field Name="testcycle-ver-stamp"><Value>2</Value></Field><Field Name="plan-scheduling-date"/><Field Name="plan-scheduling-time"><Value></Value></Field><Field Name="id"><Value>18243</Value></Field><Field Name="os-config"><Value></Value></Field><Field Name="host-name"><Value></Value></Field><Field Name="test-config-id"><Value>39558</Value></Field><Field Name="data-obj"><Value></Value></Field><Field Name="has-linkage"><Value>N</Value></Field><Field Name="pinned-baseline"><Value></Value></Field><Field Name="exec-date"><Value>2018-01-31</Value></Field><Field Name="cycle-id"><Value>687</Value></Field><Field Name="cycle"><Value></Value></Field><Field Name="assign-rcyc"><Value></Value></Field><Field Name="exec-time"><Value>14:41:33</Value></Field><Field Name="last-modified"><Value>2018-01-31 14:41:33</Value></Field><Field Name="status"><Value>Passed</Value></Field><Field Name="iterations"><Value></Value></Field><Field Name="actual-tester"><Value>nirk</Value></Field><Field Name="exec-event-handle"><Value></Value></Field><Field Name="attachment"><Value></Value></Field><Field Name="test-id"><Value>38558</Value></Field><Field Name="subtype-id"><Value>hp.qc.test-instance.LR-SCENARIO</Value></Field><Field Name="test-order"><Value>7</Value></Field><Field Name="owner"><Value>yacova</Value></Field><Field Name="bpta-change-awareness"><Value></Value></Field></Fields><RelatedEntities/></Entity>
+2018 02/01/2018 12:38:29:(pid 6428, host il-nirk-pc) DEBUG: REST query result:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Entity Type="test-instance"><Fields><Field Name="test-instance"><Value>1</Value></Field><Field Name="user-01"><Value></Value></Field><Field Name="task-status"><Value></Value></Field><Field Name="eparams"><Value></Value></Field><Field Name="testcycle-ver-stamp"><Value>3</Value></Field><Field Name="plan-scheduling-date"/><Field Name="plan-scheduling-time"><Value></Value></Field><Field Name="id"><Value>18243</Value></Field><Field Name="os-config"><Value></Value></Field><Field Name="host-name"><Value></Value></Field><Field Name="test-config-id"><Value>39558</Value></Field><Field Name="data-obj"><Value></Value></Field><Field Name="has-linkage"><Value>N</Value></Field><Field Name="pinned-baseline"><Value></Value></Field><Field Name="exec-date"><Value>2018-02-01</Value></Field><Field Name="cycle-id"><Value>687</Value></Field><Field Name="cycle"><Value></Value></Field><Field Name="assign-rcyc"><Value></Value></Field><Field Name="exec-time"><Value>12:38:28</Value></Field><Field Name="last-modified"><Value>2018-02-01 12:38:28</Value></Field><Field Name="status"><Value>Failed</Value></Field><Field Name="iterations"><Value></Value></Field><Field Name="actual-tester"><Value>nirk</Value></Field><Field Name="exec-event-handle"><Value></Value></Field><Field Name="attachment"><Value></Value></Field><Field Name="test-id"><Value>38558</Value></Field><Field Name="subtype-id"><Value>hp.qc.test-instance.LR-SCENARIO</Value></Field><Field Name="test-order"><Value>7</Value></Field><Field Name="owner"><Value>yacova</Value></Field><Field Name="bpta-change-awareness"><Value></Value></Field></Fields><RelatedEntities/></Entity>
+2018 02/01/2018 12:38:29:(pid 6428, host il-nirk-pc) DEBUG:  Successfully marked 'Several Admins' in 'OVOC IPP Manager 7.4.2000/Regression/Login', result 'Failed'
+2018 02/01/2018 12:38:29:(pid 6428, host il-nirk-pc) DEBUG:  found RUN ID '103' (TC_TESTCYCL_ID='18243')
+2018 02/01/2018 12:38:29:(pid 6428, host il-nirk-pc) DEBUG: REST close session:
+
+2018 02/01/2018 12:38:29:(pid 6428, host il-nirk-pc) OK! update ALM completed successfully (test 'Several Admins' in 'OVOC IPP Manager 7.4.2000/Regression/Login', new result 'Failed', previous status was 'Passed')
