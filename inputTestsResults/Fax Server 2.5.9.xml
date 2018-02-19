@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests projectPath="Fax Server 2.5.9/Regression/">
+  <section secName="Automation tests">
+	  <test testName="Attachment name bug" 						testMark=" " testResult="Passed"></test>
+	  <test testName="Time on the Fax call log pages (in  out)" testMark=" " testResult="Passed"></test>
+  </section>
+  <section secName="Fax In">	  
+	  <test testName="1800 number" 								testMark=" " testResult="Passed"></test>
+	  <!-- <test testName="2 LDAP 2010 users concurrently" 		testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Call to the fax system by phone" 	testMark=" " testResult="Passed"></test> -->
+	  <test testName="Cover page" 								testMark=" " testResult="Passed"></test>
+	  <!-- <test testName="CSID number" 						testMark=" " testResult="Passed"></test> -->
+	  <test testName="Default fax number" 						testMark=" " testResult="Passed"></test>
+	  <test testName="Different faxes format" 					testMark=" " testResult="Passed"></test>
+	  <test testName="Different numbers format" 				testMark=" " testResult="Passed"></test>
+	  <!-- <test testName="Fax from private number" 			testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Fax to number added via import" 		testMark=" " testResult="Passed"></test> -->
+	  <test testName="International number" 					testMark=" " testResult="Passed"></test>
+	  <!-- <test testName="LDAP 2010" 							testMark=" " testResult="Passed"></test> -->
+	  <!--  <test testName="LDAP 2013" 							testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="LDAP 2013 user with no email" 		testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="LDAP user with no email" 			testMark=" " testResult="Passed"></test> -->
+	  <test testName="Long fax number" 							testMark=" " testResult="Passed"></test>
+	  <test testName="No cover page" 							testMark=" " testResult="Passed"></test>
+	  <test testName="Send Fax" 								testMark=" " testResult="Passed"></test>
+	  <test testName="Send Fax with long display name"  testMark=" " testResult="Passed"></test>
+	  <test testName="Send long fax" 					testMark=" " testResult="Passed"></test>
+	  <test testName="Dialed Number" 					testMark=" " testResult="Passed"></test>
+	  <!-- <test testName="LDAP fax ID, with ID" 							  testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="LDAP fax ID, without fax ID  without Display name" testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="LDAP fax ID, without fax ID with Display name" 	  testMark=" " testResult="Passed"></test> -->
+	  <test testName="Number fax ID, with ID" 							 	  testMark=" " testResult="Passed"></test>
+	  <test testName="Number fax ID, without ID" 						 	  testMark=" " testResult="Passed"></test>
+	  <test testName="Reject Unknown Fax - checked" 					 	  testMark=" " testResult="Passed"></test>
+	  <!-- <test testName="Reject Unknown Fax - unchecked" 					  testMark=" " testResult="Passed"></test> -->
+	  <test testName="System Fax ID" 									 	  testMark=" " testResult="Passed"></test>
+	  <!-- <test testName="Empty LDAP email address" 				testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Empty LDAP Fax ID" 						testMark=" " testResult="Passed"></test> -->
+	  <test testName="Empty System Fax ID" 							testMark=" " testResult="Passed"></test>
+	  <test testName="Long text in From field" 						testMark=" " testResult="Passed"></test>
+	  <!-- <test testName="Long text in LDAP Fax ID" 				testMark=" " testResult="Passed"></test> -->
+	  <test testName="Long text in Number Fax ID" 					testMark=" " testResult="Passed"></test>
+	  <test testName="Long text in System Fax ID" 					testMark=" " testResult="Passed"></test>
+	  <!-- <test testName="Not existing LDAP email address" 		testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Numbers in LDAP Fax ID" 					testMark=" " testResult="Passed"></test> -->
+	  <test testName="Numbers in Numbers Fax ID" 					testMark=" " testResult="Passed"></test>
+	  <test testName="Numbers in System Fax ID" 					testMark=" " testResult="Passed"></test>
+	  <test testName="Special characters in From field" 			testMark=" " testResult="Passed"></test>
+	  <!-- <test testName="Special characters in LDAP Fax ID" 		testMark=" " testResult="Passed"></test> -->
+	  <test testName="Special characters in Numbers Fax ID" 		testMark=" " testResult="Passed"></test>
+	  <test testName="Special characters in System Fax ID"  		testMark=" " testResult="Passed"></test>
+	  <!-- <test testName="2 concurrent faxes" 					testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Disconnect cable" 					testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Hmail process on M2F server" 		testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="More than ports number" 				testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Performance" 						testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Reliability ?€“ stop service" 		testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Restart Hmail process on M2F server" testMark=" " testResult="Passed"></test> -->
+	  <test testName="Several users" 							testMark=" " testResult="Passed"></test>
+	  <test testName="Several users - part with invalid number" testMark=" " testResult="Passed"></test> 
+	  <!--  <test testName="Multiple users- user + printer"   testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="New Printer" 					  testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Not Latin letters in Printer Name" testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Number with printer" 			  testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Printer unavailable" 			  testMark=" " testResult="Passed"></test> -->
+  </section>  
+  <section secName="Fax Out">
+      <test testName="Arabic - doc" 			 testMark=" " testResult="Passed"></test>
+	  <test testName="Arabic - docx" 			 testMark=" " testResult="Passed"></test>
+	  <test testName="Arabic - pdf" 			 testMark=" " testResult="Passed"></test>
+	  <test testName="Arabic - ppt" 			 testMark=" " testResult="Passed"></test>
+	  <test testName="Arabic - rtf" 			 testMark=" " testResult="Passed"></test>
+	  <test testName="Arabic - txt"     	     testMark=" " testResult="Passed"></test>
+	  <test testName="Arabic - xlsx" 			 testMark=" " testResult="Passed"></test>   
+	  <test testName="Attachment name that begins with numbers" 			   testMark=" " testResult="Passed"></test>
+	  <test testName="Attachment that has specific file name format" 		   testMark=" " testResult="Passed"></test>
+	  <test testName="Attachments in different format and different languages" testMark=" " testResult="Passed"></test>
+	  <test testName="BMP attachement" 										   testMark=" " testResult="Passed"></test>
+	  <test testName="Csv Attachment" 										   testMark=" " testResult="Passed"></test>
+	  <test testName="Doc Attachment" 										   testMark=" " testResult="Passed"></test>
+	  <test testName="Docx Attachment" 										   testMark=" " testResult="Passed"></test>
+	  <test testName="draw document by Open Office-odg" 					   testMark=" " testResult="Passed"></test>
+	  <test testName="Excel document by Open Office-ods" 					   testMark=" " testResult="Passed"></test>
+	  <test testName="Excel file with macro" 								   testMark=" " testResult="Passed"></test>
+	  <test testName="Fax with attachment in different languages" 			   testMark=" " testResult="Passed"></test>
+	  <test testName="Fax with attachment name that has special characters"    testMark=" " testResult="Passed"></test>
+	  <test testName="Fax with different attachment types part 1" 			   testMark=" " testResult="Passed"></test>
+	  <test testName="Fax with different attachment types part 2" 			   testMark=" " testResult="Passed"></test>
+	  <test testName="Gif attachement" 										   testMark=" " testResult="Passed"></test>
+	  <test testName="Heavy attachment" 									   testMark=" " testResult="Passed"></test>
+	  <test testName="HTML Attachment" 										   testMark=" " testResult="Passed"></test>
+	  <test testName="Invalid attachment" 									   testMark=" " testResult="Passed"></test>
+	  <test testName="Jpeg attachement" 									   testMark=" " testResult="Passed"></test>
+	  <test testName="Jpg attachement" 										   testMark=" " testResult="Passed"></test>
+	  <test testName="Landscape layout" 									   testMark=" " testResult="Passed"></test>
+	  <test testName="Long att" 											   testMark=" " testResult="Passed"></test>
+	  <test testName="Long file name" 										   testMark=" " testResult="Passed"></test>
+	  <test testName="Non supported Attachment" 							   testMark=" " testResult="Passed"></test>
+	  <test testName="PDF Attachment" 										   testMark=" " testResult="Passed"></test>
+	  <test testName="Png attachement" 										   testMark=" " testResult="Passed"></test>
+	  <test testName="Power Point document by Open Office-odp" 				   testMark=" " testResult="Passed"></test>
+	  <test testName="PPT Attachment" 										   testMark=" " testResult="Passed"></test>
+	  <test testName="PPTX Attachment" 										   testMark=" " testResult="Passed"></test>
+	  <test testName="RTF Attachment" 										   testMark=" " testResult="Passed"></test>
+	  <test testName="Several office att files" 							   testMark=" " testResult="Passed"></test>
+	  <test testName="Several similar attachments" 							   testMark=" " testResult="Passed"></test>
+	  <test testName="Several types of att files" 							   testMark=" " testResult="Passed"></test>
+	  <test testName="Text attachement" 									   testMark=" " testResult="Passed"></test>
+	  <test testName="Text document by Open Office-odt" 					   testMark=" " testResult="Passed"></test>
+	  <test testName="Tif attachement" 										   testMark=" " testResult="Passed"></test>
+	  <test testName="Tiff attachement" 									   testMark=" " testResult="Passed"></test>
+	  <test testName="Word  file with macro" 								   testMark=" " testResult="Passed"></test>
+	  <test testName="Xls Attachment" 										   testMark=" " testResult="Passed"></test>
+	  <test testName="Xlsx Attachment" 										   testMark=" " testResult="Passed"></test>
+	  <test testName="XML Attachment" 										   testMark=" " testResult="Passed"></test>
+  	  <test testName="Complex signature" 												testMark=" " testResult="Passed"></test>
+	  <test testName="Email in html format type" 										testMark=" " testResult="Passed"></test>
+	  <test testName="Email in plain Text format type" 									testMark=" " testResult="Passed"></test>
+	  <test testName="Email in Rich Text format type" 									testMark=" " testResult="Passed"></test>
+	  <test testName="Email with different fonts" 										testMark=" " testResult="Passed"></test>
+	  <test testName="Email with High Importance" 										testMark=" " testResult="Passed"></test>
+	  <test testName="Empty Subject" 													testMark=" " testResult="Passed"></test>
+	  <test testName="Failed fax" 														testMark=" " testResult="Passed"></test>
+	  <test testName="Fax User number starts with -+" 									testMark=" " testResult="Passed"></test>
+	  <test testName="Fax with -To- and -Bcc- not the same address" 					testMark=" " testResult="Passed"></test>
+	  <test testName="Fax with -To- and -Bcc- same address" 							testMark=" " testResult="Passed"></test>
+	  <test testName="Fax with -To- and -Cc- not the same address" 						testMark=" " testResult="Passed"></test>
+	  <test testName="Fax with -To- and -Cc- same address" 								testMark=" " testResult="Passed"></test>
+	  <test testName="Long display name" 												testMark=" " testResult="Passed"></test>
+	  <test testName="Long Subject" 													testMark=" " testResult="Passed"></test>
+	  <test testName="Multiple-valid-targets messages test less than Max Recipients"    testMark=" " testResult="Passed"></test>
+	  <test testName="Multiple-valid-targets messages test to more than Max Recipients" testMark=" " testResult="Passed"></test>
+	  <!-- <test testName="Neevia application down" 									testMark=" " testResult="Passed"></test> -->
+	  <test testName="Non existing user" 												testMark=" " testResult="Passed"></test>
+	  <test testName="Number with no rule matched" 										testMark=" " testResult="Passed"></test>
+	  <test testName="Numbers in subject field" 										testMark=" " testResult="Passed"></test>
+	  <test testName="Send a fax  when destination is in the Bcc" 						testMark=" " testResult="Passed"></test>
+	  <test testName="Send a fax  when destination is in the CC" 						testMark=" " testResult="Passed"></test>
+	  <test testName="Send Email Confirmation" 											testMark=" " testResult="Passed"></test>
+	  <test testName="Signature" 														testMark=" " testResult="Passed"></test>
+	  <test testName="Signature with image" 											testMark=" " testResult="Passed"></test>
+	  <test testName="Signature with tel line" 											testMark=" " testResult="Passed"></test>
+	  <test testName="Signature with web site" 											testMark=" " testResult="Passed"></test>
+	  <test testName="Special characters subject" 										testMark=" " testResult="Passed"></test>
+	  <test testName="Subject" 															testMark=" " testResult="Passed"></test>
+	  <test testName="To" 																testMark=" " testResult="Passed"></test>
+	  <test testName="User added via import" 											testMark=" " testResult="Passed"></test>
+  	  <test testName="Default cover page" 			 testMark=" " testResult="Passed"></test>
+	  <test testName="Html cover page" 				 testMark=" " testResult="Passed"></test>
+	  <test testName="Jpeg cover page" 				 testMark=" " testResult="Passed"></test>
+	  <test testName="Long cover page" 				 testMark=" " testResult="Passed"></test>
+	  <test testName="Mail with cover page" 		 testMark=" " testResult="Passed"></test>
+	  <test testName="Mail without cover CB checked" testMark=" " testResult="Passed"></test>
+	  <test testName="No cover page" 				 testMark=" " testResult="Passed"></test>
+  	  <test testName="System Fax ID" 					   testMark=" " testResult="Passed"></test>
+	  <test testName="User Fax ID, with ID" 			   testMark=" " testResult="Passed"></test>
+	  <test testName="User Fax ID, without ID" 			   testMark=" " testResult="Passed"></test>
+	  <test testName="Limitation of Default CLI field" 	   testMark=" " testResult="Passed"></test>
+	  <test testName="Long System Fax ID" 				   testMark=" " testResult="Passed"></test>
+	  <test testName="Long User Fax ID" 				   testMark=" " testResult="Passed"></test>
+	  <test testName="Numbers in System Fax ID" 		   testMark=" " testResult="Passed"></test>
+	  <test testName="Numbers in Users Fax ID" 			   testMark=" " testResult="Passed"></test>
+	  <test testName="Special characters in System Fax ID" testMark=" " testResult="Passed"></test>
+	  <test testName="Special characters in Users Fax ID"  testMark=" " testResult="Passed"></test>
+  	  <!-- <test testName="Change the retry attempts" 			  testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Change the retry interval" 			  testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Change the retry interval (no answer)" testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Sending Succeeded During Retries" 	  testMark=" " testResult="Passed"></test> --> 
+      <test testName="Russian - doc" 	   testMark=" " testResult="Passed"></test>
+	  <test testName="Russian - docx"  	   testMark=" " testResult="Passed"></test>
+	  <test testName="Russian - pdf" 	   testMark=" " testResult="Passed"></test>
+	  <test testName="Russian - ppt"	   testMark=" " testResult="Passed"></test>
+	  <test testName="Russian - rtf" 	   testMark=" " testResult="Passed"></test>
+	  <test testName="Russian - txt"       testMark=" " testResult="Passed"></test>
+	  <test testName="Russian - xlsx"	   testMark=" " testResult="Passed"></test>
+	  <test testName="Languages (Arabic)"  testMark=" " testResult="Passed"></test>
+	  <test testName="Languages (Hebrew)"  testMark=" " testResult="Passed"></test>
+	  <test testName="Languages (Russian)" testMark=" " testResult="Passed"></test>
+	  <test testName="Languages (Spanish)" testMark=" " testResult="Passed"></test>
+  	  <test testName="Bold message body" 	   testMark=" " testResult="Passed"></test>
+	  <test testName="Empty Body" 			   testMark=" " testResult="Passed"></test>
+	  <test testName="Long line" 			   testMark=" " testResult="Passed"></test>
+	  <test testName="Long message body" 	   testMark=" " testResult="Passed"></test>
+	  <test testName="Message Body" 		   testMark=" " testResult="Passed"></test>
+	  <test testName="Message body with image" testMark=" " testResult="Passed"></test>
+	  <test testName="Message body with table" testMark=" " testResult="Passed"></test>  
+  	  <!-- <test testName="10 m2f concurrently" 			   testMark=" " testResult="Passed"></test> -->
+	  <test testName="Email corresponding" 				  	   testMark=" " testResult="Passed"></test>
+	  <test testName="Group" 							  	   testMark=" " testResult="Passed"></test>
+	  <test testName="Group of valid and invalid users"        testMark=" " testResult="Passed"></test>
+	  <test testName="Invalid number of users" 			  	   testMark=" " testResult="Passed"></test>
+	  <!-- <test testName="More than m2f and f2m ports number" testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="More than ports number" 		       testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Send m2f and f2m concurrently" 	   testMark=" " testResult="Passed"></test> -->
+	  <test testName="Several valid users"     		      	   testMark=" " testResult="Passed"></test>
+	  <test testName="Valid and invalid users" 		 	  	   testMark=" " testResult="Passed"></test>
+  	  <!-- <test testName="Fax machine busy - failed" 				 testMark=" " testResult="Passed"></test> -->
+	  <!--  <test testName="Fax machine busy - passed" 				 testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Fax machine disconnected - failed" 		 testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Fax machine disconnected or don-t answer" testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Fax machine Network disconnected" 		 testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Hmail process on M2F server" 		 	 testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Hmail process on SMTP server" 			 testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="M2f services stopped" 					 testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="No matching GW" 							 testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="No outgoing rule" 						 testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="No user number" 							 testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Restart Hmail process on M2F server"      testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Restart Hmail process on SMTP server"     testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Disconnected  Fax" 			   testMark=" " testResult="Passed"></test> -->
+	  <test testName="Dispaly Remote ID Checked" 	       testMark=" " testResult="Passed"></test>
+	  <test testName="Dispaly Remote ID Unchecked"         testMark=" " testResult="Passed"></test>
+	  <!-- <test testName="ID of a Busy Fax" 			   testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="ID of a No Answer Fax" 		   testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="ID of an empty tray Fax" 	   testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="ID of Disconnected Fax" 		   testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Remote ID Unchecked - busy fax" testMark=" " testResult="Passed"></test> -->
+      <test testName="Russian - doc" 			 testMark=" " testResult="Passed"></test>
+	  <test testName="Russian - docx" 			 testMark=" " testResult="Passed"></test>
+	  <test testName="Russian - pdf" 			 testMark=" " testResult="Passed"></test>
+	  <test testName="Russian - ppt" 			 testMark=" " testResult="Passed"></test>
+	  <test testName="Russian - rtf" 			 testMark=" " testResult="Passed"></test>
+	  <test testName="Russian - txt"     	     testMark=" " testResult="Passed"></test>
+	  <test testName="Russian - xlsx" 			 testMark=" " testResult="Passed"></test>  
+	 <!--  <test testName="Enable Automatic Rotate" 		    testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Enable Automatic Rotate default"	    testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Enable Images Refine Method" 	    testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Enable Images Refine Method default" testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Image Refine balance high" 		    testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Image Refine balance low" 		    testMark=" " testResult="Passed"></test> -->
+  	  <test testName="Spanish - doc" 			 	testMark=" " testResult="Passed"></test>
+	  <test testName="Spanish - docx" 			 	testMark=" " testResult="Passed"></test>
+	  <test testName="Spanish - pdf" 			 	testMark=" " testResult="Passed"></test>
+	  <test testName="Spanish - ppt" 			 	testMark=" " testResult="Passed"></test>
+	  <test testName="Spanish - rtf" 			 	testMark=" " testResult="Passed"></test>
+	  <test testName="Spanish - txt" 			 	testMark=" " testResult="Passed"></test>
+	  <test testName="Spanish - xlsx" 			 	testMark=" " testResult="Passed"></test>		  
+	  <test testName="Special characters - doc"  testMark=" " testResult="Passed"></test>
+	  <test testName="Special characters - docx" testMark=" " testResult="Passed"></test>
+	  <test testName="Special characters - pdf"  testMark=" " testResult="Passed"></test>
+	  <test testName="Special characters - ppt"  testMark=" " testResult="Passed"></test>
+	  <test testName="Special characters - rtf"  testMark=" " testResult="Passed"></test>
+	  <test testName="Special characters - txt"  testMark=" " testResult="Passed"></test>
+	  <test testName="Special characters - xlsx" testMark=" " testResult="Passed"></test>	  
+  </section>  
+  <section secName="Installation">
+	  <!-- <test testName="Installation on clean environment" testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="New Virtual machine installation"  testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Wizard installation" 			  testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Installing Server on Domain"       testMark=" " testResult="Passed"></test> -->
+  </section>  
+  <section secName="License Mechanism">
+	  <!-- <test testName="End of License Grace Period" testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Grace Period" 			    testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="License mechanism"   	    testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="License Mechanism_2" 		testMark=" " testResult="Passed"></test> -->
+  </section>  
+  <section secName="Application logs">
+	  <test testName="Application logs" 					testMark=" " testResult="Passed"></test>
+	  <test testName="Archive logs" 						testMark=" " testResult="Passed"></test>
+	  <test testName="Download all logs in the system" 		testMark=" " testResult="Passed"></test>
+	  <test testName="Fax engine logs" 						testMark=" " testResult="Passed"></test>
+	  <test testName="Fax-In, Fax-Out, Auto-Attendant Logs" testMark=" " testResult="Passed"></test>
+	  <test testName="Log level" 							testMark=" " testResult="Passed"></test>
+	  <test testName="User manuals" 			 			testMark=" " testResult="Passed"></test>
+	  <test testName="Watchdog, Fax-server Logs" 			testMark=" " testResult="Passed"></test>
+	  <test testName="Web-Admin, Activity, Backup Logs" 	testMark=" " testResult="Passed"></test>
+  </section>  
+  <section secName="Backup/ Restore">
+	  <!-- <test testName="Manual backup" testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Restore"       testMark=" " testResult="Passed"></test> -->
+  </section>  
+  <section secName="Basic tests">
+	  <test testName="Symbol cb fax in" 			testMark=" " testResult="Passed"></test>
+	  <test testName="Symbol cb fax in Out" 		testMark=" " testResult="Passed"></test>
+	  <test testName="Add Fax in user" 				testMark=" " testResult="Passed"></test>
+	  <test testName="Add Fax out user" 			testMark=" " testResult="Passed"></test>
+	  <test testName="Add GW" 						testMark=" " testResult="Passed"></test>
+	  <test testName="Add outgoing rule" 			testMark=" " testResult="Passed"></test>
+	  <test testName="Archive checked" 				testMark=" " testResult="Passed"></test>
+	  <test testName="Archive Unchecked" 			testMark=" " testResult="Passed"></test>
+	  <!-- <test testName="Date format"				testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="F2M Load" 				testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Local SMTP settings"		testMark=" " testResult="Passed"></test> -->
+	  <test testName="Login" 						testMark=" " testResult="Passed"></test>
+	  <!-- <test testName="M2F from external mail" 	testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="M2F Load" 				testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Restore - invalid file" 	testMark=" " testResult="Passed"></test> -->
+	  <test testName="Same GW with different port"  testMark=" " testResult="Passed"></test>
+	  <test testName="Watchdog" 					testMark=" " testResult="Passed"></test>
+	  <!-- <test testName="Web pages appearence" 	testMark=" " testResult="Passed"></test> -->
+  </section>
+  <section secName="Import/ Export">
+	  <!-- <test testName="Create template"    testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Export" 			   testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Import" 			   testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Number that exist"  testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Create template_FO" testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Export_FO" 		   testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Import_FO" 		   testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="User that exist"    testMark=" " testResult="Passed"></test> -->
+  </section>
+  <section secName="LDAP settings">
+	  <!-- <test testName="Search users for fax out" testMark=" " testResult="Passed"></test> -->
+  </section>
+  <section secName="License">
+	  <!-- <test testName="Invalid license" testMark=" " testResult="Passed"></test> -->
+  </section>
+  <section secName="SMTP settings">
+	  <!-- <test testName="External SMTP" 		  testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="Local SMTP settings"   testMark=" " testResult="Passed"></test> -->
+  	  <!-- <test testName="SMTP mail server name" testMark=" " testResult="Passed"></test> -->
+	  <!-- <test testName="SMTP out settings" 	  testMark=" " testResult="Passed"></test> -->
+  </section>
+</tests>
