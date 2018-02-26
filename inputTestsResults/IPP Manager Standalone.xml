@@ -4,12 +4,13 @@
 	  <test testName="Alarms page"  				testMark=" " testResult="Passed"></test>
 	  <test testName="Dashboard screen"  			testMark=" " testResult="Passed"></test>
 	  <test testName="delete device"  				testMark=" " testResult="Passed"></test>
+	  <test testName="Devices number"  				testMark=" " testResult="Failed"></test>
 	  <test testName="Change region"  				testMark=" " testResult="Passed"></test>
 	  <test testName="Check status"  				testMark=" " testResult="Passed"></test>
 	  <test testName="Delete"  						testMark=" " testResult="Passed"></test>
-	  <test testName="Devices Status screen"  		testMark=" " testResult="Passed"></test>
+	  <test testName="Devices Status screen"  		testMark=" " testResult="Failed"></test>
 	  <test testName="Devices Status search MAC"  	testMark=" " testResult="Passed"></test>
-	  <test testName="Export device status"  		testMark=" " testResult="Passed"></test>
+	  <test testName="Export device status"  		testMark=" " testResult="Failed"></test>
 	  <test testName="Location tests"  				testMark=" " testResult="Passed"></test>
 	  <test testName="Open web admin"  				testMark=" " testResult="Passed"></test>
 	  <test testName="Region tests"  				testMark=" " testResult="Passed"></test>
@@ -19,6 +20,7 @@
 	  <test testName="Subnet tests"  				testMark=" " testResult="Passed"></test>
 	  <test testName="Update configuration"  		testMark=" " testResult="Passed"></test>
 	  <test testName="Update Firmware"  			testMark=" " testResult="Passed"></test>
+	  <test testName="Filter users"  				testMark=" " testResult="Failed"></test>
 	</section>
     <section secName="Firmware">
 	  <test testName="Add new firmware"  testMark=" " testResult="Passed"></test>
@@ -27,14 +29,14 @@
 	  <test testName="Edit new firmware" testMark=" " testResult="Passed"></test>
 	</section>
     <section secName="Login to OneBox web admin">
-	  <test testName="Twiiter links" 									testMark=" " testResult="Passed"></test>
+	  <test testName="Twitter links" 									testMark=" " testResult="Passed"></test>
 	  <test testName="Twitter section" 									testMark=" " testResult="Passed"></test>
 	  <test testName="Bad Login" 										testMark=" " testResult="Passed"></test>
 	  <test testName="Good login" 										testMark=" " testResult="Passed"></test>
 	  <test testName="Help menus" 										testMark=" " testResult="Passed"></test>
 	  <test testName="HTTPS" 											testMark=" " testResult="Passed"></test>
 	  <test testName="Login Screen" 									testMark=" " testResult="Passed"></test>
-	  <!-- <test testName="Several Admins" 								testMark=" " testResult="Passed"></test> -->
+	  <test testName="Several Admins" 									testMark=" " testResult="Passed"></test>
 	  <!-- <test testName="Stress Test" 								testMark=" " testResult="Passed"></test> -->
 	  <test testName="timeout" 											testMark=" " testResult="Passed"></test>
 	  <test testName="Trial version number appears on the main screen"  testMark=" " testResult="Passed"></test>
@@ -69,12 +71,14 @@
 	  <test testName="Modify password with non-allowed characters"   testMark=" " testResult="Passed"></test>
 	  <test testName="DHCP configuration"   					     testMark=" " testResult="Passed"></test>
 	  <test testName="System Settings"   							 testMark=" " testResult="Passed"></test>
+	  <test testName="Timeout system"   							 testMark=" " testResult="Failed"></test>
 	  <test testName="Add bad template"   	  testMark=" " testResult="Passed"></test>
 	  <test testName="Add Template"   		  testMark=" " testResult="Passed"></test>
 	  <test testName="Default template"   	  testMark=" " testResult="Passed"></test>
 	  <test testName="Delete template"   	  testMark=" " testResult="Passed"></test>
 	  <test testName="Edit Templates"   	  testMark=" " testResult="Passed"></test>
 	  <test testName="IPP models - templates" testMark=" " testResult="Passed"></test> 
+	  <test testName="Template features" 	  testMark=" " testResult="Failed"></test> 
     </section>
 	<section secName="Regions">
 	  <test testName="Add, Edit  Delete region"   			   testMark=" " testResult="Passed"></test>
@@ -92,9 +96,9 @@
 	  <test testName="Import existing users"   			   testMark=" " testResult="Passed"></test>
 	  <test testName="Import many users"   				   testMark=" " testResult="Passed"></test>
 	  <test testName="Import Users and Devices"   		   testMark=" " testResult="Passed"></test>
-	  <test testName="Import users in different languages" testMark=" " testResult="Passed"></test>
+	  <test testName="Import users in different languages" testMark=" " testResult="Failed"></test>
 	  <test testName="Device phone number" 				   testMark=" " testResult="Passed"></test>
-	  <test testName="Change the firmwere"   									testMark=" " testResult="Passed"></test>
+	  <test testName="Change the firmware"   									testMark=" " testResult="Passed"></test>
 	  <test testName="Change the VLAN-discovery mode"   						testMark=" " testResult="Passed"></test>
 	  <test testName="Manage Multiple Devices screen Change FW"   				testMark=" " testResult="Passed"></test>
 	  <test testName="Manage Multiple Devices screen Change IPP Type"   		testMark=" " testResult="Passed"></test>
@@ -129,5 +133,6 @@
 	  <test testName="Edit device - VLAN mode disabled"   			testMark=" " testResult="Passed"></test>
 	  <test testName="Edit device - VLAN mode manual configuration" testMark=" " testResult="Passed"></test>
 	  <test testName="User options"   								testMark=" " testResult="Passed"></test>
+	  <test testName="User with special characters name"			testMark=" " testResult="Failed"></test>  
     </section>
 </tests>
