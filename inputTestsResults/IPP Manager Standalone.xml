@@ -97,6 +97,8 @@
 	  <test testName="Import many users"   				   testMark=" " testResult="Passed"></test>
 	  <test testName="Import Users and Devices"   		   testMark=" " testResult="Passed"></test>
 	  <test testName="Import users in different languages" testMark=" " testResult="Failed"></test>
+	  <test testName="Import stop not continue" 		   testMark=" " testResult="Passed"></test>
+	  <test testName="Import stop and continue" 		   testMark=" " testResult="Passed"></test>
 	  <test testName="Device phone number" 				   testMark=" " testResult="Passed"></test>
 	  <test testName="Change the firmware"   									testMark=" " testResult="Passed"></test>
 	  <test testName="Change the VLAN-discovery mode"   						testMark=" " testResult="Passed"></test>
