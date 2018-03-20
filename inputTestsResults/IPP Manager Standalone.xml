@@ -51,6 +51,7 @@
 	  <test testName="Devices PH screen"   			    	testMark=" " testResult="Passed"></test>
 	  <test testName="Edit Devices PH"   			    	testMark=" " testResult="Passed"></test>
 	  <test testName="upload IPP configuration files"   	testMark=" " testResult="Passed"></test>
+	  <test testName="Generate configuration tests"   		testMark=" " testResult="Passed"></test>
 	  <test testName="Delete configuration file"   			testMark=" " testResult="Passed"></test>
 	  <test testName="download IPP configuration files" 	testMark=" " testResult="Passed"></test>
 	  <test testName="IPP configuration files created"  	testMark=" " testResult="Passed"></test>

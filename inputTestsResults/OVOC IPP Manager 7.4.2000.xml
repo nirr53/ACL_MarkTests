@@ -336,6 +336,7 @@
   	  <test testName="Delete Tenant PH" 	    						 						testMark=" " testResult="Passed"></test>
   	  <!--<test testName="Device PH hierarchy 1" 	    						 				testMark=" " testResult="No Run"></test>-->
   	  <!--<test testName="Device PH hierarchy 2" 	    						 				testMark=" " testResult="No Run"></test>-->
+	  <test testName="Generate configuration tests"   											testMark=" " testResult="Passed"></test>
   	  <test testName="Devices PH screen" 	    						 						testMark=" " testResult="Passed"></test>
 	  <test testName="Duplicate device PH" 	    						 						testMark=" " testResult="Passed"></test>
   	  <test testName="DHCP option configuration" 	    						 				testMark=" " testResult="Passed"></test> 
@@ -349,6 +350,7 @@
   	  <test testName="Edit Tenant PH" 	    						 							testMark=" " testResult="Passed"></test>
   	  <test testName="EMS web-admin tests - System settings - DHCP Option configuration urls"	testMark=" " testResult="Passed"></test>
   	  <test testName="IPP configuration files created" 	    						 			testMark=" " testResult="Passed"></test>
+	  <test testName="Empty password when generate a device" 	    						 	testMark=" " testResult="Passed"></test>
   	  <test testName="IPP models - templates" 	    						 					testMark=" " testResult="Passed"></test>
   	  <test testName="LDAP configuration" 	    						 						testMark=" " testResult="Passed"></test>
   	  <!--<test testName="Many IPP configuration files" 	    						 		testMark=" " testResult="No Run"></test>-->
