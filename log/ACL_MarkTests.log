@@ -36584,3 +36584,1615 @@ Login,timeout," ",Passed,
 2018-04-12 12:25:36,011 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
 2018-04-12 12:25:36,012 INFO  -       
 2018-04-12 12:25:36,012 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "OVOC IPP Manager 7.4.2000/Regression/Users" "Devices timing" " " Passed 
+2018-04-29 15:08:40,064 INFO  - Enter setUp()
+2018-04-29 15:08:40,069 INFO  - 
+
+
+2018-04-29 15:08:40,070 INFO  - +---------------------------------------------------------------------------------------+
+2018-04-29 15:08:40,070 INFO  - |                                                                                       |
+2018-04-29 15:08:40,070 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-04-29 15:08:40,070 INFO  - |                                                                                       |
+2018-04-29 15:08:40,070 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-04-29 15:08:40,070 INFO  - Create new configuration file
+2018-04-29 15:08:40,070 INFO  -    Create configuration file
+2018-04-29 15:08:45,073 INFO  -       New configuration file on <C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark\ALM_test_mark.cfg> was created !!
+2018-04-29 15:08:45,073 INFO  -    Write data to the created configuration file
+2018-04-29 15:08:45,075 INFO  - Run on all the xml-tests-file and send tests for the command line
+2018-04-29 15:08:45,076 INFO  -       testsInpFile - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\SBA.xml
+2018-04-29 15:13:32,285 INFO  - Enter setUp()
+2018-04-29 15:13:32,289 INFO  - 
+
+
+2018-04-29 15:13:32,289 INFO  - +---------------------------------------------------------------------------------------+
+2018-04-29 15:13:32,290 INFO  - |                                                                                       |
+2018-04-29 15:13:32,290 INFO  - |   ACL_MarkTests.UpdateResults  -  Start update    
+2018-04-29 15:13:32,290 INFO  - |                                                                                       |
+2018-04-29 15:13:32,290 INFO  - +---------------------------------------------------------------------------------------+
+
+
+2018-04-29 15:13:32,290 INFO  - Create new configuration file
+2018-04-29 15:13:32,290 INFO  -    Create configuration file
+2018-04-29 15:13:37,291 INFO  -       New configuration file on <C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark\ALM_test_mark.cfg> was created !!
+2018-04-29 15:13:37,292 INFO  -    Write data to the created configuration file
+2018-04-29 15:13:37,294 INFO  - Run on all the xml-tests-file and send tests for the command line
+2018-04-29 15:13:37,294 INFO  -       testsInpFile - C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\inputTestsResults\SBA.xml
+2018-04-29 15:13:37,321 INFO  -       Get project path
+2018-04-29 15:13:37,322 INFO  -    projectPath - SBA/Regression/
+2018-04-29 15:13:37,326 INFO  -    secElementName - Burn
+2018-04-29 15:13:37,327 INFO  -    secElementName - Function
+2018-04-29 15:13:37,327 INFO  -    secElementName - NUERA
+2018-04-29 15:13:37,327 INFO  -    secElementName - SNMP
+2018-04-29 15:13:37,328 INFO  -       Get data for the current test
+2018-04-29 15:13:37,328 INFO  -          testName - Add SNMP
+2018-04-29 15:13:37,328 INFO  -          testMark -  
+2018-04-29 15:13:37,328 INFO  -          testResult - Passed
+2018-04-29 15:13:37,329 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:37,329 INFO  -    Get data for command line
+2018-04-29 15:13:37,329 INFO  - ---------
+2018-04-29 15:13:37,330 INFO  -       SBA/Regression/
+2018-04-29 15:13:37,330 INFO  -       SNMP
+2018-04-29 15:13:37,330 INFO  -       Add SNMP
+2018-04-29 15:13:37,330 INFO  -        
+2018-04-29 15:13:37,330 INFO  -       Passed
+2018-04-29 15:13:37,330 INFO  - ---------
+2018-04-29 15:13:37,331 INFO  -       almFullsecPath - SBA/Regression/SNMP
+2018-04-29 15:13:37,394 INFO  -       
+2018-04-29 15:13:37,394 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:37,394 INFO  -       
+2018-04-29 15:13:37,394 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:37,394 INFO  -       
+2018-04-29 15:13:37,394 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH=SBA/Regression/SNMP 
+2018-04-29 15:13:37,394 INFO  -       
+2018-04-29 15:13:37,394 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Add SNMP" 
+2018-04-29 15:13:37,395 INFO  -       
+2018-04-29 15:13:37,395 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:37,395 INFO  -       
+2018-04-29 15:13:37,395 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:37,395 INFO  -       
+2018-04-29 15:13:37,395 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe SBA/Regression/SNMP "Add SNMP" " " Passed 
+2018-04-29 15:13:38,498 INFO  -       Get data for the current test
+2018-04-29 15:13:38,498 INFO  -          testName - Invalid string
+2018-04-29 15:13:38,499 INFO  -          testMark -  
+2018-04-29 15:13:38,499 INFO  -          testResult - Passed
+2018-04-29 15:13:38,499 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:38,499 INFO  -    Get data for command line
+2018-04-29 15:13:38,500 INFO  - ---------
+2018-04-29 15:13:38,500 INFO  -       SBA/Regression/
+2018-04-29 15:13:38,500 INFO  -       SNMP
+2018-04-29 15:13:38,500 INFO  -       Invalid string
+2018-04-29 15:13:38,500 INFO  -        
+2018-04-29 15:13:38,501 INFO  -       Passed
+2018-04-29 15:13:38,501 INFO  - ---------
+2018-04-29 15:13:38,501 INFO  -       almFullsecPath - SBA/Regression/SNMP
+2018-04-29 15:13:38,564 INFO  -       
+2018-04-29 15:13:38,564 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:38,564 INFO  -       
+2018-04-29 15:13:38,565 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:38,565 INFO  -       
+2018-04-29 15:13:38,565 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH=SBA/Regression/SNMP 
+2018-04-29 15:13:38,565 INFO  -       
+2018-04-29 15:13:38,565 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Invalid string" 
+2018-04-29 15:13:38,565 INFO  -       
+2018-04-29 15:13:38,565 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:38,566 INFO  -       
+2018-04-29 15:13:38,566 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:38,566 INFO  -       
+2018-04-29 15:13:38,566 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe SBA/Regression/SNMP "Invalid string" " " Passed 
+2018-04-29 15:13:39,641 INFO  -       Get data for the current test
+2018-04-29 15:13:39,641 INFO  -          testName - OVOC_Add SNMP
+2018-04-29 15:13:39,641 INFO  -          testMark -  
+2018-04-29 15:13:39,642 INFO  -          testResult - Passed
+2018-04-29 15:13:39,642 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:39,642 INFO  -    Get data for command line
+2018-04-29 15:13:39,643 INFO  - ---------
+2018-04-29 15:13:39,643 INFO  -       SBA/Regression/
+2018-04-29 15:13:39,643 INFO  -       SNMP
+2018-04-29 15:13:39,643 INFO  -       OVOC_Add SNMP
+2018-04-29 15:13:39,644 INFO  -        
+2018-04-29 15:13:39,644 INFO  -       Passed
+2018-04-29 15:13:39,644 INFO  - ---------
+2018-04-29 15:13:39,644 INFO  -       almFullsecPath - SBA/Regression/SNMP
+2018-04-29 15:13:39,721 INFO  -       
+2018-04-29 15:13:39,721 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:39,721 INFO  -       
+2018-04-29 15:13:39,721 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:39,722 INFO  -       
+2018-04-29 15:13:39,722 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH=SBA/Regression/SNMP 
+2018-04-29 15:13:39,722 INFO  -       
+2018-04-29 15:13:39,722 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="OVOC_Add SNMP" 
+2018-04-29 15:13:39,722 INFO  -       
+2018-04-29 15:13:39,722 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:39,722 INFO  -       
+2018-04-29 15:13:39,722 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:39,723 INFO  -       
+2018-04-29 15:13:39,723 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe SBA/Regression/SNMP "OVOC_Add SNMP" " " Passed 
+2018-04-29 15:13:40,821 INFO  -       Get data for the current test
+2018-04-29 15:13:40,821 INFO  -          testName - OVOC_Invalid string
+2018-04-29 15:13:40,821 INFO  -          testMark -  
+2018-04-29 15:13:40,822 INFO  -          testResult - Passed
+2018-04-29 15:13:40,822 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:40,822 INFO  -    Get data for command line
+2018-04-29 15:13:40,822 INFO  - ---------
+2018-04-29 15:13:40,822 INFO  -       SBA/Regression/
+2018-04-29 15:13:40,823 INFO  -       SNMP
+2018-04-29 15:13:40,823 INFO  -       OVOC_Invalid string
+2018-04-29 15:13:40,823 INFO  -        
+2018-04-29 15:13:40,823 INFO  -       Passed
+2018-04-29 15:13:40,823 INFO  - ---------
+2018-04-29 15:13:40,823 INFO  -       almFullsecPath - SBA/Regression/SNMP
+2018-04-29 15:13:40,882 INFO  -       
+2018-04-29 15:13:40,882 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:40,882 INFO  -       
+2018-04-29 15:13:40,882 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:40,882 INFO  -       
+2018-04-29 15:13:40,882 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH=SBA/Regression/SNMP 
+2018-04-29 15:13:40,882 INFO  -       
+2018-04-29 15:13:40,882 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="OVOC_Invalid string" 
+2018-04-29 15:13:40,883 INFO  -       
+2018-04-29 15:13:40,883 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:40,883 INFO  -       
+2018-04-29 15:13:40,883 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:40,883 INFO  -       
+2018-04-29 15:13:40,883 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe SBA/Regression/SNMP "OVOC_Invalid string" " " Passed 
+2018-04-29 15:13:41,968 INFO  -    secElementName - Teaming
+2018-04-29 15:13:41,969 INFO  -    secElementName - Upgrade / Remote Burn
+2018-04-29 15:13:41,969 INFO  -    secElementName - Web tests
+2018-04-29 15:13:41,969 INFO  -       Get data for the current test
+2018-04-29 15:13:41,969 INFO  -          testName - Login
+2018-04-29 15:13:41,970 INFO  -          testMark -  
+2018-04-29 15:13:41,970 INFO  -          testResult - Passed
+2018-04-29 15:13:41,970 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:41,970 INFO  -    Get data for command line
+2018-04-29 15:13:41,970 INFO  - ---------
+2018-04-29 15:13:41,971 INFO  -       SBA/Regression/
+2018-04-29 15:13:41,971 INFO  -       Web tests
+2018-04-29 15:13:41,971 INFO  -       Login
+2018-04-29 15:13:41,971 INFO  -        
+2018-04-29 15:13:41,971 INFO  -       Passed
+2018-04-29 15:13:41,971 INFO  - ---------
+2018-04-29 15:13:41,971 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:13:42,003 INFO  -       
+2018-04-29 15:13:42,004 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:42,004 INFO  -       
+2018-04-29 15:13:42,004 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:42,004 INFO  -       
+2018-04-29 15:13:42,004 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:13:42,004 INFO  -       
+2018-04-29 15:13:42,004 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME=Login 
+2018-04-29 15:13:42,004 INFO  -       
+2018-04-29 15:13:42,004 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:42,004 INFO  -       
+2018-04-29 15:13:42,004 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:42,005 INFO  -       
+2018-04-29 15:13:42,005 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" Login " " Passed 
+2018-04-29 15:13:43,068 INFO  -       Get data for the current test
+2018-04-29 15:13:43,068 INFO  -          testName - Time Out
+2018-04-29 15:13:43,068 INFO  -          testMark -  
+2018-04-29 15:13:43,068 INFO  -          testResult - Passed
+2018-04-29 15:13:43,068 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:43,068 INFO  -    Get data for command line
+2018-04-29 15:13:43,068 INFO  - ---------
+2018-04-29 15:13:43,068 INFO  -       SBA/Regression/
+2018-04-29 15:13:43,068 INFO  -       Web tests
+2018-04-29 15:13:43,068 INFO  -       Time Out
+2018-04-29 15:13:43,068 INFO  -        
+2018-04-29 15:13:43,069 INFO  -       Passed
+2018-04-29 15:13:43,069 INFO  - ---------
+2018-04-29 15:13:43,069 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:13:43,095 INFO  -       
+2018-04-29 15:13:43,095 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:43,095 INFO  -       
+2018-04-29 15:13:43,095 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:43,095 INFO  -       
+2018-04-29 15:13:43,095 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:13:43,095 INFO  -       
+2018-04-29 15:13:43,095 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Time Out" 
+2018-04-29 15:13:43,095 INFO  -       
+2018-04-29 15:13:43,095 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:43,096 INFO  -       
+2018-04-29 15:13:43,096 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:43,096 INFO  -       
+2018-04-29 15:13:43,096 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Time Out" " " Passed 
+2018-04-29 15:13:44,161 INFO  -       Get data for the current test
+2018-04-29 15:13:44,161 INFO  -          testName - Toolbar
+2018-04-29 15:13:44,162 INFO  -          testMark -  
+2018-04-29 15:13:44,162 INFO  -          testResult - Passed
+2018-04-29 15:13:44,162 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:44,162 INFO  -    Get data for command line
+2018-04-29 15:13:44,162 INFO  - ---------
+2018-04-29 15:13:44,163 INFO  -       SBA/Regression/
+2018-04-29 15:13:44,163 INFO  -       Web tests
+2018-04-29 15:13:44,163 INFO  -       Toolbar
+2018-04-29 15:13:44,163 INFO  -        
+2018-04-29 15:13:44,163 INFO  -       Passed
+2018-04-29 15:13:44,163 INFO  - ---------
+2018-04-29 15:13:44,164 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:13:44,217 INFO  -       
+2018-04-29 15:13:44,217 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:44,217 INFO  -       
+2018-04-29 15:13:44,217 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:44,217 INFO  -       
+2018-04-29 15:13:44,217 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:13:44,217 INFO  -       
+2018-04-29 15:13:44,217 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME=Toolbar 
+2018-04-29 15:13:44,217 INFO  -       
+2018-04-29 15:13:44,218 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:44,218 INFO  -       
+2018-04-29 15:13:44,218 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:44,218 INFO  -       
+2018-04-29 15:13:44,218 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" Toolbar " " Passed 
+2018-04-29 15:13:45,285 INFO  -       Get data for the current test
+2018-04-29 15:13:45,285 INFO  -          testName - Active Alarms
+2018-04-29 15:13:45,285 INFO  -          testMark -  
+2018-04-29 15:13:45,286 INFO  -          testResult - Passed
+2018-04-29 15:13:45,286 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:45,286 INFO  -    Get data for command line
+2018-04-29 15:13:45,286 INFO  - ---------
+2018-04-29 15:13:45,286 INFO  -       SBA/Regression/
+2018-04-29 15:13:45,286 INFO  -       Web tests
+2018-04-29 15:13:45,286 INFO  -       Active Alarms
+2018-04-29 15:13:45,286 INFO  -        
+2018-04-29 15:13:45,287 INFO  -       Passed
+2018-04-29 15:13:45,287 INFO  - ---------
+2018-04-29 15:13:45,287 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:13:45,340 INFO  -       
+2018-04-29 15:13:45,340 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:45,340 INFO  -       
+2018-04-29 15:13:45,340 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:45,340 INFO  -       
+2018-04-29 15:13:45,340 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:13:45,340 INFO  -       
+2018-04-29 15:13:45,340 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Active Alarms" 
+2018-04-29 15:13:45,340 INFO  -       
+2018-04-29 15:13:45,341 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:45,341 INFO  -       
+2018-04-29 15:13:45,341 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:45,341 INFO  -       
+2018-04-29 15:13:45,341 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Active Alarms" " " Passed 
+2018-04-29 15:13:46,410 INFO  -       Get data for the current test
+2018-04-29 15:13:46,410 INFO  -          testName - Active Registered Endpoints
+2018-04-29 15:13:46,410 INFO  -          testMark -  
+2018-04-29 15:13:46,410 INFO  -          testResult - Passed
+2018-04-29 15:13:46,411 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:46,411 INFO  -    Get data for command line
+2018-04-29 15:13:46,411 INFO  - ---------
+2018-04-29 15:13:46,411 INFO  -       SBA/Regression/
+2018-04-29 15:13:46,412 INFO  -       Web tests
+2018-04-29 15:13:46,412 INFO  -       Active Registered Endpoints
+2018-04-29 15:13:46,413 INFO  -        
+2018-04-29 15:13:46,413 INFO  -       Passed
+2018-04-29 15:13:46,413 INFO  - ---------
+2018-04-29 15:13:46,414 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:13:46,468 INFO  -       
+2018-04-29 15:13:46,468 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:46,469 INFO  -       
+2018-04-29 15:13:46,469 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:46,469 INFO  -       
+2018-04-29 15:13:46,469 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:13:46,469 INFO  -       
+2018-04-29 15:13:46,469 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Active Registered Endpoints" 
+2018-04-29 15:13:46,469 INFO  -       
+2018-04-29 15:13:46,469 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:46,469 INFO  -       
+2018-04-29 15:13:46,469 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:46,470 INFO  -       
+2018-04-29 15:13:46,470 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Active Registered Endpoints" " " Passed 
+2018-04-29 15:13:47,542 INFO  -       Get data for the current test
+2018-04-29 15:13:47,542 INFO  -          testName - Active Registered Users
+2018-04-29 15:13:47,542 INFO  -          testMark -  
+2018-04-29 15:13:47,542 INFO  -          testResult - Passed
+2018-04-29 15:13:47,542 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:47,542 INFO  -    Get data for command line
+2018-04-29 15:13:47,542 INFO  - ---------
+2018-04-29 15:13:47,542 INFO  -       SBA/Regression/
+2018-04-29 15:13:47,542 INFO  -       Web tests
+2018-04-29 15:13:47,543 INFO  -       Active Registered Users
+2018-04-29 15:13:47,543 INFO  -        
+2018-04-29 15:13:47,543 INFO  -       Passed
+2018-04-29 15:13:47,543 INFO  - ---------
+2018-04-29 15:13:47,543 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:13:47,585 INFO  -       
+2018-04-29 15:13:47,585 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:47,585 INFO  -       
+2018-04-29 15:13:47,585 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:47,585 INFO  -       
+2018-04-29 15:13:47,585 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:13:47,586 INFO  -       
+2018-04-29 15:13:47,586 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Active Registered Users" 
+2018-04-29 15:13:47,586 INFO  -       
+2018-04-29 15:13:47,586 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:47,586 INFO  -       
+2018-04-29 15:13:47,586 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:47,586 INFO  -       
+2018-04-29 15:13:47,587 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Active Registered Users" " " Passed 
+2018-04-29 15:13:48,683 INFO  -       Get data for the current test
+2018-04-29 15:13:48,683 INFO  -          testName - Available MBytes
+2018-04-29 15:13:48,683 INFO  -          testMark -  
+2018-04-29 15:13:48,683 INFO  -          testResult - Passed
+2018-04-29 15:13:48,683 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:48,683 INFO  -    Get data for command line
+2018-04-29 15:13:48,683 INFO  - ---------
+2018-04-29 15:13:48,683 INFO  -       SBA/Regression/
+2018-04-29 15:13:48,683 INFO  -       Web tests
+2018-04-29 15:13:48,683 INFO  -       Available MBytes
+2018-04-29 15:13:48,683 INFO  -        
+2018-04-29 15:13:48,683 INFO  -       Passed
+2018-04-29 15:13:48,683 INFO  - ---------
+2018-04-29 15:13:48,683 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:13:48,708 INFO  -       
+2018-04-29 15:13:48,708 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:48,708 INFO  -       
+2018-04-29 15:13:48,708 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:48,709 INFO  -       
+2018-04-29 15:13:48,709 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:13:48,709 INFO  -       
+2018-04-29 15:13:48,709 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Available MBytes" 
+2018-04-29 15:13:48,709 INFO  -       
+2018-04-29 15:13:48,709 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:48,709 INFO  -       
+2018-04-29 15:13:48,709 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:48,709 INFO  -       
+2018-04-29 15:13:48,709 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Available MBytes" " " Passed 
+2018-04-29 15:13:49,775 INFO  -       Get data for the current test
+2018-04-29 15:13:49,775 INFO  -          testName - CPU Utilization
+2018-04-29 15:13:49,775 INFO  -          testMark -  
+2018-04-29 15:13:49,775 INFO  -          testResult - Passed
+2018-04-29 15:13:49,775 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:49,775 INFO  -    Get data for command line
+2018-04-29 15:13:49,775 INFO  - ---------
+2018-04-29 15:13:49,776 INFO  -       SBA/Regression/
+2018-04-29 15:13:49,776 INFO  -       Web tests
+2018-04-29 15:13:49,776 INFO  -       CPU Utilization
+2018-04-29 15:13:49,776 INFO  -        
+2018-04-29 15:13:49,776 INFO  -       Passed
+2018-04-29 15:13:49,776 INFO  - ---------
+2018-04-29 15:13:49,776 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:13:49,823 INFO  -       
+2018-04-29 15:13:49,824 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:49,824 INFO  -       
+2018-04-29 15:13:49,824 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:49,824 INFO  -       
+2018-04-29 15:13:49,824 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:13:49,824 INFO  -       
+2018-04-29 15:13:49,824 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="CPU Utilization" 
+2018-04-29 15:13:49,824 INFO  -       
+2018-04-29 15:13:49,824 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:49,825 INFO  -       
+2018-04-29 15:13:49,825 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:49,825 INFO  -       
+2018-04-29 15:13:49,825 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "CPU Utilization" " " Passed 
+2018-04-29 15:13:50,885 INFO  -       Get data for the current test
+2018-04-29 15:13:50,885 INFO  -          testName - General
+2018-04-29 15:13:50,885 INFO  -          testMark -  
+2018-04-29 15:13:50,885 INFO  -          testResult - Passed
+2018-04-29 15:13:50,885 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:50,885 INFO  -    Get data for command line
+2018-04-29 15:13:50,885 INFO  - ---------
+2018-04-29 15:13:50,885 INFO  -       SBA/Regression/
+2018-04-29 15:13:50,885 INFO  -       Web tests
+2018-04-29 15:13:50,885 INFO  -       General
+2018-04-29 15:13:50,885 INFO  -        
+2018-04-29 15:13:50,885 INFO  -       Passed
+2018-04-29 15:13:50,885 INFO  - ---------
+2018-04-29 15:13:50,885 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:13:50,911 INFO  -       
+2018-04-29 15:13:50,911 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:50,911 INFO  -       
+2018-04-29 15:13:50,911 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:50,911 INFO  -       
+2018-04-29 15:13:50,911 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:13:50,912 INFO  -       
+2018-04-29 15:13:50,912 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME=General 
+2018-04-29 15:13:50,912 INFO  -       
+2018-04-29 15:13:50,912 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:50,912 INFO  -       
+2018-04-29 15:13:50,912 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:50,912 INFO  -       
+2018-04-29 15:13:50,912 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" General " " Passed 
+2018-04-29 15:13:51,975 INFO  -       Get data for the current test
+2018-04-29 15:13:51,975 INFO  -          testName - Inbound Calls
+2018-04-29 15:13:51,976 INFO  -          testMark -  
+2018-04-29 15:13:51,976 INFO  -          testResult - Passed
+2018-04-29 15:13:51,976 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:51,976 INFO  -    Get data for command line
+2018-04-29 15:13:51,976 INFO  - ---------
+2018-04-29 15:13:51,976 INFO  -       SBA/Regression/
+2018-04-29 15:13:51,976 INFO  -       Web tests
+2018-04-29 15:13:51,976 INFO  -       Inbound Calls
+2018-04-29 15:13:51,976 INFO  -        
+2018-04-29 15:13:51,976 INFO  -       Passed
+2018-04-29 15:13:51,977 INFO  - ---------
+2018-04-29 15:13:51,977 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:13:52,032 INFO  -       
+2018-04-29 15:13:52,032 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:52,032 INFO  -       
+2018-04-29 15:13:52,032 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:52,032 INFO  -       
+2018-04-29 15:13:52,032 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:13:52,032 INFO  -       
+2018-04-29 15:13:52,032 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Inbound Calls" 
+2018-04-29 15:13:52,032 INFO  -       
+2018-04-29 15:13:52,032 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:52,032 INFO  -       
+2018-04-29 15:13:52,032 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:52,032 INFO  -       
+2018-04-29 15:13:52,032 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Inbound Calls" " " Passed 
+2018-04-29 15:13:53,096 INFO  -       Get data for the current test
+2018-04-29 15:13:53,096 INFO  -          testName - Outbound Calls
+2018-04-29 15:13:53,096 INFO  -          testMark -  
+2018-04-29 15:13:53,096 INFO  -          testResult - Passed
+2018-04-29 15:13:53,097 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:53,097 INFO  -    Get data for command line
+2018-04-29 15:13:53,097 INFO  - ---------
+2018-04-29 15:13:53,097 INFO  -       SBA/Regression/
+2018-04-29 15:13:53,097 INFO  -       Web tests
+2018-04-29 15:13:53,097 INFO  -       Outbound Calls
+2018-04-29 15:13:53,097 INFO  -        
+2018-04-29 15:13:53,097 INFO  -       Passed
+2018-04-29 15:13:53,097 INFO  - ---------
+2018-04-29 15:13:53,097 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:13:53,157 INFO  -       
+2018-04-29 15:13:53,157 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:53,157 INFO  -       
+2018-04-29 15:13:53,158 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:53,158 INFO  -       
+2018-04-29 15:13:53,158 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:13:53,158 INFO  -       
+2018-04-29 15:13:53,158 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Outbound Calls" 
+2018-04-29 15:13:53,158 INFO  -       
+2018-04-29 15:13:53,158 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:53,158 INFO  -       
+2018-04-29 15:13:53,158 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:53,159 INFO  -       
+2018-04-29 15:13:53,159 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Outbound Calls" " " Passed 
+2018-04-29 15:13:54,231 INFO  -       Get data for the current test
+2018-04-29 15:13:54,231 INFO  -          testName - SBC-Gateway
+2018-04-29 15:13:54,231 INFO  -          testMark -  
+2018-04-29 15:13:54,231 INFO  -          testResult - Passed
+2018-04-29 15:13:54,231 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:54,231 INFO  -    Get data for command line
+2018-04-29 15:13:54,231 INFO  - ---------
+2018-04-29 15:13:54,231 INFO  -       SBA/Regression/
+2018-04-29 15:13:54,231 INFO  -       Web tests
+2018-04-29 15:13:54,231 INFO  -       SBC-Gateway
+2018-04-29 15:13:54,231 INFO  -        
+2018-04-29 15:13:54,231 INFO  -       Passed
+2018-04-29 15:13:54,231 INFO  - ---------
+2018-04-29 15:13:54,231 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:13:54,268 INFO  -       
+2018-04-29 15:13:54,268 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:54,268 INFO  -       
+2018-04-29 15:13:54,268 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:54,268 INFO  -       
+2018-04-29 15:13:54,268 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:13:54,269 INFO  -       
+2018-04-29 15:13:54,269 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME=SBC-Gateway 
+2018-04-29 15:13:54,269 INFO  -       
+2018-04-29 15:13:54,269 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:54,269 INFO  -       
+2018-04-29 15:13:54,269 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:54,269 INFO  -       
+2018-04-29 15:13:54,270 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" SBC-Gateway " " Passed 
+2018-04-29 15:13:55,337 INFO  -       Get data for the current test
+2018-04-29 15:13:55,337 INFO  -          testName - Active Registered Endpoints graph
+2018-04-29 15:13:55,337 INFO  -          testMark -  
+2018-04-29 15:13:55,337 INFO  -          testResult - Passed
+2018-04-29 15:13:55,337 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:55,337 INFO  -    Get data for command line
+2018-04-29 15:13:55,337 INFO  - ---------
+2018-04-29 15:13:55,337 INFO  -       SBA/Regression/
+2018-04-29 15:13:55,337 INFO  -       Web tests
+2018-04-29 15:13:55,337 INFO  -       Active Registered Endpoints graph
+2018-04-29 15:13:55,337 INFO  -        
+2018-04-29 15:13:55,337 INFO  -       Passed
+2018-04-29 15:13:55,337 INFO  - ---------
+2018-04-29 15:13:55,337 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:13:55,384 INFO  -       
+2018-04-29 15:13:55,384 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:55,384 INFO  -       
+2018-04-29 15:13:55,384 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:55,385 INFO  -       
+2018-04-29 15:13:55,385 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:13:55,385 INFO  -       
+2018-04-29 15:13:55,385 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Active Registered Endpoints graph" 
+2018-04-29 15:13:55,386 INFO  -       
+2018-04-29 15:13:55,386 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:55,386 INFO  -       
+2018-04-29 15:13:55,386 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:55,386 INFO  -       
+2018-04-29 15:13:55,386 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Active Registered Endpoints graph" " " Passed 
+2018-04-29 15:13:56,465 INFO  -       Get data for the current test
+2018-04-29 15:13:56,465 INFO  -          testName - Active Registered Users graph
+2018-04-29 15:13:56,465 INFO  -          testMark -  
+2018-04-29 15:13:56,465 INFO  -          testResult - Passed
+2018-04-29 15:13:56,465 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:56,465 INFO  -    Get data for command line
+2018-04-29 15:13:56,465 INFO  - ---------
+2018-04-29 15:13:56,465 INFO  -       SBA/Regression/
+2018-04-29 15:13:56,465 INFO  -       Web tests
+2018-04-29 15:13:56,466 INFO  -       Active Registered Users graph
+2018-04-29 15:13:56,466 INFO  -        
+2018-04-29 15:13:56,466 INFO  -       Passed
+2018-04-29 15:13:56,466 INFO  - ---------
+2018-04-29 15:13:56,466 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:13:56,515 INFO  -       
+2018-04-29 15:13:56,515 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:56,515 INFO  -       
+2018-04-29 15:13:56,515 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:56,515 INFO  -       
+2018-04-29 15:13:56,515 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:13:56,516 INFO  -       
+2018-04-29 15:13:56,516 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Active Registered Users graph" 
+2018-04-29 15:13:56,516 INFO  -       
+2018-04-29 15:13:56,516 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:56,516 INFO  -       
+2018-04-29 15:13:56,516 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:56,516 INFO  -       
+2018-04-29 15:13:56,516 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Active Registered Users graph" " " Passed 
+2018-04-29 15:13:57,596 INFO  -       Get data for the current test
+2018-04-29 15:13:57,596 INFO  -          testName - Front-end Server graphs
+2018-04-29 15:13:57,596 INFO  -          testMark -  
+2018-04-29 15:13:57,596 INFO  -          testResult - Passed
+2018-04-29 15:13:57,596 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:57,596 INFO  -    Get data for command line
+2018-04-29 15:13:57,596 INFO  - ---------
+2018-04-29 15:13:57,596 INFO  -       SBA/Regression/
+2018-04-29 15:13:57,596 INFO  -       Web tests
+2018-04-29 15:13:57,596 INFO  -       Front-end Server graphs
+2018-04-29 15:13:57,596 INFO  -        
+2018-04-29 15:13:57,596 INFO  -       Passed
+2018-04-29 15:13:57,596 INFO  - ---------
+2018-04-29 15:13:57,596 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:13:57,637 INFO  -       
+2018-04-29 15:13:57,637 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:57,637 INFO  -       
+2018-04-29 15:13:57,637 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:57,638 INFO  -       
+2018-04-29 15:13:57,638 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:13:57,638 INFO  -       
+2018-04-29 15:13:57,638 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Front-end Server graphs" 
+2018-04-29 15:13:57,638 INFO  -       
+2018-04-29 15:13:57,638 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:57,638 INFO  -       
+2018-04-29 15:13:57,638 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:57,639 INFO  -       
+2018-04-29 15:13:57,639 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Front-end Server graphs" " " Passed 
+2018-04-29 15:13:58,714 INFO  -       Get data for the current test
+2018-04-29 15:13:58,714 INFO  -          testName - General Server Health graphs
+2018-04-29 15:13:58,714 INFO  -          testMark -  
+2018-04-29 15:13:58,714 INFO  -          testResult - Passed
+2018-04-29 15:13:58,714 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:58,714 INFO  -    Get data for command line
+2018-04-29 15:13:58,715 INFO  - ---------
+2018-04-29 15:13:58,716 INFO  -       SBA/Regression/
+2018-04-29 15:13:58,716 INFO  -       Web tests
+2018-04-29 15:13:58,716 INFO  -       General Server Health graphs
+2018-04-29 15:13:58,716 INFO  -        
+2018-04-29 15:13:58,716 INFO  -       Passed
+2018-04-29 15:13:58,716 INFO  - ---------
+2018-04-29 15:13:58,716 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:13:58,771 INFO  -       
+2018-04-29 15:13:58,771 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:58,771 INFO  -       
+2018-04-29 15:13:58,771 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:58,772 INFO  -       
+2018-04-29 15:13:58,772 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:13:58,772 INFO  -       
+2018-04-29 15:13:58,772 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="General Server Health graphs" 
+2018-04-29 15:13:58,772 INFO  -       
+2018-04-29 15:13:58,772 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:58,772 INFO  -       
+2018-04-29 15:13:58,772 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:58,772 INFO  -       
+2018-04-29 15:13:58,772 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "General Server Health graphs" " " Passed 
+2018-04-29 15:13:59,860 INFO  -       Get data for the current test
+2018-04-29 15:13:59,860 INFO  -          testName - On- and -Off- page switch
+2018-04-29 15:13:59,860 INFO  -          testMark -  
+2018-04-29 15:13:59,860 INFO  -          testResult - Passed
+2018-04-29 15:13:59,860 INFO  -    Call function for activate the ACL
+2018-04-29 15:13:59,860 INFO  -    Get data for command line
+2018-04-29 15:13:59,860 INFO  - ---------
+2018-04-29 15:13:59,860 INFO  -       SBA/Regression/
+2018-04-29 15:13:59,860 INFO  -       Web tests
+2018-04-29 15:13:59,860 INFO  -       On- and -Off- page switch
+2018-04-29 15:13:59,861 INFO  -        
+2018-04-29 15:13:59,861 INFO  -       Passed
+2018-04-29 15:13:59,861 INFO  - ---------
+2018-04-29 15:13:59,861 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:13:59,911 INFO  -       
+2018-04-29 15:13:59,911 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:13:59,911 INFO  -       
+2018-04-29 15:13:59,911 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:13:59,911 INFO  -       
+2018-04-29 15:13:59,911 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:13:59,911 INFO  -       
+2018-04-29 15:13:59,911 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="On- and -Off- page switch" 
+2018-04-29 15:13:59,912 INFO  -       
+2018-04-29 15:13:59,912 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:13:59,912 INFO  -       
+2018-04-29 15:13:59,912 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:13:59,912 INFO  -       
+2018-04-29 15:13:59,912 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "On- and -Off- page switch" " " Passed 
+2018-04-29 15:14:00,998 INFO  -       Get data for the current test
+2018-04-29 15:14:00,998 INFO  -          testName - SQL Server graphs
+2018-04-29 15:14:00,998 INFO  -          testMark -  
+2018-04-29 15:14:00,998 INFO  -          testResult - Passed
+2018-04-29 15:14:00,998 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:00,998 INFO  -    Get data for command line
+2018-04-29 15:14:00,998 INFO  - ---------
+2018-04-29 15:14:00,998 INFO  -       SBA/Regression/
+2018-04-29 15:14:00,998 INFO  -       Web tests
+2018-04-29 15:14:00,998 INFO  -       SQL Server graphs
+2018-04-29 15:14:00,998 INFO  -        
+2018-04-29 15:14:00,999 INFO  -       Passed
+2018-04-29 15:14:00,999 INFO  - ---------
+2018-04-29 15:14:00,999 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:01,064 INFO  -       
+2018-04-29 15:14:01,064 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:01,065 INFO  -       
+2018-04-29 15:14:01,065 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:01,065 INFO  -       
+2018-04-29 15:14:01,065 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:01,065 INFO  -       
+2018-04-29 15:14:01,065 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="SQL Server graphs" 
+2018-04-29 15:14:01,065 INFO  -       
+2018-04-29 15:14:01,065 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:01,065 INFO  -       
+2018-04-29 15:14:01,065 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:01,065 INFO  -       
+2018-04-29 15:14:01,065 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "SQL Server graphs" " " Passed 
+2018-04-29 15:14:02,134 INFO  -       Get data for the current test
+2018-04-29 15:14:02,134 INFO  -          testName - Invalid administrator password
+2018-04-29 15:14:02,134 INFO  -          testMark -  
+2018-04-29 15:14:02,134 INFO  -          testResult - Passed
+2018-04-29 15:14:02,134 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:02,134 INFO  -    Get data for command line
+2018-04-29 15:14:02,135 INFO  - ---------
+2018-04-29 15:14:02,135 INFO  -       SBA/Regression/
+2018-04-29 15:14:02,135 INFO  -       Web tests
+2018-04-29 15:14:02,135 INFO  -       Invalid administrator password
+2018-04-29 15:14:02,135 INFO  -        
+2018-04-29 15:14:02,135 INFO  -       Passed
+2018-04-29 15:14:02,135 INFO  - ---------
+2018-04-29 15:14:02,135 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:02,191 INFO  -       
+2018-04-29 15:14:02,191 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:02,191 INFO  -       
+2018-04-29 15:14:02,191 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:02,191 INFO  -       
+2018-04-29 15:14:02,191 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:02,192 INFO  -       
+2018-04-29 15:14:02,192 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Invalid administrator password" 
+2018-04-29 15:14:02,192 INFO  -       
+2018-04-29 15:14:02,192 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:02,192 INFO  -       
+2018-04-29 15:14:02,192 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:02,193 INFO  -       
+2018-04-29 15:14:02,193 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Invalid administrator password" " " Passed 
+2018-04-29 15:14:03,261 INFO  -       Get data for the current test
+2018-04-29 15:14:03,261 INFO  -          testName - Valid administrator  password
+2018-04-29 15:14:03,261 INFO  -          testMark -  
+2018-04-29 15:14:03,261 INFO  -          testResult - Passed
+2018-04-29 15:14:03,261 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:03,261 INFO  -    Get data for command line
+2018-04-29 15:14:03,261 INFO  - ---------
+2018-04-29 15:14:03,261 INFO  -       SBA/Regression/
+2018-04-29 15:14:03,261 INFO  -       Web tests
+2018-04-29 15:14:03,261 INFO  -       Valid administrator  password
+2018-04-29 15:14:03,261 INFO  -        
+2018-04-29 15:14:03,261 INFO  -       Passed
+2018-04-29 15:14:03,261 INFO  - ---------
+2018-04-29 15:14:03,262 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:03,327 INFO  -       
+2018-04-29 15:14:03,327 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:03,327 INFO  -       
+2018-04-29 15:14:03,327 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:03,328 INFO  -       
+2018-04-29 15:14:03,328 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:03,328 INFO  -       
+2018-04-29 15:14:03,328 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Valid administrator  password" 
+2018-04-29 15:14:03,328 INFO  -       
+2018-04-29 15:14:03,328 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:03,328 INFO  -       
+2018-04-29 15:14:03,328 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:03,328 INFO  -       
+2018-04-29 15:14:03,328 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Valid administrator  password" " " Passed 
+2018-04-29 15:14:04,397 INFO  -       Get data for the current test
+2018-04-29 15:14:04,397 INFO  -          testName - Invalid date  time
+2018-04-29 15:14:04,397 INFO  -          testMark -  
+2018-04-29 15:14:04,397 INFO  -          testResult - Passed
+2018-04-29 15:14:04,397 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:04,397 INFO  -    Get data for command line
+2018-04-29 15:14:04,397 INFO  - ---------
+2018-04-29 15:14:04,397 INFO  -       SBA/Regression/
+2018-04-29 15:14:04,397 INFO  -       Web tests
+2018-04-29 15:14:04,397 INFO  -       Invalid date  time
+2018-04-29 15:14:04,397 INFO  -        
+2018-04-29 15:14:04,397 INFO  -       Passed
+2018-04-29 15:14:04,397 INFO  - ---------
+2018-04-29 15:14:04,397 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:04,445 INFO  -       
+2018-04-29 15:14:04,445 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:04,446 INFO  -       
+2018-04-29 15:14:04,446 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:04,446 INFO  -       
+2018-04-29 15:14:04,446 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:04,446 INFO  -       
+2018-04-29 15:14:04,446 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Invalid date  time" 
+2018-04-29 15:14:04,446 INFO  -       
+2018-04-29 15:14:04,446 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:04,446 INFO  -       
+2018-04-29 15:14:04,446 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:04,447 INFO  -       
+2018-04-29 15:14:04,447 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Invalid date  time" " " Passed 
+2018-04-29 15:14:05,527 INFO  -       Get data for the current test
+2018-04-29 15:14:05,527 INFO  -          testName - Valid date and time
+2018-04-29 15:14:05,527 INFO  -          testMark -  
+2018-04-29 15:14:05,527 INFO  -          testResult - Passed
+2018-04-29 15:14:05,527 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:05,527 INFO  -    Get data for command line
+2018-04-29 15:14:05,527 INFO  - ---------
+2018-04-29 15:14:05,527 INFO  -       SBA/Regression/
+2018-04-29 15:14:05,527 INFO  -       Web tests
+2018-04-29 15:14:05,527 INFO  -       Valid date and time
+2018-04-29 15:14:05,527 INFO  -        
+2018-04-29 15:14:05,527 INFO  -       Passed
+2018-04-29 15:14:05,528 INFO  - ---------
+2018-04-29 15:14:05,528 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:05,567 INFO  -       
+2018-04-29 15:14:05,567 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:05,567 INFO  -       
+2018-04-29 15:14:05,567 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:05,567 INFO  -       
+2018-04-29 15:14:05,567 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:05,567 INFO  -       
+2018-04-29 15:14:05,567 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Valid date and time" 
+2018-04-29 15:14:05,568 INFO  -       
+2018-04-29 15:14:05,568 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:05,568 INFO  -       
+2018-04-29 15:14:05,568 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:05,568 INFO  -       
+2018-04-29 15:14:05,568 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Valid date and time" " " Passed 
+2018-04-29 15:14:06,628 INFO  -       Get data for the current test
+2018-04-29 15:14:06,628 INFO  -          testName - Different network connections
+2018-04-29 15:14:06,628 INFO  -          testMark -  
+2018-04-29 15:14:06,628 INFO  -          testResult - Passed
+2018-04-29 15:14:06,628 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:06,628 INFO  -    Get data for command line
+2018-04-29 15:14:06,628 INFO  - ---------
+2018-04-29 15:14:06,628 INFO  -       SBA/Regression/
+2018-04-29 15:14:06,628 INFO  -       Web tests
+2018-04-29 15:14:06,628 INFO  -       Different network connections
+2018-04-29 15:14:06,628 INFO  -        
+2018-04-29 15:14:06,628 INFO  -       Passed
+2018-04-29 15:14:06,628 INFO  - ---------
+2018-04-29 15:14:06,628 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:06,662 INFO  -       
+2018-04-29 15:14:06,662 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:06,662 INFO  -       
+2018-04-29 15:14:06,662 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:06,662 INFO  -       
+2018-04-29 15:14:06,662 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:06,662 INFO  -       
+2018-04-29 15:14:06,663 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Different network connections" 
+2018-04-29 15:14:06,663 INFO  -       
+2018-04-29 15:14:06,663 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:06,663 INFO  -       
+2018-04-29 15:14:06,663 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:06,663 INFO  -       
+2018-04-29 15:14:06,663 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Different network connections" " " Passed 
+2018-04-29 15:14:07,735 INFO  -       Get data for the current test
+2018-04-29 15:14:07,735 INFO  -          testName - Automatic
+2018-04-29 15:14:07,735 INFO  -          testMark -  
+2018-04-29 15:14:07,735 INFO  -          testResult - Passed
+2018-04-29 15:14:07,735 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:07,735 INFO  -    Get data for command line
+2018-04-29 15:14:07,735 INFO  - ---------
+2018-04-29 15:14:07,735 INFO  -       SBA/Regression/
+2018-04-29 15:14:07,735 INFO  -       Web tests
+2018-04-29 15:14:07,735 INFO  -       Automatic
+2018-04-29 15:14:07,735 INFO  -        
+2018-04-29 15:14:07,735 INFO  -       Passed
+2018-04-29 15:14:07,735 INFO  - ---------
+2018-04-29 15:14:07,735 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:07,795 INFO  -       
+2018-04-29 15:14:07,795 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:07,795 INFO  -       
+2018-04-29 15:14:07,795 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:07,795 INFO  -       
+2018-04-29 15:14:07,795 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:07,795 INFO  -       
+2018-04-29 15:14:07,795 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME=Automatic 
+2018-04-29 15:14:07,795 INFO  -       
+2018-04-29 15:14:07,795 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:07,795 INFO  -       
+2018-04-29 15:14:07,795 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:07,796 INFO  -       
+2018-04-29 15:14:07,796 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" Automatic " " Passed 
+2018-04-29 15:14:08,861 INFO  -       Get data for the current test
+2018-04-29 15:14:08,861 INFO  -          testName - Immediately certificate
+2018-04-29 15:14:08,861 INFO  -          testMark -  
+2018-04-29 15:14:08,861 INFO  -          testResult - Passed
+2018-04-29 15:14:08,861 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:08,861 INFO  -    Get data for command line
+2018-04-29 15:14:08,861 INFO  - ---------
+2018-04-29 15:14:08,861 INFO  -       SBA/Regression/
+2018-04-29 15:14:08,861 INFO  -       Web tests
+2018-04-29 15:14:08,861 INFO  -       Immediately certificate
+2018-04-29 15:14:08,861 INFO  -        
+2018-04-29 15:14:08,861 INFO  -       Passed
+2018-04-29 15:14:08,861 INFO  - ---------
+2018-04-29 15:14:08,862 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:08,922 INFO  -       
+2018-04-29 15:14:08,922 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:08,922 INFO  -       
+2018-04-29 15:14:08,922 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:08,922 INFO  -       
+2018-04-29 15:14:08,922 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:08,923 INFO  -       
+2018-04-29 15:14:08,923 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Immediately certificate" 
+2018-04-29 15:14:08,923 INFO  -       
+2018-04-29 15:14:08,923 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:08,923 INFO  -       
+2018-04-29 15:14:08,923 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:08,923 INFO  -       
+2018-04-29 15:14:08,923 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Immediately certificate" " " Passed 
+2018-04-29 15:14:09,991 INFO  -       Get data for the current test
+2018-04-29 15:14:09,991 INFO  -          testName - Manual certificate 2
+2018-04-29 15:14:09,991 INFO  -          testMark -  
+2018-04-29 15:14:09,991 INFO  -          testResult - Passed
+2018-04-29 15:14:09,991 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:09,991 INFO  -    Get data for command line
+2018-04-29 15:14:09,991 INFO  - ---------
+2018-04-29 15:14:09,991 INFO  -       SBA/Regression/
+2018-04-29 15:14:09,991 INFO  -       Web tests
+2018-04-29 15:14:09,991 INFO  -       Manual certificate 2
+2018-04-29 15:14:09,991 INFO  -        
+2018-04-29 15:14:09,991 INFO  -       Passed
+2018-04-29 15:14:09,991 INFO  - ---------
+2018-04-29 15:14:09,991 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:10,032 INFO  -       
+2018-04-29 15:14:10,032 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:10,032 INFO  -       
+2018-04-29 15:14:10,032 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:10,032 INFO  -       
+2018-04-29 15:14:10,032 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:10,032 INFO  -       
+2018-04-29 15:14:10,032 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Manual certificate 2" 
+2018-04-29 15:14:10,032 INFO  -       
+2018-04-29 15:14:10,032 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:10,033 INFO  -       
+2018-04-29 15:14:10,033 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:10,033 INFO  -       
+2018-04-29 15:14:10,033 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Manual certificate 2" " " Passed 
+2018-04-29 15:14:11,102 INFO  -       Get data for the current test
+2018-04-29 15:14:11,102 INFO  -          testName - Activation
+2018-04-29 15:14:11,102 INFO  -          testMark -  
+2018-04-29 15:14:11,102 INFO  -          testResult - Passed
+2018-04-29 15:14:11,102 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:11,102 INFO  -    Get data for command line
+2018-04-29 15:14:11,102 INFO  - ---------
+2018-04-29 15:14:11,102 INFO  -       SBA/Regression/
+2018-04-29 15:14:11,102 INFO  -       Web tests
+2018-04-29 15:14:11,102 INFO  -       Activation
+2018-04-29 15:14:11,102 INFO  -        
+2018-04-29 15:14:11,102 INFO  -       Passed
+2018-04-29 15:14:11,103 INFO  - ---------
+2018-04-29 15:14:11,103 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:11,180 INFO  -       
+2018-04-29 15:14:11,181 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:11,181 INFO  -       
+2018-04-29 15:14:11,181 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:11,181 INFO  -       
+2018-04-29 15:14:11,181 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:11,181 INFO  -       
+2018-04-29 15:14:11,181 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME=Activation 
+2018-04-29 15:14:11,181 INFO  -       
+2018-04-29 15:14:11,181 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:11,182 INFO  -       
+2018-04-29 15:14:11,182 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:11,182 INFO  -       
+2018-04-29 15:14:11,182 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" Activation " " Passed 
+2018-04-29 15:14:12,258 INFO  -       Get data for the current test
+2018-04-29 15:14:12,258 INFO  -          testName - Certificate Log
+2018-04-29 15:14:12,258 INFO  -          testMark -  
+2018-04-29 15:14:12,258 INFO  -          testResult - Passed
+2018-04-29 15:14:12,258 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:12,258 INFO  -    Get data for command line
+2018-04-29 15:14:12,258 INFO  - ---------
+2018-04-29 15:14:12,258 INFO  -       SBA/Regression/
+2018-04-29 15:14:12,258 INFO  -       Web tests
+2018-04-29 15:14:12,258 INFO  -       Certificate Log
+2018-04-29 15:14:12,258 INFO  -        
+2018-04-29 15:14:12,258 INFO  -       Passed
+2018-04-29 15:14:12,258 INFO  - ---------
+2018-04-29 15:14:12,258 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:12,288 INFO  -       
+2018-04-29 15:14:12,288 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:12,288 INFO  -       
+2018-04-29 15:14:12,288 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:12,289 INFO  -       
+2018-04-29 15:14:12,289 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:12,289 INFO  -       
+2018-04-29 15:14:12,289 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Certificate Log" 
+2018-04-29 15:14:12,289 INFO  -       
+2018-04-29 15:14:12,289 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:12,289 INFO  -       
+2018-04-29 15:14:12,289 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:12,289 INFO  -       
+2018-04-29 15:14:12,289 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Certificate Log" " " Passed 
+2018-04-29 15:14:13,362 INFO  -       Get data for the current test
+2018-04-29 15:14:13,362 INFO  -          testName - Import invalid
+2018-04-29 15:14:13,362 INFO  -          testMark -  
+2018-04-29 15:14:13,362 INFO  -          testResult - Passed
+2018-04-29 15:14:13,362 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:13,362 INFO  -    Get data for command line
+2018-04-29 15:14:13,362 INFO  - ---------
+2018-04-29 15:14:13,362 INFO  -       SBA/Regression/
+2018-04-29 15:14:13,362 INFO  -       Web tests
+2018-04-29 15:14:13,362 INFO  -       Import invalid
+2018-04-29 15:14:13,362 INFO  -        
+2018-04-29 15:14:13,362 INFO  -       Passed
+2018-04-29 15:14:13,362 INFO  - ---------
+2018-04-29 15:14:13,362 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:13,402 INFO  -       
+2018-04-29 15:14:13,402 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:13,402 INFO  -       
+2018-04-29 15:14:13,402 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:13,402 INFO  -       
+2018-04-29 15:14:13,402 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:13,402 INFO  -       
+2018-04-29 15:14:13,402 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Import invalid" 
+2018-04-29 15:14:13,402 INFO  -       
+2018-04-29 15:14:13,402 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:13,403 INFO  -       
+2018-04-29 15:14:13,403 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:13,403 INFO  -       
+2018-04-29 15:14:13,403 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Import invalid" " " Passed 
+2018-04-29 15:14:14,475 INFO  -       Get data for the current test
+2018-04-29 15:14:14,475 INFO  -          testName - SBA setup
+2018-04-29 15:14:14,475 INFO  -          testMark -  
+2018-04-29 15:14:14,475 INFO  -          testResult - Passed
+2018-04-29 15:14:14,475 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:14,475 INFO  -    Get data for command line
+2018-04-29 15:14:14,475 INFO  - ---------
+2018-04-29 15:14:14,475 INFO  -       SBA/Regression/
+2018-04-29 15:14:14,475 INFO  -       Web tests
+2018-04-29 15:14:14,475 INFO  -       SBA setup
+2018-04-29 15:14:14,475 INFO  -        
+2018-04-29 15:14:14,475 INFO  -       Passed
+2018-04-29 15:14:14,475 INFO  - ---------
+2018-04-29 15:14:14,475 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:14,536 INFO  -       
+2018-04-29 15:14:14,536 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:14,536 INFO  -       
+2018-04-29 15:14:14,536 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:14,536 INFO  -       
+2018-04-29 15:14:14,536 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:14,536 INFO  -       
+2018-04-29 15:14:14,536 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="SBA setup" 
+2018-04-29 15:14:14,536 INFO  -       
+2018-04-29 15:14:14,537 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:14,537 INFO  -       
+2018-04-29 15:14:14,537 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:14,537 INFO  -       
+2018-04-29 15:14:14,537 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "SBA setup" " " Passed 
+2018-04-29 15:14:15,604 INFO  -       Get data for the current test
+2018-04-29 15:14:15,604 INFO  -          testName - Export certificate
+2018-04-29 15:14:15,604 INFO  -          testMark -  
+2018-04-29 15:14:15,604 INFO  -          testResult - Passed
+2018-04-29 15:14:15,604 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:15,604 INFO  -    Get data for command line
+2018-04-29 15:14:15,604 INFO  - ---------
+2018-04-29 15:14:15,604 INFO  -       SBA/Regression/
+2018-04-29 15:14:15,604 INFO  -       Web tests
+2018-04-29 15:14:15,604 INFO  -       Export certificate
+2018-04-29 15:14:15,604 INFO  -        
+2018-04-29 15:14:15,604 INFO  -       Passed
+2018-04-29 15:14:15,604 INFO  - ---------
+2018-04-29 15:14:15,604 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:15,641 INFO  -       
+2018-04-29 15:14:15,641 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:15,641 INFO  -       
+2018-04-29 15:14:15,641 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:15,642 INFO  -       
+2018-04-29 15:14:15,642 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:15,642 INFO  -       
+2018-04-29 15:14:15,642 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Export certificate" 
+2018-04-29 15:14:15,642 INFO  -       
+2018-04-29 15:14:15,642 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:15,642 INFO  -       
+2018-04-29 15:14:15,642 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:15,642 INFO  -       
+2018-04-29 15:14:15,642 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Export certificate" " " Passed 
+2018-04-29 15:14:16,728 INFO  -       Get data for the current test
+2018-04-29 15:14:16,728 INFO  -          testName - import certificate
+2018-04-29 15:14:16,728 INFO  -          testMark -  
+2018-04-29 15:14:16,728 INFO  -          testResult - Passed
+2018-04-29 15:14:16,728 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:16,728 INFO  -    Get data for command line
+2018-04-29 15:14:16,728 INFO  - ---------
+2018-04-29 15:14:16,728 INFO  -       SBA/Regression/
+2018-04-29 15:14:16,728 INFO  -       Web tests
+2018-04-29 15:14:16,728 INFO  -       import certificate
+2018-04-29 15:14:16,728 INFO  -        
+2018-04-29 15:14:16,728 INFO  -       Passed
+2018-04-29 15:14:16,728 INFO  - ---------
+2018-04-29 15:14:16,729 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:16,785 INFO  -       
+2018-04-29 15:14:16,785 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:16,785 INFO  -       
+2018-04-29 15:14:16,785 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:16,785 INFO  -       
+2018-04-29 15:14:16,785 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:16,785 INFO  -       
+2018-04-29 15:14:16,785 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="import certificate" 
+2018-04-29 15:14:16,785 INFO  -       
+2018-04-29 15:14:16,785 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:16,785 INFO  -       
+2018-04-29 15:14:16,785 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:16,785 INFO  -       
+2018-04-29 15:14:16,785 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "import certificate" " " Passed 
+2018-04-29 15:14:17,854 INFO  -       Get data for the current test
+2018-04-29 15:14:17,854 INFO  -          testName - Add SNMP
+2018-04-29 15:14:17,854 INFO  -          testMark -  
+2018-04-29 15:14:17,854 INFO  -          testResult - Passed
+2018-04-29 15:14:17,854 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:17,854 INFO  -    Get data for command line
+2018-04-29 15:14:17,854 INFO  - ---------
+2018-04-29 15:14:17,854 INFO  -       SBA/Regression/
+2018-04-29 15:14:17,854 INFO  -       Web tests
+2018-04-29 15:14:17,854 INFO  -       Add SNMP
+2018-04-29 15:14:17,854 INFO  -        
+2018-04-29 15:14:17,854 INFO  -       Passed
+2018-04-29 15:14:17,854 INFO  - ---------
+2018-04-29 15:14:17,854 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:17,916 INFO  -       
+2018-04-29 15:14:17,916 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:17,917 INFO  -       
+2018-04-29 15:14:17,917 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:17,917 INFO  -       
+2018-04-29 15:14:17,917 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:17,917 INFO  -       
+2018-04-29 15:14:17,917 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Add SNMP" 
+2018-04-29 15:14:17,917 INFO  -       
+2018-04-29 15:14:17,917 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:17,918 INFO  -       
+2018-04-29 15:14:17,918 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:17,918 INFO  -       
+2018-04-29 15:14:17,918 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Add SNMP" " " Passed 
+2018-04-29 15:14:18,983 INFO  -       Get data for the current test
+2018-04-29 15:14:18,983 INFO  -          testName - Clear Alarm conditions
+2018-04-29 15:14:18,983 INFO  -          testMark -  
+2018-04-29 15:14:18,983 INFO  -          testResult - Passed
+2018-04-29 15:14:18,983 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:18,983 INFO  -    Get data for command line
+2018-04-29 15:14:18,983 INFO  - ---------
+2018-04-29 15:14:18,983 INFO  -       SBA/Regression/
+2018-04-29 15:14:18,983 INFO  -       Web tests
+2018-04-29 15:14:18,983 INFO  -       Clear Alarm conditions
+2018-04-29 15:14:18,983 INFO  -        
+2018-04-29 15:14:18,983 INFO  -       Passed
+2018-04-29 15:14:18,983 INFO  - ---------
+2018-04-29 15:14:18,983 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:19,010 INFO  -       
+2018-04-29 15:14:19,010 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:19,010 INFO  -       
+2018-04-29 15:14:19,010 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:19,010 INFO  -       
+2018-04-29 15:14:19,010 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:19,010 INFO  -       
+2018-04-29 15:14:19,010 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Clear Alarm conditions" 
+2018-04-29 15:14:19,010 INFO  -       
+2018-04-29 15:14:19,010 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:19,010 INFO  -       
+2018-04-29 15:14:19,010 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:19,010 INFO  -       
+2018-04-29 15:14:19,010 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Clear Alarm conditions" " " Passed 
+2018-04-29 15:14:20,075 INFO  -       Get data for the current test
+2018-04-29 15:14:20,075 INFO  -          testName - Different severity with no clear
+2018-04-29 15:14:20,075 INFO  -          testMark -  
+2018-04-29 15:14:20,075 INFO  -          testResult - Passed
+2018-04-29 15:14:20,075 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:20,075 INFO  -    Get data for command line
+2018-04-29 15:14:20,075 INFO  - ---------
+2018-04-29 15:14:20,075 INFO  -       SBA/Regression/
+2018-04-29 15:14:20,075 INFO  -       Web tests
+2018-04-29 15:14:20,075 INFO  -       Different severity with no clear
+2018-04-29 15:14:20,075 INFO  -        
+2018-04-29 15:14:20,075 INFO  -       Passed
+2018-04-29 15:14:20,075 INFO  - ---------
+2018-04-29 15:14:20,076 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:20,127 INFO  -       
+2018-04-29 15:14:20,127 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:20,127 INFO  -       
+2018-04-29 15:14:20,127 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:20,127 INFO  -       
+2018-04-29 15:14:20,127 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:20,128 INFO  -       
+2018-04-29 15:14:20,128 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Different severity with no clear" 
+2018-04-29 15:14:20,128 INFO  -       
+2018-04-29 15:14:20,128 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:20,128 INFO  -       
+2018-04-29 15:14:20,128 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:20,128 INFO  -       
+2018-04-29 15:14:20,128 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Different severity with no clear" " " Passed 
+2018-04-29 15:14:21,211 INFO  -       Get data for the current test
+2018-04-29 15:14:21,211 INFO  -          testName - SBA CPU Status Alarm
+2018-04-29 15:14:21,211 INFO  -          testMark -  
+2018-04-29 15:14:21,211 INFO  -          testResult - Passed
+2018-04-29 15:14:21,211 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:21,211 INFO  -    Get data for command line
+2018-04-29 15:14:21,211 INFO  - ---------
+2018-04-29 15:14:21,211 INFO  -       SBA/Regression/
+2018-04-29 15:14:21,211 INFO  -       Web tests
+2018-04-29 15:14:21,211 INFO  -       SBA CPU Status Alarm
+2018-04-29 15:14:21,211 INFO  -        
+2018-04-29 15:14:21,211 INFO  -       Passed
+2018-04-29 15:14:21,211 INFO  - ---------
+2018-04-29 15:14:21,212 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:21,264 INFO  -       
+2018-04-29 15:14:21,264 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:21,264 INFO  -       
+2018-04-29 15:14:21,264 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:21,264 INFO  -       
+2018-04-29 15:14:21,264 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:21,265 INFO  -       
+2018-04-29 15:14:21,265 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="SBA CPU Status Alarm" 
+2018-04-29 15:14:21,265 INFO  -       
+2018-04-29 15:14:21,265 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:21,265 INFO  -       
+2018-04-29 15:14:21,265 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:21,265 INFO  -       
+2018-04-29 15:14:21,265 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "SBA CPU Status Alarm" " " Passed 
+2018-04-29 15:14:22,345 INFO  -       Get data for the current test
+2018-04-29 15:14:22,345 INFO  -          testName - SBA Critical Expired Alarm
+2018-04-29 15:14:22,345 INFO  -          testMark -  
+2018-04-29 15:14:22,345 INFO  -          testResult - Passed
+2018-04-29 15:14:22,345 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:22,345 INFO  -    Get data for command line
+2018-04-29 15:14:22,345 INFO  - ---------
+2018-04-29 15:14:22,345 INFO  -       SBA/Regression/
+2018-04-29 15:14:22,345 INFO  -       Web tests
+2018-04-29 15:14:22,345 INFO  -       SBA Critical Expired Alarm
+2018-04-29 15:14:22,345 INFO  -        
+2018-04-29 15:14:22,345 INFO  -       Passed
+2018-04-29 15:14:22,345 INFO  - ---------
+2018-04-29 15:14:22,345 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:22,371 INFO  -       
+2018-04-29 15:14:22,371 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:22,371 INFO  -       
+2018-04-29 15:14:22,371 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:22,371 INFO  -       
+2018-04-29 15:14:22,371 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:22,371 INFO  -       
+2018-04-29 15:14:22,371 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="SBA Critical Expired Alarm" 
+2018-04-29 15:14:22,371 INFO  -       
+2018-04-29 15:14:22,371 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:22,371 INFO  -       
+2018-04-29 15:14:22,371 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:22,372 INFO  -       
+2018-04-29 15:14:22,372 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "SBA Critical Expired Alarm" " " Passed 
+2018-04-29 15:14:23,437 INFO  -       Get data for the current test
+2018-04-29 15:14:23,437 INFO  -          testName - SBA Disk Space Alarm
+2018-04-29 15:14:23,437 INFO  -          testMark -  
+2018-04-29 15:14:23,437 INFO  -          testResult - Passed
+2018-04-29 15:14:23,437 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:23,437 INFO  -    Get data for command line
+2018-04-29 15:14:23,437 INFO  - ---------
+2018-04-29 15:14:23,437 INFO  -       SBA/Regression/
+2018-04-29 15:14:23,437 INFO  -       Web tests
+2018-04-29 15:14:23,437 INFO  -       SBA Disk Space Alarm
+2018-04-29 15:14:23,437 INFO  -        
+2018-04-29 15:14:23,437 INFO  -       Passed
+2018-04-29 15:14:23,437 INFO  - ---------
+2018-04-29 15:14:23,438 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:23,488 INFO  -       
+2018-04-29 15:14:23,488 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:23,488 INFO  -       
+2018-04-29 15:14:23,488 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:23,488 INFO  -       
+2018-04-29 15:14:23,488 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:23,488 INFO  -       
+2018-04-29 15:14:23,488 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="SBA Disk Space Alarm" 
+2018-04-29 15:14:23,488 INFO  -       
+2018-04-29 15:14:23,488 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:23,488 INFO  -       
+2018-04-29 15:14:23,488 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:23,489 INFO  -       
+2018-04-29 15:14:23,489 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "SBA Disk Space Alarm" " " Passed 
+2018-04-29 15:14:24,560 INFO  -       Get data for the current test
+2018-04-29 15:14:24,560 INFO  -          testName - SBA Memory Status Alarm
+2018-04-29 15:14:24,560 INFO  -          testMark -  
+2018-04-29 15:14:24,560 INFO  -          testResult - Passed
+2018-04-29 15:14:24,560 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:24,560 INFO  -    Get data for command line
+2018-04-29 15:14:24,560 INFO  - ---------
+2018-04-29 15:14:24,560 INFO  -       SBA/Regression/
+2018-04-29 15:14:24,560 INFO  -       Web tests
+2018-04-29 15:14:24,560 INFO  -       SBA Memory Status Alarm
+2018-04-29 15:14:24,560 INFO  -        
+2018-04-29 15:14:24,560 INFO  -       Passed
+2018-04-29 15:14:24,560 INFO  - ---------
+2018-04-29 15:14:24,561 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:24,623 INFO  -       
+2018-04-29 15:14:24,623 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:24,623 INFO  -       
+2018-04-29 15:14:24,623 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:24,623 INFO  -       
+2018-04-29 15:14:24,623 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:24,624 INFO  -       
+2018-04-29 15:14:24,624 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="SBA Memory Status Alarm" 
+2018-04-29 15:14:24,624 INFO  -       
+2018-04-29 15:14:24,624 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:24,624 INFO  -       
+2018-04-29 15:14:24,624 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:24,624 INFO  -       
+2018-04-29 15:14:24,624 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "SBA Memory Status Alarm" " " Passed 
+2018-04-29 15:14:25,692 INFO  -       Get data for the current test
+2018-04-29 15:14:25,692 INFO  -          testName - SBA Perf Counter Alarm
+2018-04-29 15:14:25,692 INFO  -          testMark -  
+2018-04-29 15:14:25,692 INFO  -          testResult - Passed
+2018-04-29 15:14:25,692 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:25,692 INFO  -    Get data for command line
+2018-04-29 15:14:25,692 INFO  - ---------
+2018-04-29 15:14:25,692 INFO  -       SBA/Regression/
+2018-04-29 15:14:25,692 INFO  -       Web tests
+2018-04-29 15:14:25,692 INFO  -       SBA Perf Counter Alarm
+2018-04-29 15:14:25,692 INFO  -        
+2018-04-29 15:14:25,692 INFO  -       Passed
+2018-04-29 15:14:25,692 INFO  - ---------
+2018-04-29 15:14:25,692 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:25,739 INFO  -       
+2018-04-29 15:14:25,739 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:25,740 INFO  -       
+2018-04-29 15:14:25,740 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:25,740 INFO  -       
+2018-04-29 15:14:25,740 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:25,740 INFO  -       
+2018-04-29 15:14:25,740 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="SBA Perf Counter Alarm" 
+2018-04-29 15:14:25,740 INFO  -       
+2018-04-29 15:14:25,740 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:25,740 INFO  -       
+2018-04-29 15:14:25,740 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:25,741 INFO  -       
+2018-04-29 15:14:25,741 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "SBA Perf Counter Alarm" " " Passed 
+2018-04-29 15:14:26,812 INFO  -       Get data for the current test
+2018-04-29 15:14:26,812 INFO  -          testName - SBA Services Status Alarm
+2018-04-29 15:14:26,812 INFO  -          testMark -  
+2018-04-29 15:14:26,812 INFO  -          testResult - Passed
+2018-04-29 15:14:26,812 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:26,812 INFO  -    Get data for command line
+2018-04-29 15:14:26,812 INFO  - ---------
+2018-04-29 15:14:26,812 INFO  -       SBA/Regression/
+2018-04-29 15:14:26,812 INFO  -       Web tests
+2018-04-29 15:14:26,812 INFO  -       SBA Services Status Alarm
+2018-04-29 15:14:26,812 INFO  -        
+2018-04-29 15:14:26,812 INFO  -       Passed
+2018-04-29 15:14:26,812 INFO  - ---------
+2018-04-29 15:14:26,812 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:26,839 INFO  -       
+2018-04-29 15:14:26,839 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:26,839 INFO  -       
+2018-04-29 15:14:26,839 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:26,839 INFO  -       
+2018-04-29 15:14:26,839 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:26,839 INFO  -       
+2018-04-29 15:14:26,839 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="SBA Services Status Alarm" 
+2018-04-29 15:14:26,839 INFO  -       
+2018-04-29 15:14:26,839 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:26,840 INFO  -       
+2018-04-29 15:14:26,840 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:26,840 INFO  -       
+2018-04-29 15:14:26,840 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "SBA Services Status Alarm" " " Passed 
+2018-04-29 15:14:27,903 INFO  -       Get data for the current test
+2018-04-29 15:14:27,903 INFO  -          testName - Update Alarm
+2018-04-29 15:14:27,903 INFO  -          testMark -  
+2018-04-29 15:14:27,903 INFO  -          testResult - Passed
+2018-04-29 15:14:27,903 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:27,903 INFO  -    Get data for command line
+2018-04-29 15:14:27,903 INFO  - ---------
+2018-04-29 15:14:27,903 INFO  -       SBA/Regression/
+2018-04-29 15:14:27,903 INFO  -       Web tests
+2018-04-29 15:14:27,903 INFO  -       Update Alarm
+2018-04-29 15:14:27,903 INFO  -        
+2018-04-29 15:14:27,903 INFO  -       Passed
+2018-04-29 15:14:27,903 INFO  - ---------
+2018-04-29 15:14:27,904 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:27,964 INFO  -       
+2018-04-29 15:14:27,964 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:27,964 INFO  -       
+2018-04-29 15:14:27,964 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:27,964 INFO  -       
+2018-04-29 15:14:27,964 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:27,964 INFO  -       
+2018-04-29 15:14:27,964 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Update Alarm" 
+2018-04-29 15:14:27,964 INFO  -       
+2018-04-29 15:14:27,964 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:27,965 INFO  -       
+2018-04-29 15:14:27,965 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:27,965 INFO  -       
+2018-04-29 15:14:27,965 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Update Alarm" " " Passed 
+2018-04-29 15:14:29,051 INFO  -       Get data for the current test
+2018-04-29 15:14:29,051 INFO  -          testName - Logs display
+2018-04-29 15:14:29,051 INFO  -          testMark -  
+2018-04-29 15:14:29,051 INFO  -          testResult - Passed
+2018-04-29 15:14:29,051 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:29,051 INFO  -    Get data for command line
+2018-04-29 15:14:29,051 INFO  - ---------
+2018-04-29 15:14:29,051 INFO  -       SBA/Regression/
+2018-04-29 15:14:29,051 INFO  -       Web tests
+2018-04-29 15:14:29,051 INFO  -       Logs display
+2018-04-29 15:14:29,051 INFO  -        
+2018-04-29 15:14:29,051 INFO  -       Passed
+2018-04-29 15:14:29,051 INFO  - ---------
+2018-04-29 15:14:29,051 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:29,106 INFO  -       
+2018-04-29 15:14:29,106 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:29,107 INFO  -       
+2018-04-29 15:14:29,107 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:29,107 INFO  -       
+2018-04-29 15:14:29,107 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:29,107 INFO  -       
+2018-04-29 15:14:29,107 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Logs display" 
+2018-04-29 15:14:29,108 INFO  -       
+2018-04-29 15:14:29,108 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:29,108 INFO  -       
+2018-04-29 15:14:29,108 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:29,108 INFO  -       
+2018-04-29 15:14:29,108 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Logs display" " " Passed 
+2018-04-29 15:14:30,175 INFO  -       Get data for the current test
+2018-04-29 15:14:30,175 INFO  -          testName - Logs download
+2018-04-29 15:14:30,175 INFO  -          testMark -  
+2018-04-29 15:14:30,175 INFO  -          testResult - Passed
+2018-04-29 15:14:30,175 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:30,175 INFO  -    Get data for command line
+2018-04-29 15:14:30,175 INFO  - ---------
+2018-04-29 15:14:30,175 INFO  -       SBA/Regression/
+2018-04-29 15:14:30,175 INFO  -       Web tests
+2018-04-29 15:14:30,175 INFO  -       Logs download
+2018-04-29 15:14:30,175 INFO  -        
+2018-04-29 15:14:30,176 INFO  -       Passed
+2018-04-29 15:14:30,176 INFO  - ---------
+2018-04-29 15:14:30,176 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:30,239 INFO  -       
+2018-04-29 15:14:30,240 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:30,240 INFO  -       
+2018-04-29 15:14:30,240 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:30,240 INFO  -       
+2018-04-29 15:14:30,240 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:30,240 INFO  -       
+2018-04-29 15:14:30,240 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Logs download" 
+2018-04-29 15:14:30,240 INFO  -       
+2018-04-29 15:14:30,240 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:30,241 INFO  -       
+2018-04-29 15:14:30,241 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:30,241 INFO  -       
+2018-04-29 15:14:30,241 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Logs download" " " Passed 
+2018-04-29 15:14:31,308 INFO  -       Get data for the current test
+2018-04-29 15:14:31,308 INFO  -          testName - Rows display
+2018-04-29 15:14:31,308 INFO  -          testMark -  
+2018-04-29 15:14:31,308 INFO  -          testResult - Passed
+2018-04-29 15:14:31,308 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:31,308 INFO  -    Get data for command line
+2018-04-29 15:14:31,308 INFO  - ---------
+2018-04-29 15:14:31,308 INFO  -       SBA/Regression/
+2018-04-29 15:14:31,308 INFO  -       Web tests
+2018-04-29 15:14:31,308 INFO  -       Rows display
+2018-04-29 15:14:31,308 INFO  -        
+2018-04-29 15:14:31,308 INFO  -       Passed
+2018-04-29 15:14:31,308 INFO  - ---------
+2018-04-29 15:14:31,309 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:31,370 INFO  -       
+2018-04-29 15:14:31,370 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:31,370 INFO  -       
+2018-04-29 15:14:31,370 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:31,370 INFO  -       
+2018-04-29 15:14:31,370 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:31,370 INFO  -       
+2018-04-29 15:14:31,370 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Rows display" 
+2018-04-29 15:14:31,371 INFO  -       
+2018-04-29 15:14:31,371 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:31,371 INFO  -       
+2018-04-29 15:14:31,371 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:31,371 INFO  -       
+2018-04-29 15:14:31,371 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Rows display" " " Passed 
+2018-04-29 15:14:32,454 INFO  -       Get data for the current test
+2018-04-29 15:14:32,454 INFO  -          testName - Restore SBA to defaults settings as Static IP
+2018-04-29 15:14:32,454 INFO  -          testMark -  
+2018-04-29 15:14:32,454 INFO  -          testResult - Passed
+2018-04-29 15:14:32,454 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:32,454 INFO  -    Get data for command line
+2018-04-29 15:14:32,454 INFO  - ---------
+2018-04-29 15:14:32,454 INFO  -       SBA/Regression/
+2018-04-29 15:14:32,454 INFO  -       Web tests
+2018-04-29 15:14:32,454 INFO  -       Restore SBA to defaults settings as Static IP
+2018-04-29 15:14:32,454 INFO  -        
+2018-04-29 15:14:32,454 INFO  -       Passed
+2018-04-29 15:14:32,454 INFO  - ---------
+2018-04-29 15:14:32,454 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:32,513 INFO  -       
+2018-04-29 15:14:32,513 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:32,513 INFO  -       
+2018-04-29 15:14:32,513 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:32,513 INFO  -       
+2018-04-29 15:14:32,513 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:32,513 INFO  -       
+2018-04-29 15:14:32,513 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Restore SBA to defaults settings as Static IP" 
+2018-04-29 15:14:32,513 INFO  -       
+2018-04-29 15:14:32,513 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:32,513 INFO  -       
+2018-04-29 15:14:32,513 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:32,513 INFO  -       
+2018-04-29 15:14:32,513 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Restore SBA to defaults settings as Static IP" " " Passed 
+2018-04-29 15:14:33,584 INFO  -       Get data for the current test
+2018-04-29 15:14:33,584 INFO  -          testName - Services and Restart
+2018-04-29 15:14:33,584 INFO  -          testMark -  
+2018-04-29 15:14:33,584 INFO  -          testResult - Passed
+2018-04-29 15:14:33,584 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:33,584 INFO  -    Get data for command line
+2018-04-29 15:14:33,584 INFO  - ---------
+2018-04-29 15:14:33,584 INFO  -       SBA/Regression/
+2018-04-29 15:14:33,584 INFO  -       Web tests
+2018-04-29 15:14:33,584 INFO  -       Services and Restart
+2018-04-29 15:14:33,584 INFO  -        
+2018-04-29 15:14:33,584 INFO  -       Passed
+2018-04-29 15:14:33,585 INFO  - ---------
+2018-04-29 15:14:33,585 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:33,641 INFO  -       
+2018-04-29 15:14:33,641 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:33,641 INFO  -       
+2018-04-29 15:14:33,641 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:33,642 INFO  -       
+2018-04-29 15:14:33,642 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:33,642 INFO  -       
+2018-04-29 15:14:33,642 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Services and Restart" 
+2018-04-29 15:14:33,642 INFO  -       
+2018-04-29 15:14:33,642 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:33,642 INFO  -       
+2018-04-29 15:14:33,642 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:33,643 INFO  -       
+2018-04-29 15:14:33,643 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Services and Restart" " " Passed 
+2018-04-29 15:14:34,712 INFO  -       Get data for the current test
+2018-04-29 15:14:34,712 INFO  -          testName - Invalid scenarios
+2018-04-29 15:14:34,712 INFO  -          testMark -  
+2018-04-29 15:14:34,712 INFO  -          testResult - Passed
+2018-04-29 15:14:34,712 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:34,712 INFO  -    Get data for command line
+2018-04-29 15:14:34,712 INFO  - ---------
+2018-04-29 15:14:34,712 INFO  -       SBA/Regression/
+2018-04-29 15:14:34,712 INFO  -       Web tests
+2018-04-29 15:14:34,712 INFO  -       Invalid scenarios
+2018-04-29 15:14:34,712 INFO  -        
+2018-04-29 15:14:34,712 INFO  -       Passed
+2018-04-29 15:14:34,712 INFO  - ---------
+2018-04-29 15:14:34,713 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:34,767 INFO  -       
+2018-04-29 15:14:34,767 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:34,767 INFO  -       
+2018-04-29 15:14:34,767 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:34,767 INFO  -       
+2018-04-29 15:14:34,767 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:34,768 INFO  -       
+2018-04-29 15:14:34,768 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Invalid scenarios" 
+2018-04-29 15:14:34,768 INFO  -       
+2018-04-29 15:14:34,768 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:34,768 INFO  -       
+2018-04-29 15:14:34,768 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:34,768 INFO  -       
+2018-04-29 15:14:34,769 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Invalid scenarios" " " Passed 
+2018-04-29 15:14:35,836 INFO  -       Get data for the current test
+2018-04-29 15:14:35,836 INFO  -          testName - SBA GUI update
+2018-04-29 15:14:35,836 INFO  -          testMark -  
+2018-04-29 15:14:35,836 INFO  -          testResult - Passed
+2018-04-29 15:14:35,836 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:35,836 INFO  -    Get data for command line
+2018-04-29 15:14:35,836 INFO  - ---------
+2018-04-29 15:14:35,836 INFO  -       SBA/Regression/
+2018-04-29 15:14:35,836 INFO  -       Web tests
+2018-04-29 15:14:35,836 INFO  -       SBA GUI update
+2018-04-29 15:14:35,836 INFO  -        
+2018-04-29 15:14:35,836 INFO  -       Passed
+2018-04-29 15:14:35,836 INFO  - ---------
+2018-04-29 15:14:35,837 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:35,891 INFO  -       
+2018-04-29 15:14:35,891 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:35,891 INFO  -       
+2018-04-29 15:14:35,891 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:35,891 INFO  -       
+2018-04-29 15:14:35,891 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:35,892 INFO  -       
+2018-04-29 15:14:35,892 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="SBA GUI update" 
+2018-04-29 15:14:35,892 INFO  -       
+2018-04-29 15:14:35,892 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:35,892 INFO  -       
+2018-04-29 15:14:35,892 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:35,892 INFO  -       
+2018-04-29 15:14:35,892 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "SBA GUI update" " " Passed 
+2018-04-29 15:14:36,959 INFO  -       Get data for the current test
+2018-04-29 15:14:36,959 INFO  -          testName - Logs display
+2018-04-29 15:14:36,959 INFO  -          testMark -  
+2018-04-29 15:14:36,959 INFO  -          testResult - Passed
+2018-04-29 15:14:36,959 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:36,959 INFO  -    Get data for command line
+2018-04-29 15:14:36,959 INFO  - ---------
+2018-04-29 15:14:36,959 INFO  -       SBA/Regression/
+2018-04-29 15:14:36,959 INFO  -       Web tests
+2018-04-29 15:14:36,959 INFO  -       Logs display
+2018-04-29 15:14:36,959 INFO  -        
+2018-04-29 15:14:36,959 INFO  -       Passed
+2018-04-29 15:14:36,959 INFO  - ---------
+2018-04-29 15:14:36,960 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:37,017 INFO  -       
+2018-04-29 15:14:37,017 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:37,017 INFO  -       
+2018-04-29 15:14:37,017 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:37,017 INFO  -       
+2018-04-29 15:14:37,017 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:37,018 INFO  -       
+2018-04-29 15:14:37,018 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Logs display" 
+2018-04-29 15:14:37,018 INFO  -       
+2018-04-29 15:14:37,018 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:37,018 INFO  -       
+2018-04-29 15:14:37,018 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:37,018 INFO  -       
+2018-04-29 15:14:37,018 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Logs display" " " Passed 
+2018-04-29 15:14:38,087 INFO  -       Get data for the current test
+2018-04-29 15:14:38,087 INFO  -          testName - Logs download
+2018-04-29 15:14:38,087 INFO  -          testMark -  
+2018-04-29 15:14:38,087 INFO  -          testResult - Passed
+2018-04-29 15:14:38,087 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:38,087 INFO  -    Get data for command line
+2018-04-29 15:14:38,087 INFO  - ---------
+2018-04-29 15:14:38,087 INFO  -       SBA/Regression/
+2018-04-29 15:14:38,087 INFO  -       Web tests
+2018-04-29 15:14:38,087 INFO  -       Logs download
+2018-04-29 15:14:38,087 INFO  -        
+2018-04-29 15:14:38,088 INFO  -       Passed
+2018-04-29 15:14:38,088 INFO  - ---------
+2018-04-29 15:14:38,088 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:38,150 INFO  -       
+2018-04-29 15:14:38,150 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:38,150 INFO  -       
+2018-04-29 15:14:38,150 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:38,150 INFO  -       
+2018-04-29 15:14:38,150 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:38,151 INFO  -       
+2018-04-29 15:14:38,151 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Logs download" 
+2018-04-29 15:14:38,151 INFO  -       
+2018-04-29 15:14:38,151 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:38,151 INFO  -       
+2018-04-29 15:14:38,151 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:38,151 INFO  -       
+2018-04-29 15:14:38,151 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Logs download" " " Passed 
+2018-04-29 15:14:39,220 INFO  -       Get data for the current test
+2018-04-29 15:14:39,220 INFO  -          testName - Rows display
+2018-04-29 15:14:39,220 INFO  -          testMark -  
+2018-04-29 15:14:39,220 INFO  -          testResult - Passed
+2018-04-29 15:14:39,220 INFO  -    Call function for activate the ACL
+2018-04-29 15:14:39,220 INFO  -    Get data for command line
+2018-04-29 15:14:39,220 INFO  - ---------
+2018-04-29 15:14:39,220 INFO  -       SBA/Regression/
+2018-04-29 15:14:39,220 INFO  -       Web tests
+2018-04-29 15:14:39,220 INFO  -       Rows display
+2018-04-29 15:14:39,220 INFO  -        
+2018-04-29 15:14:39,220 INFO  -       Passed
+2018-04-29 15:14:39,220 INFO  - ---------
+2018-04-29 15:14:39,220 INFO  -       almFullsecPath - SBA/Regression/Web tests
+2018-04-29 15:14:39,283 INFO  -       
+2018-04-29 15:14:39,283 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_DIR_PATH=C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark 
+2018-04-29 15:14:39,283 INFO  -       
+2018-04-29 15:14:39,283 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set ALM_APP_NAME=ALM_test_mark.exe 
+2018-04-29 15:14:39,283 INFO  -       
+2018-04-29 15:14:39,283 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set SECPATH="SBA/Regression/Web tests" 
+2018-04-29 15:14:39,283 INFO  -       
+2018-04-29 15:14:39,283 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set TEST_NAME="Rows display" 
+2018-04-29 15:14:39,283 INFO  -       
+2018-04-29 15:14:39,283 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set MARK=" " 
+2018-04-29 15:14:39,283 INFO  -       
+2018-04-29 15:14:39,283 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>set PASSED=Passed 
+2018-04-29 15:14:39,284 INFO  -       
+2018-04-29 15:14:39,284 INFO  -       C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests>start /d C:\Users\nirk\Desktop\myEclipseProjects\ACL_MarkTests\ALM_test_mark ALM_test_mark.exe "SBA/Regression/Web tests" "Rows display" " " Passed 
+2018-04-29 15:14:40,351 INFO  -    secElementName - Wizard setup

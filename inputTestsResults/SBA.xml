@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests projectPath="SBA/Regression/">
+  <section   secName="Burn">
+		<!-- <test testName="End 2 End" 						testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="SBA setup" 	  					testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Burn instructions" 	  			testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Large disk and partition test" 	testMark=" " testResult="Passed"></test> -->
+  </section>
+  <section   secName="Function">
+		<!-- <test testName="Windows License Alarms" 	    testMark=" " testResult="Passed"></test> -->
+  </section>
+  <section secName="NUERA">
+		<!-- <test testName="Nuera Customization" 	  testMark=" " testResult="Passed"></test> -->
+  </section>
+  <section secName="SNMP">
+		<!-- <test testName="Accepted community names" 	  				  testMark=" " testResult="Passed"></test> -->
+		<test testName="Add SNMP" 	  								 	  testMark=" " testResult="Passed"></test>
+		<!-- <test testName="Add SNMP to EMS" 	 						  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Certificate Expired" 	 					  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Cold Start" 	  							  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="CPU" 	  									  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Disk Space Alarm" 	  						  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Gateway upgrade-downgrade instructions" 	  testMark=" " testResult="Passed"></test> -->
+		<test testName="Invalid string" 	  						 	  testMark=" " testResult="Passed"></test>
+		<!-- <test testName="Memory" 	  								  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Performance Counter" 	  					  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="SNMP Trusted Manager" 	  					  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Source services alarms" 	  				  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Traps Community Name  Destinations"	   	  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="OVOC_Accepted community names" 	  		  testMark=" " testResult="Passed"></test> -->
+		<test testName="OVOC_Add SNMP" 	  							 	  testMark=" " testResult="Passed"></test>
+		<!-- <test testName="OVOC_Add SNMP to EMS" 	 					  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="OVOC_Certificate Expired" 	 				  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="OVOC_Cold Start" 	  						  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="OVOC_CPU" 	  								  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="OVOC_Disk Space Alarm" 	  				  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="OVOC_Gateway upgrade-downgrade instructions" testMark=" " testResult="Passed"></test> -->
+		<test testName="OVOC_Invalid string" 	  					 	  testMark=" " testResult="Passed"></test>
+		<!-- <test testName="OVOC_Memory" 	  							  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="OVOC_Performance Counter" 	  				  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="OVOC_SNMP Trusted Manager" 	  			  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="OVOC_Source services alarms" 	  			  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="OVOC_Traps Community Name  Destinations"	  testMark=" " testResult="Passed"></test> -->
+  </section>
+  <section secName="Teaming">
+		<!-- <test testName="Enable - Disable teaming" 	  						  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Remote to SBA" 	  								  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Teaming - Build a teaming manually" 	  			  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Teaming - Change Network External team to Static IP" testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Teaming - GE with DHCP IP" 	  					  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Teaming - GE with Static IP - IP-s" 	  			  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Teaming on IVR system" 	  					 	  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Teaming voice quality at load" 	  				  testMark=" " testResult="Passed"></test> -->
+  </section>
+  <section secName="Upgrade / Remote Burn">
+  		<!-- <test testName="Upgrade from lync 2013 SBA system" 	  				testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Upgrade from new SBA system (before running wizard)" 	testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Upgrade from old SBA system" 	  						testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Upgrade from SBA to CCE" 	  							testMark=" " testResult="Passed"></test> -->
+  </section>
+  <section secName="Web tests">	
+		<!-- <test testName="ac icon" 	  									testMark=" " testResult="Passed"></test> -->
+		<test testName="Login" 	  											testMark=" " testResult="Passed"></test>
+		<test testName="Time Out" 	  										testMark=" " testResult="Passed"></test>
+		<test testName="Toolbar" 	  										testMark=" " testResult="Passed"></test>
+		<test testName="Active Alarms" 	  									testMark=" " testResult="Passed"></test>
+		<test testName="Active Registered Endpoints" 	  					testMark=" " testResult="Passed"></test>
+		<test testName="Active Registered Users" 	  						testMark=" " testResult="Passed"></test>
+		<test testName="Available MBytes" 	  								testMark=" " testResult="Passed"></test>
+		<test testName="CPU Utilization" 	  								testMark=" " testResult="Passed"></test>
+		<test testName="General" 	  										testMark=" " testResult="Passed"></test>
+		<test testName="Inbound Calls" 	  									testMark=" " testResult="Passed"></test>
+		<test testName="Outbound Calls" 	 								testMark=" " testResult="Passed"></test>
+		<test testName="SBC-Gateway" 	  									testMark=" " testResult="Passed"></test>
+		<test testName="Active Registered Endpoints graph" 					testMark=" " testResult="Passed"></test>
+		<test testName="Active Registered Users graph" 	  					testMark=" " testResult="Passed"></test>
+		<!-- <test testName="On- and -Off- page switch" 	  				testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Current Calls graphs" 	  						testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Inbound Calls Counters graphs" 				testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="On- and -Off- page switch" 	  				testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Outbound Calls Counters graphs"  				testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Disk space usage" 	  							testMark=" " testResult="Passed"></test> -->
+		<test testName="Front-end Server graphs" 	  						testMark=" " testResult="Passed"></test>
+		<test testName="General Server Health graphs" 						testMark=" " testResult="Passed"></test>
+		<test testName="On- and -Off- page switch" 	  						testMark=" " testResult="Passed"></test>
+		<test testName="SQL Server graphs" 	  								testMark=" " testResult="Passed"></test>
+		<test testName="Invalid administrator password" 					testMark=" " testResult="Passed"></test>
+		<test testName="Valid administrator  password" 	  					testMark=" " testResult="Passed"></test>
+		<test testName="Invalid date  time" 	  							testMark=" " testResult="Passed"></test>
+		<test testName="Valid date and time" 	  							testMark=" " testResult="Passed"></test>
+		<test testName="Different network connections" 						testMark=" " testResult="Passed"></test>
+		<test testName="Automatic" 	  										testMark=" " testResult="Passed"></test>
+		<test testName="Immediately certificate" 	  						testMark=" " testResult="Passed"></test>
+		<!-- <test testName="Import -cer- certificate" 	  					testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Import ?€˜p7b- certificate" 	  				testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Import ?€˜pfx- certificate" 	  				testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Import with private Key and CA" 				testMark=" " testResult="Passed"></test> -->
+		<test testName="Manual certificate 2" 	  							testMark=" " testResult="Passed"></test>
+		<!-- <test testName="Pending - deny" 	  							testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Pending - issue" 	  							testMark=" " testResult="Passed"></test> -->
+		<test testName="Activation" 	  									testMark=" " testResult="Passed"></test>
+		<test testName="Certificate Log" 	  								testMark=" " testResult="Passed"></test>
+		<test testName="Import invalid" 	  								testMark=" " testResult="Passed"></test>
+		<test testName="SBA setup" 	  										testMark=" " testResult="Passed"></test>
+		<!-- <test testName="Create CSR" 	  								testMark=" " testResult="Passed"></test> -->
+		<test testName="Export certificate" 	  							testMark=" " testResult="Passed"></test>
+		<test testName="import certificate" 	  							testMark=" " testResult="Passed"></test>
+		<!-- <test testName="Request Certificate" 	  						testMark=" " testResult="Passed"></test> -->
+		<test testName="Add SNMP" 	  										testMark=" " testResult="Passed"></test>
+		<test testName="Clear Alarm conditions" 	  						testMark=" " testResult="Passed"></test>
+		<test testName="Different severity with no clear" 					testMark=" " testResult="Passed"></test>
+		<test testName="SBA CPU Status Alarm" 	  							testMark=" " testResult="Passed"></test>
+		<test testName="SBA Critical Expired Alarm" 	  					testMark=" " testResult="Passed"></test>
+		<test testName="SBA Disk Space Alarm" 	  							testMark=" " testResult="Passed"></test>
+		<test testName="SBA Memory Status Alarm" 	  						testMark=" " testResult="Passed"></test>
+		<test testName="SBA Perf Counter Alarm" 	  						testMark=" " testResult="Passed"></test>
+		<test testName="SBA Services Status Alarm" 	  						testMark=" " testResult="Passed"></test>
+		<test testName="Update Alarm" 	  									testMark=" " testResult="Passed"></test>
+		<test testName="Logs display" 	  									testMark=" " testResult="Passed"></test>
+		<test testName="Logs download" 	  									testMark=" " testResult="Passed"></test>
+		<test testName="Rows display" 	  									testMark=" " testResult="Passed"></test>
+		<!-- <test testName="Replace SBA image 111" 	  					testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Restore SBA of old system that was upgraded"  	testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Restore SBA to defaults settings as DHCP" 	  	testMark=" " testResult="Passed"></test> -->
+		<test testName="Restore SBA to defaults settings as Static IP"		testMark=" " testResult="Passed"></test>
+		<test testName="Services and Restart" 	  							testMark=" " testResult="Passed"></test>
+		<test testName="Invalid scenarios" 	  								testMark=" " testResult="Passed"></test>
+		<test testName="SBA GUI update" 	  								testMark=" " testResult="Passed"></test>
+		<!-- <test testName="Skype Cumulative Update" 	  					testMark=" " testResult="Passed"></test> -->
+		<test testName="Logs display" 	  									testMark=" " testResult="Passed"></test>
+		<test testName="Logs download" 	  									testMark=" " testResult="Passed"></test>
+		<test testName="Rows display" 	  									testMark=" " testResult="Passed"></test>
+  </section>
+  <section secName="Wizard setup">
+  		<!-- <test testName="Change Local Administrator Password page" 	  						testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Congratulations page" 	  											testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Cumulative Update page" 	  										testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Join To Domain page" 	  											testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Local Getway LAN setup page" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Login to wizard" 	  												testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Logout- relogin during wizard configuration" 	  					testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Network topology page" 	  										testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Request, Install or Assign SBA Certificates page - Simple type"	testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="SBA LAN setup page" 	  											testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="SBA Setup And Activation page" 	  								testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Set Date And Time Zone page" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Start Services page" 	  											testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Welcome page" 	  													testMark=" " testResult="Passed"></test> -->
+  		<!-- <test testName="Second_slot_M1k_Change Local Administrator Password page" 	  						testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_Congratulations page" 	  					  						testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_Cumulative Update page" 	  				  						testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_GW Certificate" 	  						  						testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_Installation verification" 	  				  					testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_Join To Domain page" 	  					  						testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_Local Gateway Config INI File page" 	  	  						testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_Local Gateway- SBA Leg page" 	  			  						testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_Local Getway LAN setup page" 	  			  						testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_Login to wizard" 	  						  						testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_Logout- relogin during wizard configuration"  						testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_Network topology page" 	  					  					testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_Number Manipulations page" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_Request, Install or Assign SBA Certificates page - Simple type" 	testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_SBA LAN setup page" 	  											testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_SBA Setup And Activation page" 	  								testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_Set Date And Time Zone page" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_Start Services page" 	  											testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Second_slot_M1k_Welcome page" 	  													testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_Change Local Administrator Password page" 	  								testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_Congratulations page" 	  											testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_Cumulative Update page" 	  										testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_GW Certificate" 	  												testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_ini file verification" 	  										testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_Join To Domain page" 	  											testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_Local Gateway Config INI File page" 	  							testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_Local Gateway- SBA Leg page" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_Login to wizard" 	  												testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_Logout- relogin during wizard configuration" 	  					testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_Network topology page" 	  										testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_Number Manipulations page" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_Request, Install or Assign SBA Certificates page - Immediate type" testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_SBA LAN setup page" 	  											testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_SBA Setup And Activation page" 	  								testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_SBC-Gateway WAN Setup" 	  										testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_SBC-Gateway- SIP Trunk Leg" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_SBC-Getway LAN setup page" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_Set Date And Time Zone page" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_Start Services page" 	  											testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Imm_cer_Welcome page" 	  													testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Def_Change local administrator password page" 	  						testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Def_Join to domain page" 	  											testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Def_LAN setup page" 	  												testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Def_Login to wizard" 	  												testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Def_Logout- relogin during wizard configuration" 	  					testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Def_Network topology page" 	  										testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Def_Number Manipulations page" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Def_Pre conditionRequest, Install or Assign SBA Certificates page" 	testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Def_Request, Install or Assign SBA Certificates page" 	  				testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Def_Restart SBA during wizard configuration" 	  						testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Def_SBA Setup And Activation page" 	  								testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Def_SBC- SIP trunk leg page" 	  										testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Def_SBC-Gateway- SBA Leg page" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Def_SBC-Getway LAN setup page" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Def_Set date and time zone page" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Def_Welcome page" 	  													testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Other_Network topology page" 	  										testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Other_SBC-Gateway- SBA Leg page" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Date  time zone page" 	  					  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Invalid login" 	  						  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Join to domain page" 	  					  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="LAN setup page" 	  						  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Local Administrator Password page" 	  	  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Request, Install or Assign SBA Certificates" testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="SBC-Gateway- SBA Leg page" 	  			  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_Change Local Administrator Password page" 	  						testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_Congratulations page" 	  											testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_Cumulative Update page" 	  										testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_GW Certificate" 	  												testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_ini file verification" 	  										testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_Join To Domain page" 	  											testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_Local Gateway Config INI File page" 	  							testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_Local Gateway- SBA Leg page" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_Login to wizard" 	  												testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_Logout- relogin during wizard configuration" 	  					testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_Network topology page" 	  										testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_Number Manipulations page" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_Request, Install or Assign SBA Certificates page - Immediate type" testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_SBA LAN setup page" 	  											testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_SBA Setup And Activation page" 	  								testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_SBC-Gateway WAN Setup" 	  										testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_SBC-Gateway- SIP Trunk Leg" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_SBC-Getway LAN setup page" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_Set Date And Time Zone page" 	  									testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_Start Services page" 	  											testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_internal_cer_Welcome page" 	  													testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_Change Local Administrator Password page" 	  					 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_Congratulations page" 	  										 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_Cumulative Update page" 	  										 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_GW Certificate" 	  												 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_ini file verification" 	  										 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_Join To Domain page" 	  											 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_Local Gateway Config INI File page" 	  							 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_Local Gateway- SBA Leg page" 	  									 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_Login to wizard" 	  												 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_Logout- relogin during wizard configuration" 	  					 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_Network topology page" 	  										 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_Number Manipulations page" 	  									 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_Request, Install or Assign SBA Certificates page - Immediate type" testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_SBA LAN setup page" 	  											 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_SBA Setup And Activation page" 	  								 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_SBC-Gateway WAN Setup" 	  										 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_SBC-Gateway- SIP Trunk Leg" 	  									 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_SBC-Getway LAN setup page" 	  									 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_Set Date And Time Zone page" 	  									 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_Start Services page" 	  											 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_cer_Welcome page" 	  												 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="Burn instructions" 	  														 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_Change Local Administrator Password page" 	  					 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_Congratulations page" 	  										 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_Cumulative Update page" 	  										 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_GW Certificate" 	  												 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_ini file verification" 	  										 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_Join To Domain page" 	  											 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_Local Gateway Config INI File page" 	  							 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_Local Gateway- SBA Leg page" 	  									 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_Login to wizard" 	  												 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_Logout- relogin during wizard configuration" 	  					 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_Network topology page" 	  										 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_Number Manipulations page" 	  									 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_Request, Install or Assign SBA Certificates page - Immediate type" testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_SBA LAN setup page" 	  											 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_SBA Setup And Activation page" 	  								 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_SBC-Gateway WAN Setup" 	  										 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_SBC-Gateway- SIP Trunk Leg" 	  									 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_SBC-Getway LAN setup page" 	  									 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_Set Date And Time Zone page" 	  									 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_Start Services page" 	  											 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_Welcome page" 	  												 testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_Change Local Administrator Password page" 	  					  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_Congratulations page" 	  										  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_Cumulative Update page" 	  										  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_GW Certificate" 	  												  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_ini file verification" 	  										  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_Join To Domain page" 	  										  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_Local Gateway Config INI File page" 	  							  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_Local Gateway- SBA Leg page" 	  								  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_Login to wizard" 	  										 	  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_Logout- relogin during wizard configuration" 	  				  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_Network topology page" 	  										  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_Number Manipulations page" 	  									  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_Request, Install or Assign SBA Certificates page - Immediate type" testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_SBA LAN setup page" 	  											  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_SBA Setup And Activation page" 	  								  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_SBC-Gateway WAN Setup" 	  										  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_SBC-Gateway- SIP Trunk Leg" 	  									  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_SBC-Getway LAN setup page" 	  									  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_Set Date And Time Zone page" 	  								  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_Start Services page" 	  									  	  testMark=" " testResult="Passed"></test> -->
+		<!-- <test testName="GW_local_sbc_physical_Welcome page" 	  												  testMark=" " testResult="Passed"></test> -->
+  </section>
+</tests>
