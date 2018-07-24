@@ -7,3 +7,12 @@ Monitoring_tests_tenant_Device status options #137999,Passed
 OVOC_Add SNMP,Passed
 Invalid administrator password,Passed
 Different network connections,Passed
+Add Virtual language prompt,Passed
+Create TemplateBH,Passed
+Delete virtual language prompt,Passed
+Add Queue,Passed
+Delete Queue,Passed
+Edit Queue,Passed
+Never work (forward to phone),Passed
+2 (transfer menu),Passed
+3 (transfer menu),Passed

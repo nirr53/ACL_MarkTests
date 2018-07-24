@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests projectPath="OVOC IPP Manager 7.4.3000/Regression/">
+  <section secName="After registration-Tenant-SBC proxy">
+	  <!--<test testName="Tenant_SBC_proxy_Device status options" 	testMark=" " testResult="No Run"></test>-->
+	  <!--<test testName="Tenant_SBC_proxy_Manage Multiple Devices" testMark=" " testResult="No Run"></test>-->
+      <!--<test testName="Tenant_SBC_proxy_Manage Multiple Users" 	testMark=" " testResult="No Run"></test>-->
+      <!--<test testName="Tenant_SBC_proxy_Manage users" 			testMark=" " testResult="No Run"></test>-->
+  </section>
+  <section secName="Dashboard">
+      <test testName="Device filter advanced options" 			 testMark=" " testResult="Passed"></test>
+      <test testName="Device filter advanced options2" 			 testMark=" " testResult="Passed"></test>
+      <test testName="Alarms advanced filter options" 			 testMark=" " testResult="Passed"></test>
+      <test testName="Alarms date time" 				    	 testMark=" " testResult="Passed"></test>
+      <test testName="Alarms types" 				    		 testMark=" " testResult="Passed"></test>
+	  <test testName="HRSSpeakerFW field" 				    	 testMark=" " testResult="Passed"></test>
+      <test testName="HRSSpeakerModel field" 				     testMark=" " testResult="Passed"></test>
+	  <test testName="USBHeadsetType field" 				     testMark=" " testResult="Passed"></test>
+	  <test testName="Alarms export" 				    		 testMark=" " testResult="Passed"></test>
+	  <test testName="Alarms page" 				  	  			 testMark=" " testResult="Passed"></test>
+	  <test testName="Alarms icon" 				  	  			 testMark=" " testResult="Failed"></test><!-- 104 -->
+	  <test testName="Change tenant" 				  			 testMark=" " testResult="Passed"></test>
+	  <test testName="Check status" 				  			 testMark=" " testResult="Passed"></test>
+	  <test testName="Dashboard screen" 			  			 testMark=" " testResult="Passed"></test>
+	  <test testName="Delete" 				  		  			 testMark=" " testResult="Passed"></test>
+	  <test testName="Devices Status screen"  			 		 testMark=" " testResult="Passed"></test>
+	  <test testName="Devices Status search" 		  			 testMark=" " testResult="Passed"></test>
+	  <test testName="Export device status"  					 testMark=" " testResult="Failed"></test><!-- 101 -->
+	  <test testName="Open web admin" 				  			 testMark=" " testResult="Passed"></test>
+	  <test testName="Reset phone" 				  	  			 testMark=" " testResult="Passed"></test>
+	  <test testName="Send message" 				  			 testMark=" " testResult="Passed"></test>
+	  <test testName="Telnet" 				  		  			 testMark=" " testResult="Passed"></test>
+	  <test testName="Update configuration" 		  			 testMark=" " testResult="Passed"></test>
+	  <test testName="Update Firmware" 				  			 testMark=" " testResult="Passed"></test>
+	  <test testName="Alarm tests1" 				  			 testMark=" " testResult="Failed"></test><!-- 108 -->
+	  <test testName="Alarm tests2" 				  			 testMark=" " testResult="Passed"></test>
+	  <test testName="Alarm tests3" 				  			 testMark=" " testResult="Failed"></test><!-- 110 -->
+	  <test testName="Alarm tests4" 				  			 testMark=" " testResult="Passed"></test>  
+	  <test testName="Nickname tests" 				  			 testMark=" " testResult="Passed"></test>
+	  <test testName="BToE_status" 				  			 	 testMark=" " testResult="Passed"></test>
+	  <test testName="BToE_version_number" 				  		 testMark=" " testResult="Passed"></test>
+	  <test testName="Device status columns" 				  	 testMark=" " testResult="Passed"></test>  
+	  <test testName="Users number on main screen" 				 testMark=" " testResult="Passed"></test> 
+  </section>
+  <section secName="Login">
+  	  <test testName="Bad Login" 				  	  			 testMark=" " testResult="Passed"></test>
+	  <test testName="Good login" 				  	  			 testMark=" " testResult="Passed"></test>
+  	  <test testName="HTTPS" 				  		  			 testMark=" " testResult="Passed"></test>
+  	  <test testName="Login Screen" 				  			 testMark=" " testResult="Passed"></test>
+  	  <test testName="Login with long Location fields"  		 testMark=" " testResult="Passed"></test>
+  	  <!--<test testName="Login with long name user" 	    	 testMark=" " testResult="No Run"></test>-->
+  	  <test testName="Several Admins" 				    		 testMark=" " testResult="Passed"></test>
+	  <test testName="timeout" 				    				 testMark=" " testResult="Passed"></test>  
+	  <test testName="Welcome page links" 				    	 testMark=" " testResult="Passed"></test>
+  </section>
+  <section secName="Multi Tenancy">
+  	  <test testName="Admin_Alarms page" 				  	  			 	testMark=" " testResult="Passed"></test>
+	  <test testName="Admin_Configuration files menu" 				  	  	testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_Dashboard page" 				  	  			testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_Default Placeholders Values" 				  	testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_Device place holders" 				  	  		testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_Device status options" 				  	  		testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_Import  export tests" 				  	  		testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_Logs menu" 				  	  			 		testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_Manage device actions" 				  	  		testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_Manage user actions" 				  	  		testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_Phone configuration-files menu" 				testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_Phone firmware files (default firmware)" 		testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_Phone firmware files (non-default firmware)" 	testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_Phone Model place holders (default models)" 	testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_Phone Model place holders (non-default models)" testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_Region place holder tests" 				  	  	testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_Super Admin user creation" 				  	  	testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_System settings" 				  	  			testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_Template tests" 				  	  			testMark=" " testResult="Passed"></test>
+  	  <test testName="Admin_User actions" 				  	  			 	testMark=" " testResult="Passed"></test>
+	  <test testName="Monitoring_tests_system_LDAP configuration" 				  	testMark=" " testResult="Passed"></test>
+	  <test testName="Monitoring_tests_system_License" 				  	  			testMark=" " testResult="Passed"></test>
+	  <test testName="Monitoring_tests_system_Alarms page" 							testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Dashboard page" 				  		testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Default Placeholders Values" 			testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Device place holders" 				testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Device status options #137999" 		testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Export users" 				  		testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Import users" 				  		testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Login to Monitoring user" 			testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Logs menu" 				  	  		testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Manage multiple devices" 				testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Manage Multiple Users" 				testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Manage tenants" 				  		testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Manage users" 				  		testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Monitoring user creation" 			testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Phone configuration-files menu" 		testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Phone firmware files" 				testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Phone-Model place holders" 			testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Region place-holders" 				testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_System settings" 				  		testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_system_Templates" 				  	  		testMark=" " testResult="Passed"></test>
+	  <test testName="Monitoring_tests_system_Tenant PH" 							testMark=" " testResult="Passed"></test>
+	  <test testName="Monitoring_tests_system_Template PH" 							testMark=" " testResult="Passed"></test>   
+	  <test testName="Monitoring_tests_system_View sites" 				  	    	testMark=" " testResult="Passed"></test>  
+	  <test testName="Monitoring_tests_system_Site configuration" 					testMark=" " testResult="Passed"></test>    
+	  <test testName="Monitoring_tests_system_Device status actions" 				testMark=" " testResult="Passed"></test>  
+	  <test testName="Monitoring_tests_system_Device status actions_row" 			testMark=" " testResult="Passed"></test> 
+	  <test testName="Monitoring_tests_tenant_Device status actions_row" 		testMark=" " testResult="Passed"></test> 
+	  <test testName="Monitoring_tests_tenant_Device status actions" 			testMark=" " testResult="Passed"></test>  
+	  <test testName="Monitoring_tests_tenant_Site_configuration" 				testMark=" " testResult="Failed"></test><!-- 89 -->  
+	  <test testName="Monitoring_tests_tenant_License" 				  	  		testMark=" " testResult="Passed"></test>  
+	  <test testName="Monitoring_tests_tenant_Dashboard page" 				  	testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_tenant_Default Placeholders Values" 		testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_tenant_Device place holders" 			testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_tenant_Device status options #137999" 	testMark=" " testResult="Passed"></test>
+	  <test testName="Monitoring_tests_tenant_Export users" 				  	testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_tenant_Import users" 				  	testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_tenant_Login to Monitoring user" 		testMark=" " testResult="Passed"></test>
+	  <test testName="Monitoring_tests_tenant_Logs menu" 				  	  	testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_tenant_Manage multiple devices" 			testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_tenant_Manage Multiple Users" 			testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_tenant_Manage tenants" 				  	testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_tenant_Manage users" 				  	testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_tenant_Monitoring user creation" 		testMark=" " testResult="Passed"></test>
+	  <test testName="Monitoring_tests_tenant_Alarms page" 						testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_tenant_Phone configuration-files menu" 	testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_tenant_Phone firmware files" 			testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_tenant_Phone-Model place holders" 		testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_tenant_Region place-holders" 			testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_tenant_System settings" 				  	testMark=" " testResult="Passed"></test>
+  	  <test testName="Monitoring_tests_tenant_Templates" 				  	  	testMark=" " testResult="Passed"></test>
+	  <test testName="Monitoring_tests_tenant_Site_configuration" 				testMark=" " testResult="Failed"></test><!-- 89 -->  
+	  <test testName="Monitoring_tests_tenant_Tenant PH" 						testMark=" " testResult="Passed"></test>
+	  <test testName="Monitoring_tests_tenant_Template PH" 						testMark=" " testResult="Passed"></test> 
+	  <test testName="Monitoring_tests_tenant_View sites" 				  	    testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_License" 				  	  			 								testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_Login to Operation user" 				  	  			 				testMark=" " testResult="Passed"></test>  
+	  <test testName="Operation_tests_system_Tenant_PH" 				  	  			 							testMark=" " testResult="Passed"></test>  
+	  <test testName="Operation_tests_system_Template_PH" 				  	  			 							testMark=" " testResult="Passed"></test>   
+	  <test testName="Operation_tests_system_Alarms page" 				  	  			 							testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_Dashboard page" 				  	  			 						testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_Default Placeholders Values" 				  	  			 			testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_Device place holders" 				  	  			 					testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_Device status options" 				  	  			 				testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_Export users" 				  	  			 							testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_Import users  devices" 				  	  			 				testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_Logs menu" 				  	  			 							testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_Manage multi devices"									 				testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_Manage Multiple Users" 				  								testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_Manage users" 				  	  			 							testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_Operating user creation" 				  	  			 				testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_Phone configuration-files menu" 				  	  			 		testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_Phone firmware files" 				  	  								testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_Phone firmware files_default" 				  	  						testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_Phone-Model place holders" 				  	  			 			testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_System settings" 				  	  			 						testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_Templates" 				  	  										testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_system_View sites" 				  	  										testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_License" 				  	  			 							testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_Login to Operation user" 				  	  			 			testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_Tenant_PH" 				  	  			 						testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_Template_PH" 				  	  			 						testMark=" " testResult="Passed"></test> 
+	  <test testName="Operation_tests_tenant_Alarms page" 				  	  			 						testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_Dashboard page" 				  	  			 					testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_Device place holders" 				  	  			 				testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_Device status options" 				  	  			 			testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_Export users" 				  	  			 						testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_Import users  devices" 				  	  			 			testMark=" " testResult="Failed"></test><!-- 54 -->
+	  <test testName="Operation_tests_tenant_Logs menu" 				  	  			 						testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_Manage multi devices" 												testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_Manage Multiple Users" 											testMark=" " testResult="Failed"></test><!-- 53 --> 
+	  <test testName="Operation_tests_tenant_Manage users" 				  	  			 						testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_Operating user creation" 				  	  			 			testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_Phone configuration-files menu" 				  	  			 	testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_Phone firmware files" 				  	  							testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_Phone-Model place holders" 				  	  			 		testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_System settings" 				  	  			 					testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_Templates" 				  	  									testMark=" " testResult="Passed"></test>
+	  <test testName="Operation_tests_tenant_View sites" 				  	  									testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Alarms page" 				  	  			 				testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Configuration files menu" 				  	  			testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Dashboard page" 				  	  			 			testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Default Placeholders Values" 				  	  			testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Device place holders" 				  	  			 	testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Device status options" 				  	  			 	testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Import  export tests" 				  	  			 	testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Logs menu" 				  	  			 				testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Manage device actions" 				  	  			 	testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Manage user actions" 				  	  			 		testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Phone configuration-files menu" 				  	  		testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Phone firmware files (default firmware)" 				  	testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Phone firmware files (non-default firmware)" 				testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Phone Model place holders (default models)" 				testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Phone Model place holders (non-default models)" 			testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Region place holder tests" 				  	  			testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Super Admin user creation" 				  	  			testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_System settings" 				  	  			 			testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_Template tests" 				  	  			 			testMark=" " testResult="Passed"></test>
+	  <test testName="Super_admin_User actions" 				  	  			 			testMark=" " testResult="Passed"></test>	 
+  </section>
+  <section secName="New Tests">
+	   <test testName="Stuck menu bug" 				    		 										testMark=" " testResult="Passed"></test>
+  	   <!--<test testName="After change-Delete user-s configuration" 									testMark=" " testResult="No Run"></test>-->
+	   <!--<test testName="Alarms after change" 														testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Change" 																		testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Change at all places" 														testMark=" " testResult="No Run"></test>--> 
+	   <!--<test testName="Change subnet" 																testMark=" " testResult="No Run"></test>-->  
+	   <test testName="Change subnet" 																	testMark=" " testResult="Passed"></test>  
+	   <!--<test testName="Change the zero touch default template" 										testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Changes in all places" 														testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Configuration keys- Change configuration-Different from default template"	testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Contradicting actions" 														testMark=" " testResult="No Run"></test>-->  
+	   <test testName="Default tenant" 																	testMark=" " testResult="Passed"></test>  
+	   <!--<test testName="Delete a site- Site to Site" 												testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Delete a site- Site to tenant" 												testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Delete a Site-Basic" 														testMark=" " testResult="No Run"></test>-->  
+	   <test testName="Delete a tenant-DHCP" 															testMark=" " testResult="Passed"></test>  
+	   <!--<test testName="Delete a tenant-From tenant to site level" 									testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Delete a tenant-Tenant level only" 											testMark=" " testResult="No Run"></test>-->  
+	   <test testName="Delete a tenant-URL" 															testMark=" " testResult="Passed"></test>  
+	   <test testName="Delete a tenant-URL (updated tenant)" 											testMark=" " testResult="Passed"></test>  
+	   <test testName="Delete an endpoint" 																testMark=" " testResult="Passed"></test>  
+	   <test testName="Delete device at all places" 													testMark=" " testResult="Passed"></test>  
+	   <!--<test testName="Delete first device" 														testMark=" " testResult="No Run"></test>-->  
+	   <test testName="Delete tenant" 																	testMark=" " testResult="Passed"></test>  
+	   <!--<test testName="Delete tenant-Device with URL" 												testMark=" " testResult="No Run"></test>-->  
+	   <test testName="Delete tenant-Multiple Devices" 													testMark=" " testResult="Passed"></test>  
+	   <!--<test testName="Delete tenant-Multiple devices with URL" 									testMark=" " testResult="No Run"></test>-->  
+	   <test testName="Delete tenant-Registration with diff order to same user" 						testMark=" " testResult="Passed"></test>  
+	   <!--<test testName="Delete user" 																testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Delete user-Registration in a diff order" 									testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Delete when no region suitable" 												testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Delete when no site suitable" 												testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Deleting configuration-Lower in hierarchy is taken" 							testMark=" " testResult="No Run"></test>-->  
+	   <test testName="Deleting with monitoring permission" 											testMark=" " testResult="Passed"></test>  
+	   <test testName="Device- version can work only with http" 										testMark=" " testResult="Passed"></test>  
+	   <!--<test testName="DHCP - user defined" 														testMark=" " testResult="No Run"></test>-->  
+	   <test testName="DHCP Option" 																	testMark=" " testResult="Passed"></test>  
+	   <test testName="DHCP option page-HTTPS or HTTP" 													testMark=" " testResult="Passed"></test>  
+	   <!--<test testName="Different configurations-Change in EMS" 										testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Different configurations-Edit user" 											testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Different registration pattern" 												testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Different Users" 															testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Disable" 																	testMark=" " testResult="No Run"></test>-->  
+	   <test testName="Either http or https" 															testMark=" " testResult="Passed"></test>  
+	   <!--<test testName="Enable" 																		testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Filters after change tenant" 												testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="From Autodetection to suitable site" 										testMark=" " testResult="No Run"></test>-->  
+	   <test testName="From regular to default" 														testMark=" " testResult="Passed"></test>  
+	   <test testName="HTTP or HTTPS" 																	testMark=" " testResult="Passed"></test>  
+	   <test testName="Import and export system items" 													testMark=" " testResult="Passed"></test>  
+	   <!--<test testName="IPPs are all offline-disconnected" 											testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Login Rest API" 																testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Login with invalid credetials" 												testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Login-Close tab-Relogin" 													testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Most suitable subnet does not have a license" 								testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="No license but there is a default tenant" 									testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="No subnet mask is suitable" 													testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="No suitable sites" 															testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Not zero touch- When first detected" 										testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="offline and then register to an existing user" 								testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Only in the region" 															testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Only in the tenant" 															testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="PHs- Change configuration-Different from default template" 					testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Place in site with the smallest range" 										testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Private configuration is disabled" 											testMark=" " testResult="No Run"></test>-->  
+	   <test testName="Register to a new user" 															testMark=" " testResult="Passed"></test>  
+	   <!--<test testName="Register to non existing user after change of tenant" 						testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Registration as a second device" 											testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Regular" 																	testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="SBC Proxy" 																	testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Second device for two registrations" 										testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Second device for two registrations-DHCP" 									testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Sign in with a different user-site-region-tenant" 							testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Site in another region" 														testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Site-s subnet is changed to a more suitable for a device" 					testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Special characters of tenant" 												testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Taking tenant-s private configuration" 										testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Tenant does not have license" 												testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Tenant is changed at IPP manager" 											testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Tenant name has a space" 													testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Updating tenant when ipp is not -registered" 								testMark=" " testResult="No Run"></test>-->  
+	   <test testName="User exists at next registration" 												testMark=" " testResult="Passed"></test>  
+	   <!--<test testName="User has no devices" 														testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="User has two devices-Basic" 													testMark=" " testResult="No Run"></test>-->  
+	   <test testName="Verify post deletion" 															testMark=" " testResult="Passed"></test>  
+	   <!--<test testName="When device reports user should be created" 									testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="When tenant is defined by user" 												testMark=" " testResult="No Run"></test>-->  
+	   <test testName="Zero touch- When first detected" 												testMark=" " testResult="Passed"></test>
+	   <!--<test testName="Actions done simultaneously" 												testMark=" " testResult="No Run"></test>--> 
+	   <test testName="Add new - existing PH" 															testMark=" " testResult="Passed"></test>  
+	   <!--<test testName="Add site when the page is open" 												testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Add-Remove configuration" 													testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="At first registration there is no template" 									testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="At first registration there is no template 2" 								testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Autodetection sites and regions" 											testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Change configuration" 														testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Change tenant name" 															testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Change User" 																testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Copy configuration" 															testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Deleting and adding new tenants" 											testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Disable configuration" 														testMark=" " testResult="No Run"></test>-->  
+	   <test testName="Edit-Delete values" 																testMark=" " testResult="Passed"></test>  
+	   <test testName="Network Topology" 																testMark=" " testResult="Passed"></test>
+	   <!--<test testName="Export private data" 														testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Generating at all places" 													testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="No tenants exist" 															testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="private configuration" 														testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Recreate and change" 														testMark=" " testResult="No Run"></test>-->  
+	   <!--<test testName="Tenant-s-User-s-Site-s configuration disabled" 								testMark=" " testResult="No Run"></test>-->  
+	   <test testName="User has special characters" 													testMark=" " testResult="Passed"></test>  
+   </section>
+   <section secName="Non Lync">
+  	   <!--<test testName="Approve_Device status options" 	    			 	  testMark=" " testResult="No Run"></test>--> 
+	   <!--<test testName="Approve_Login to import user" 	    			 	  testMark=" " testResult="No Run"></test>-->
+	   <!--<test testName="Approve_Manage Multiple Devices" 	    			  testMark=" " testResult="No Run"></test>-->
+	   <!--<test testName="Approve_Manage Multiple Users" 	    			 	  testMark=" " testResult="No Run"></test>-->
+	   <!--<test testName="Approve_Manage users" 	    					 	  testMark=" " testResult="No Run"></test>-->
+	   <!--<test testName="Approve_Pre condition - Adding users via approve"      testMark=" " testResult="No Run"></test>-->
+	   <!--<test testName="ZT_region_url_Device status options" 	    		  testMark=" " testResult="No Run"></test>-->
+	   <!--<test testName="ZT_region_url_Manage Multiple Devices" 	    		  testMark=" " testResult="No Run"></test>-->
+	   <!--<test testName="ZT_region_url_Manage Multiple Users" 	    		  testMark=" " testResult="No Run"></test>-->
+	   <!--<test testName="ZT_region_url_Manage users" 	    					  testMark=" " testResult="No Run"></test>-->
+	   <!--<test testName="ZT_region_url_Pre condition - Zero touch - region url" testMark=" " testResult="No Run"></test>-->
+	   <!--<test testName="ZT_sbc_url_Device status options" 	    		 	  testMark=" " testResult="No Run"></test>-->
+	   <!--<test testName="ZT_sbc_url_Manage Multiple Devices" 	    		 	  testMark=" " testResult="No Run"></test>-->
+	   <!--<test testName="ZT_sbc_url_Manage Multiple Users" 	    		 	  testMark=" " testResult="No Run"></test>-->
+	   <!--<test testName="ZT_sbc_url_Manage users" 	    					  testMark=" " testResult="No Run"></test>-->
+	   <!--<test testName="ZT_sbc_url_Pre condition - Zero touch - sbc url" 	  testMark=" " testResult="No Run"></test>-->
+   </section> 
+   <section secName="Phones Configuration">
+     <test testName="Permitted suffix" 				    		 							    testMark=" " testResult="Passed"></test>
+	  <test testName="Setup Wizard menus" 				    		 							testMark=" " testResult="Passed"></test>
+	  <test testName="Setup Wizard template Mapping" 				    		 				testMark=" " testResult="Passed"></test>
+	  <test testName="Setup Wizard Tenant configuration value" 				    		 		testMark=" " testResult="Passed"></test>
+	  <test testName="Templates mapping" 				    		 						    testMark=" " testResult="Passed"></test>
+   	  <test testName="Features" 																testMark=" " testResult="Passed"></test> 
+   	  <test testName="Add new value" 															testMark=" " testResult="Passed"></test>  
+   	  <test testName="Site has special characters" 												testMark=" " testResult="Failed"></test><!-- 130 -->
+	  <test testName="Private PH_export" 	  													testMark=" " testResult="Passed"></test> 
+      <test testName="Private PH" 	  															testMark=" " testResult="Passed"></test> 
+   	  <test testName="Template features" 	  													testMark=" " testResult="Failed"></test><!-- 96 --> 
+  	  <test testName="Add bad template" 	    						 						testMark=" " testResult="Passed"></test>
+	  <test testName="Add IPP Model Placeholder" 	    						 				testMark=" " testResult="Passed"></test>
+  	  <test testName="Add new firmware" 	    						 						testMark=" " testResult="Passed"></test>
+  	  <test testName="Add Template" 	    						 							testMark=" " testResult="Passed"></test>
+	  <test testName="Duplicate firmware" 	    						 						testMark=" " testResult="Passed"></test>
+  	  <test testName="Add Tenant Placeholder" 	    											testMark=" " testResult="Passed"></test>
+  	  <!--<test testName="Change Devices Placeholder value" 	    						 	testMark=" " testResult="No Run"></test>-->
+  	  <test testName="Delete Devices PH" 	    						 						testMark=" " testResult="Passed"></test>
+  	  <test testName="Delete firmware" 	    						 							testMark=" " testResult="Passed"></test>
+  	  <test testName="Delete IPP model PH" 	    												testMark=" " testResult="Passed"></test>
+  	  <test testName="Delete template" 	    						 							testMark=" " testResult="Passed"></test>
+  	  <test testName="Delete Tenant PH" 	    						 						testMark=" " testResult="Passed"></test>
+  	  <!--<test testName="Device PH hierarchy 1" 	    						 				testMark=" " testResult="No Run"></test>-->
+  	  <!--<test testName="Device PH hierarchy 2" 	    						 				testMark=" " testResult="No Run"></test>-->
+	  <test testName="Generate configuration tests"   											testMark=" " testResult="Passed"></test>
+	  <test testName="Generate delete configuration tests"   									testMark=" " testResult="Passed"></test>
+	  <test testName="Generate edit configuration tests"   										testMark=" " testResult="Passed"></test>
+	  <test testName="Tenant configuration generate"   											testMark=" " testResult="Passed"></test>
+	  <test testName="Site configuration generate"   											testMark=" " testResult="Passed"></test>
+	  <test testName="Generate and delete user configuration"   								testMark=" " testResult="Passed"></test>
+	  <test testName="Generate during create"   												testMark=" " testResult="Passed"></test>
+  	  <test testName="Devices PH screen" 	    						 						testMark=" " testResult="Passed"></test>
+	  <test testName="Duplicate device PH" 	    						 						testMark=" " testResult="Passed"></test>
+  	  <test testName="DHCP option configuration" 	    						 				testMark=" " testResult="Passed"></test> 
+	  <test testName="DHCP option configuration urls" 	    						 			testMark=" " testResult="Passed"></test>
+	  <test testName="SBC option configuration" 	    						 				testMark=" " testResult="Passed"></test>
+  	  <test testName="download IPP configuration files" 	    						 		testMark=" " testResult="Passed"></test>
+  	  <test testName="Edit Devices PH" 	    						 							testMark=" " testResult="Passed"></test>
+  	  <test testName="Edit firmware" 	    						 							testMark=" " testResult="Passed"></test>
+  	  <test testName="Edit IPP model PH" 	    						 						testMark=" " testResult="Passed"></test>
+  	  <test testName="Edit Templates" 	    						 							testMark=" " testResult="Passed"></test>
+  	  <test testName="Edit Tenant PH" 	    						 							testMark=" " testResult="Passed"></test>
+  	  <test testName="EMS web-admin tests - System settings - DHCP Option configuration urls"	testMark=" " testResult="Passed"></test>
+  	  <test testName="IPP configuration files created" 	    						 			testMark=" " testResult="Passed"></test>
+	  <test testName="Empty password when generate a device" 	    						 	testMark=" " testResult="Passed"></test>
+  	  <test testName="IPP models - templates" 	    						 					testMark=" " testResult="Passed"></test>
+  	  <test testName="LDAP configuration" 	    						 						testMark=" " testResult="Passed"></test>
+  	  <!--<test testName="Many IPP configuration files" 	    						 		testMark=" " testResult="No Run"></test>-->
+  	  <!--<test testName="missing name 1" 	    						 						testMark=" " testResult="No Run"></test>-->
+  	  <!--<test testName="missing name 2" 	    						 						testMark=" " testResult="No Run"></test>-->
+  	  <!--<test testName="Model PH hierarchy" 	    						 					testMark=" " testResult="No Run"></test>-->
+  	  <test testName="Phone Model PH screen" 	    						 					testMark=" " testResult="Passed"></test>
+  	  <test testName="Sharefiles" 	    						 								testMark=" " testResult="Passed"></test>
+	  <test testName="Duplicate Template PH" 	    						 					testMark=" " testResult="Passed"></test>
+  	  <!--<test testName="Stress Test" 	    						 							testMark=" " testResult="No Run"></test>-->
+  	  <test testName="System PH hierarchy" 	    						 						testMark=" " testResult="Passed"></test>
+  	  <test testName="System Placeholder screen" 	    						 				testMark=" " testResult="Passed"></test>
+  	  <test testName="System Settings" 	    						 							testMark=" " testResult="Passed"></test>
+  	  <test testName="System settings - dhcp template" 	    						 			testMark=" " testResult="Passed"></test>
+	  <test testName="Timeout system"   							 							testMark=" " testResult="Passed"></test>
+  	  <!--<test testName="Tenant PH hierarchy 1" 	    						 				testMark=" " testResult="No Run"></test>-->
+  	  <!--<test testName="Tenant PH hierarchy 2" 	    						 				testMark=" " testResult="No Run"></test>-->
+  	  <test testName="Tenant configuration screen" 	    						 				testMark=" " testResult="Passed"></test>
+	  <test testName="Tenant configuration value" 	    						 				testMark=" " testResult="Passed"></test>  
+	  <test testName="Tenant configuration duplicate tests" 	    						 	testMark=" " testResult="Passed"></test>
+  	  <test testName="upload IPP configuration files" 	    						 			testMark=" " testResult="Passed"></test>	  
+	  <test testName="Upload bad configuration file" 	    						 			testMark=" " testResult="Passed"></test>  
+	  <test testName="Add Site Placeholder" 	    						 					testMark=" " testResult="Passed"></test>
+	  <test testName="Delete Site PH" 	    						 							testMark=" " testResult="Passed"></test>
+	  <test testName="Edit Site PH" 	    						 							testMark=" " testResult="Passed"></test>
+	  <test testName="Site configuration duplicate tests" 	    						 		testMark=" " testResult="Passed"></test>
+	  <test testName="Site configuration screen" 	    						 				testMark=" " testResult="Passed"></test>
+	  <test testName="Site configuration value" 	    						 				testMark=" " testResult="Passed"></test>
+	  <test testName="Site configuration features" 	    						 				testMark=" " testResult="Passed"></test>	  
+	  <test testName="Tenant configuration features" 	    						 			testMark=" " testResult="Passed"></test>
+	  <test testName="View sites" 	    						 								testMark=" " testResult="Passed"></test>
+	  <test testName="View tenants" 	    						 							testMark=" " testResult="Passed"></test>
+	  <test testName="Template name with special characters" 									testMark=" " testResult="Passed"></test>
+  </section>
+  <section secName="System Diagnostics">
+  	  <test testName="Log level" 	    						 testMark=" " testResult="Passed"></test>
+  	  <test testName="Logs rotate" 				    			 testMark=" " testResult="Passed"></test>
+	  <test testName="System Logs" 				    			 testMark=" " testResult="Passed"></test>  
+  </section>
+  <section secName="Users">
+	  <test testName="Long name users" 	    						 			 testMark=" " testResult="Passed"></test>
+      <test testName="Special characters users" 	    						 testMark=" " testResult="Failed"></test><!-- 103 -->
+  	  <test testName="Add Device" 	    						 				 testMark=" " testResult="Passed"></test>
+	  <test testName="Add Users" 	    						 				 testMark=" " testResult="Passed"></test>
+  	  <!--<test testName="Approve device with foreign name" 	    			 testMark=" " testResult="No Run"></test>-->
+  	  <test testName="Change the VLAN-discovery mode" 	    					 testMark=" " testResult="Passed"></test>
+  	  <test testName="create new device" 	    						 		 testMark=" " testResult="Passed"></test>
+  	  <test testName="Dashboard" 	    						 				 testMark=" " testResult="Passed"></test>
+  	  <test testName="delete device" 	    						 			 testMark=" " testResult="Passed"></test>
+  	  <test testName="Device status options" 	    						 	 testMark=" " testResult="Passed"></test>
+  	  <test testName="Different languages user creation" 	    				 testMark=" " testResult="Passed"></test>
+  	  <test testName="Different users same MAC" 	    						 testMark=" " testResult="Passed"></test>
+  	  <test testName="Edit a ZT user" 	    						 			 testMark=" " testResult="Passed"></test>
+  	  <test testName="Edit device - VLAN mode automatic CDP" 	    			 testMark=" " testResult="Passed"></test>
+  	  <test testName="Edit device - VLAN mode automatic CDP LLDP" 	    		 testMark=" " testResult="Passed"></test>
+  	  <test testName="Edit device - VLAN mode automatic LLDP" 	    			 testMark=" " testResult="Passed"></test>
+  	  <test testName="Edit device - VLAN mode disabled" 	    				 testMark=" " testResult="Passed"></test>
+  	  <test testName="Edit device - VLAN mode manual configuration" 	    	 testMark=" " testResult="Passed"></test>
+  	  <test testName="Export users results" 	    						 	 testMark=" " testResult="Passed"></test>
+  	  <test testName="Export devices results" 	    						 	 testMark=" " testResult="Passed"></test>
+  	  <test testName="Export Users" 	    						 			 testMark=" " testResult="Passed"></test>
+  	  <test testName="Import existing users" 	    						     testMark=" " testResult="Passed"></test>
+  	  <test testName="Import many users" 	    						 		 testMark=" " testResult="Passed"></test>
+  	  <test testName="Import users  devices" 	    						 	 testMark=" " testResult="Passed"></test>
+  	  <test testName="Import Users and Devices" 	    						 testMark=" " testResult="Passed"></test>
+	  <test testName="Import users in different languages" 						 testMark=" " testResult="Failed"></test><!-- 65 -->
+	  <test testName="Import stop not continue" 		   						 testMark=" " testResult="Passed"></test>
+	  <test testName="Import stop and continue" 		   						 testMark=" " testResult="Passed"></test>
+  	  <!--<test testName="Login to IPP  client" 	    						 testMark=" " testResult="No Run"></test>-->
+  	  <!--<test testName="Login to IPP with user that has a device" 	    	 testMark=" " testResult="No Run"></test>-->
+  	  <!--<test testName="Login with new user to existing user" 	    		 testMark=" " testResult="No Run"></test>-->
+  	  <test testName="Manage Multiple Device Change the firmwere" 	    		 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Devices" 	    						 	 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Devices screen Change FW" 	    		 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Devices screen Change IPP Type" 	    	 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Devices screen Change Language" 	    	 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Devices screen Delete Devices" 	    	 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Devices screen Generate IPP config files"	 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Devices screen Restart Devices" 	    	 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Devices screen Send Message" 	    		 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Devices screen stop-back" 	    		 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Devices screen Update config files" 	     testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Users" 	    						 	 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Users screen Delete Users" 	    		 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Users screen Generate IPP config files" 	 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Users screen Reset password" 	    		 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Users screen Restart Devices" 	    	 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Users screen Send Message" 	    		 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Users screen Set users region" 	    	 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Users screen stop-back" 	    			 testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage Multiple Users screen Update config files" 	     testMark=" " testResult="Passed"></test>
+  	  <test testName="Manage users" 	    						 	 		 testMark=" " testResult="Passed"></test>
+  	  <test testName="Register non system devices" 	    						 testMark=" " testResult="Passed"></test>
+  	  <!--<test testName="Register system devices" 	    					 	 testMark=" " testResult="No Run"></test>-->
+	  <test testName="Search-all option" 	    			 					 testMark=" " testResult="Passed"></test>
+	  <!--<test testName="Unregister non system devices" 	    				 testMark=" " testResult="No Run"></test>-->
+	  <!--<test testName="unregister system devices" 	    					 testMark=" " testResult="No Run"></test>-->
+	  <test testName="User options" 	    						 			 testMark=" " testResult="Passed"></test>
+	  <test testName="Users timing" 	    						 			 testMark=" " testResult="Passed"></test>
+	  <test testName="Devices timing" 	    						 			 testMark=" " testResult="Passed"></test>
+  </section>
+</tests>

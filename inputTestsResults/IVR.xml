@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests projectPath="IVR/Regression/">
+  <section   secName="GUI tests"> 
+  	 <test testName="Acds business hours holiday records" 	testMark=" " testResult="Passed"></test>
+	 <test testName="Acds business hours trasnfer records" 	testMark=" " testResult="Passed"></test>
+	 <test testName="Acds create edit delete" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Acds create error" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Agents create edit delete" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Backup and restore auto backup" 		testMark=" " testResult="Passed"></test>
+	 <test testName="Backup and restore manual backup" 		testMark=" " testResult="Passed"></test>
+	 <test testName="Backup and restore restore" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Business hours create edit delete" 	testMark=" " testResult="Passed"></test>
+	 <test testName="Business Hours create errors" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Export Agents" 					  	testMark=" " testResult="Passed"></test>
+	 <test testName="Export all create templates" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Export Business Hours" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Export Groups" 					  	testMark=" " testResult="Passed"></test>
+	 <test testName="Export Holidays" 					  	testMark=" " testResult="Passed"></test>
+	 <test testName="Export IVR endpoints" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Export IVRs" 					  		testMark=" " testResult="Passed"></test>
+	 <test testName="Export Music on hold" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Export Prompts" 					  	testMark=" " testResult="Passed"></test>
+	 <test testName="Export Queues" 					  	testMark=" " testResult="Passed"></test>
+	 <test testName="Groups create add agents" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Groups create edit delete" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Groups create errors" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Groups create routing methods"  		testMark=" " testResult="Passed"></test>
+	 <test testName="Holidays create edit delete" 	 		testMark=" " testResult="Passed"></test>
+	 <test testName="Holidays create errors" 		 		testMark=" " testResult="Passed"></test>
+	 <test testName="Ivr create edit delete" 		  		testMark=" " testResult="Passed"></test>
+	 <test testName="Ivr create errors" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Ivr endPoints create delete" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Languages create edit delete" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Languages create errors" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Load samples" 					  		testMark=" " testResult="Passed"></test>
+	 <test testName="Management agents create errors" 		testMark=" " testResult="Passed"></test>
+	 <test testName="Mohs create edit delete" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Mohs create errors" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Prompts create errors" 		 	    testMark=" " testResult="Passed"></test>
+	 <test testName="Prompts create prompt based file"      testMark=" " testResult="Passed"></test>
+	 <test testName="Prompts create prompt based text" 	    testMark=" " testResult="Passed"></test>
+	 <test testName="Proxy sip trunks create edit delete"   testMark=" " testResult="Passed"></test>
+	 <test testName="Proxy sip trunks create errors" 		testMark=" " testResult="Passed"></test>
+	 <test testName="Queues create edit delete" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Queues create errors" 					testMark=" " testResult="Passed"></test>
+	 <test testName="User manuals" 					  		testMark=" " testResult="Passed"></test>
+  </section>
+  <section   secName="Configuration">
+  	 <test testName="Auto Backup_sanity" 		testMark=" " testResult="Passed"></test>
+	 <test testName="Manual Backup_sanity" 		testMark=" " testResult="Passed"></test>
+	 <test testName="No permission to license" 	testMark=" " testResult="Passed"></test>
+	 <!-- <test testName="Num of saved backup" 	testMark=" " testResult="Passed"></test> -->
+	 <test testName="Permission to license" 	testMark=" " testResult="Passed"></test>
+	 <test testName="Restore_sanity" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Unable Backup" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Upload backup file" 		testMark=" " testResult="Passed"></test>
+  </section>
+  <section   secName="End 2 End">
+   	 <test testName="ACD call" 					 							testMark=" " testResult="Passed"></test>
+  	 <test testName="ACD call_sanity" 					 					testMark=" " testResult="Passed"></test>
+  	 <test testName="Basic call" 					 						testMark=" " testResult="Passed"></test>
+  	 <!-- <test testName="Basic call_sanity" 					 			testMark=" " testResult="Passed"></test> -->
+  	 <test testName="Call - input is between x to x digits"					testMark=" " testResult="Passed"></test>
+  	 <test testName="Callout node" 					 						testMark=" " testResult="Passed"></test>
+  	 <!-- <test testName="Change IVR endpoint" 					 			testMark=" " testResult="Passed"></test> -->
+  	 <test testName="Change language call" 									testMark=" " testResult="Passed"></test>
+  	 <!-- <test testName="Change language call_sanity" 						testMark=" " testResult="Passed"></test> -->
+  	 <!-- <test testName="Disable IVR" 					 					testMark=" " testResult="Passed"></test> -->
+  	 <test testName="DTMF node" 					 						testMark=" " testResult="Passed"></test>
+  	 <test testName="DTMF node out call" 					 				testMark=" " testResult="Passed"></test>
+  	 <!-- <test testName="DTMF node out call_sanity" 						testMark=" " testResult="Passed"></test> -->
+  	 <!-- <test testName="Duplicate IVR" 					 				testMark=" " testResult="Passed"></test> -->
+  	 <!-- <test testName="Edit tree configuration" 							testMark=" " testResult="Passed"></test> -->
+  	 <!-- <test testName="Endpoint automatic restart_sanity" 				testMark=" " testResult="Passed"></test> -->
+  	 <test testName="Escalated recognition error prompt" 					testMark=" " testResult="Passed"></test>
+  	 <test testName="Escalated silence error prompt" 						testMark=" " testResult="Passed"></test>
+  	 <test testName="Initial silence timeout" 								testMark=" " testResult="Passed"></test>
+  	 <test testName="Maximum recognition errors" 							testMark=" " testResult="Passed"></test>
+  	 <test testName="Maximum silence errors" 								testMark=" " testResult="Passed"></test>
+  	 <!-- <test testName="Office closed call Bug #3262_sanity" 				testMark=" " testResult="Passed"></test> -->
+  	 <test testName="On holiday call" 					 					testMark=" " testResult="Passed"></test>
+  	 <!-- <test testName="On holiday call_sanity" 							testMark=" " testResult="Passed"></test> -->
+  	 <test testName="On no recognition error goto" 							testMark=" " testResult="Passed"></test>
+  	 <test testName="On silence error goto" 								testMark=" " testResult="Passed"></test>
+  	 <test testName="On silence or no recognition error goto" 				testMark=" " testResult="Passed"></test>
+  	 <test testName="Out of business hours" 					 			testMark=" " testResult="Passed"></test>
+  	 <test testName="Out of office call bug #3262" 							testMark=" " testResult="Passed"></test>
+  	 <!-- <test testName="Outside business hours call_sanity" 				testMark=" " testResult="Passed"></test> -->
+  	 <test testName="Play prompt (disconnect) call" 						testMark=" " testResult="Passed"></test>
+  	 <!-- <test testName="Play prompt (disconnect) call_sanity" 			testMark=" " testResult="Passed"></test> -->
+  	 <test testName="Play prompt (return) call" 					 		testMark=" " testResult="Passed"></test>
+  	 <!-- <test testName="Play prompt (return) call_sanity" 				testMark=" " testResult="Passed"></test> -->
+  	 <!-- <test testName="PSTN (trunk) call to ACD with PSTN agent_sanity"	testMark=" " testResult="Passed"></test> -->
+  	 <test testName="Recognition error prompt" 					 			testMark=" " testResult="Passed"></test>
+  	 <test testName="Record call" 					 						testMark=" " testResult="Passed"></test>
+  	 <!-- <test testName="Record call_sanity" 					 			testMark=" " testResult="Passed"></test> -->
+  	 <test testName="Record node" 					 						testMark=" " testResult="Passed"></test>
+  	 <!-- <test testName="Regular expression input_sanity" 					testMark=" " testResult="Passed"></test> -->
+  	 <test testName="Silence error prompt" 					 				testMark=" " testResult="Passed"></test>
+  	 <test testName="Silence prompt" 					 					testMark=" " testResult="Passed"></test>
+  	 <test testName="Transfer (return if fail) call" 						testMark=" " testResult="Passed"></test>
+  	 <!-- <test testName="Transfer (return if fail) call_sanity" 			testMark=" " testResult="Passed"></test> -->
+  	 <test testName="Transfer node" 					 					testMark=" " testResult="Passed"></test>
+  	 <test testName="Transfer to call" 					 					testMark=" " testResult="Passed"></test>
+  	 <!-- <test testName="Transfer to call_sanity" 					 		testMark=" " testResult="Passed"></test> -->
+  	 <!-- <test testName="Tree configuration end 2 end_sanity" 				testMark=" " testResult="Passed"></test> -->
+  </section>
+  <section   secName="Installation function">
+  	 <!-- <test testName="IVR components exist before installation" testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="IVR installation notes" 					testMark=" " testResult="Passed"></test> -->
+  </section>
+  <section   secName="Management">
+	 <test testName="Add Virtual language prompt" 					 	testMark=" " testResult="Passed"></test>
+	 <test testName="Alert time=10" 					 				testMark=" " testResult="Passed"></test>
+	 <test testName="Alert time=20" 					 				testMark=" " testResult="Passed"></test>
+	 <test testName="B-In = FALSE, D-P-Flush = FALSE (STRING)" 			testMark=" " testResult="Passed"></test>
+	 <test testName="B-In = FALSE, D-P-Flush = FALSE" 					testMark=" " testResult="Passed"></test>
+	 <test testName="B-In = FALSE, D-P-Flush = TRUE (STRING)" 			testMark=" " testResult="Passed"></test>
+	 <test testName="B-In = FALSE, D-P-Flush = TRUE" 					testMark=" " testResult="Passed"></test>
+	 <test testName="B-In = TRUE, D-P-Flush = FALSE (STRING)" 			testMark=" " testResult="Passed"></test>
+	 <test testName="B-In = TRUE, D-P-Flush = FALSE" 					testMark=" " testResult="Passed"></test>
+	 <test testName="B-In = TRUE, D-P-Flush = TRUE (STRING)" 			testMark=" " testResult="Passed"></test>
+	 <test testName="B-In = TRUE, D-P-Flush = TRUE" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Create All Templates" 					 			testMark=" " testResult="Passed"></test>
+	 <test testName="Create TemplateACD" 					 			testMark=" " testResult="Passed"></test>
+	 <test testName="Create TemplateAgent" 					 			testMark=" " testResult="Passed"></test>
+	 <test testName="Create TemplatBH" 					 				testMark=" " testResult="Passed"></test>
+	 <test testName="Create TemplateGroup" 					 			testMark=" " testResult="Passed"></test>
+	 <test testName="Create TemplateHoliday" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="Delete Endpoint - invalid" 					 	testMark=" " testResult="Passed"></test>
+	 <!-- <test testName="Delete Holiday - invalid" 					testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Delete Holiday set - invalid, in IVR use" 	testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Delete Holiday set - invalid, left one holid" testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Delete MOH - invalid" 					 	testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Delete virtual language - invalid" 			testMark=" " testResult="Passed"></test> -->
+	 <test testName="Delete virtual language prompt" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Eternal Holiday (forward to phone)" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Eternal holiday" 					 				testMark=" " testResult="Passed"></test>
+	 <test testName="Export All" 					 					testMark=" " testResult="Passed"></test>
+	 <test testName="Export_sanityACD" 					 				testMark=" " testResult="Passed"></test>
+	 <test testName="Export_sanityAgent" 					 			testMark=" " testResult="Passed"></test>
+	 <test testName="Export_sanityBH" 									testMark=" " testResult="Passed"></test>
+	 <test testName="Export_sanityGroup" 					 			testMark=" " testResult="Passed"></test>
+	 <test testName="Export_sanityHoliday" 					 			testMark=" " testResult="Passed"></test>
+	 <test testName="Export_sanityIVRendPoints" 					 	testMark=" " testResult="Passed"></test>
+	 <test testName="Export_sanityIVR" 					 				testMark=" " testResult="Passed"></test>
+	 <test testName="Export_sanityMOH" 					 				testMark=" " testResult="Passed"></test>
+	 <test testName="Forward several call to queue 1" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Forward several call to queue 2" 					testMark=" " testResult="Passed"></test>
+	 <!-- <test testName="Import_sanityACD" 					 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Import_sanityAgent" 					 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Import_sanityGroup" 					 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Import_sanityHoliday" 					 	testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Import_sanityIVR" 					 		testMark=" " testResult="Passed"></test> -->
+	 <test testName="Longest idle - 3 agents" 					 		testMark=" " testResult="Passed"></test>
+	 <!-- <test testName="Menu node" 					 				testMark=" " testResult="Passed"></test> -->
+	 <test testName="Never work (forward to phone)" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Never work" 					 					testMark=" " testResult="Passed"></test>
+	 <test testName="One agent" 					 					testMark=" " testResult="Passed"></test>
+	 <test testName="Overflow=1 (newest, forward to phone)" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Overflow=1 (newest, forward to sip)" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Overflow=1 (newest,disconnect)" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Overflow=1 (oldest,disconnect)" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Parallel - 2 agents" 					 			testMark=" " testResult="Passed"></test>
+	 <test testName="Queue overflow (forward to other menu)" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Queue with busy agent 1" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="Queue with busy agent 2" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="Queue with invalid agent" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="Queue with invalid agents" 					 	testMark=" " testResult="Passed"></test>
+	 <test testName="Round robin - 3 agents" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="Serial - 2 agents" 					 			testMark=" " testResult="Passed"></test>
+	 <test testName="Time out=30 (disconnect)" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="Time out=30 (forward to phone)" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Time out=30 (forward to queue)" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Time out=30 (forward to sip)" 					 	testMark=" " testResult="Passed"></test>
+	 <!-- <test testName="UpdateAgent" 					 				testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Update Agent From List" 					 	testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Update Phone Number" 					 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Update stage 1ACD" 					 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Update stage 1Group" 					 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Update stage 1Holiday" 						testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Update stage 1IVR" 					 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Update stage 2ACD" 							testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Update stage 2Group" 					 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Update stage 2Holiday" 					 	testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Update stage 2IVR" 					 		testMark=" " testResult="Passed"></test> -->
+	 <test testName="1 (3rd)" 									 		testMark=" " testResult="Passed"></test>
+	 <test testName="1 (forward calls)" 								testMark=" " testResult="Passed"></test>
+	 <test testName="1 (transfer menu)" 								testMark=" " testResult="Passed"></test>
+	 <test testName="2 (3rd)" 									 		testMark=" " testResult="Passed"></test>
+	 <test testName="2 (forward calls)" 					 			testMark=" " testResult="Passed"></test>
+	 <test testName="2 (transfer menu)" 								testMark=" " testResult="Passed"></test>
+	 <test testName="3 (3rd)" 									 		testMark=" " testResult="Passed"></test>
+	 <test testName="3 (forward calls)" 								testMark=" " testResult="Passed"></test>
+	 <test testName="3 (transfer menu)" 								testMark=" " testResult="Passed"></test>
+	 <test testName="4 (3rd)" 									 		testMark=" " testResult="Passed"></test>
+	 <test testName="4 (forward calls)" 								testMark=" " testResult="Passed"></test>
+	 <test testName="5 (3rd)" 									 		testMark=" " testResult="Passed"></test>
+	 <test testName="5 (forward calls)" 								testMark=" " testResult="Passed"></test>
+	 <test testName="6 (forward calls)" 								testMark=" " testResult="Passed"></test>
+	 <test testName="7 (forward calls)" 								testMark=" " testResult="Passed"></test>
+	 <test testName="8 (forward calls)" 								testMark=" " testResult="Passed"></test>
+	 <test testName="ACD language tests" 								testMark=" " testResult="Passed"></test>
+	 <test testName="ACD menu" 					 						testMark=" " testResult="Passed"></test>
+	 <test testName="ACD MOH" 					 						testMark=" " testResult="Passed"></test>
+	 <test testName="Add Queue" 					 					testMark=" " testResult="Passed"></test>
+	 <test testName="Allow characters in string-input 1" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Allow characters in string-input 2" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Allow characters in string-input 3" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Allow characters in string-input 4" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Call via the SPS" 					 				testMark=" " testResult="Passed"></test>
+	 <test testName="Change language" 					 				testMark=" " testResult="Passed"></test>
+	 <test testName="Closed-office" 									testMark=" " testResult="Passed"></test>
+	 <test testName="Create TemplateIVRendPoints" 					 	testMark=" " testResult="Passed"></test>
+	 <test testName="Create TemplateIVR" 								testMark=" " testResult="Passed"></test>
+	 <test testName="Create TemplateMOH" 					 			testMark=" " testResult="Passed"></test>
+	 <test testName="Create TemplatePrompt" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="Create TemplateQueue" 					 			testMark=" " testResult="Passed"></test>
+	 <!-- <test testName="Delete ACD Flow - invalid" 					testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Delete Agent - invalid" 					 	testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Delete Group - invalid" 					 	testMark=" " testResult="Passed"></test> -->
+	 <test testName="Delete Queue" 					 					testMark=" " testResult="Passed"></test>
+	 <!-- <test testName="Delete Queue - invalid" 					 	testMark=" " testResult="Passed"></test> -->
+	 <test testName="DTMF check" 					 					testMark=" " testResult="Passed"></test>
+	 <test testName="DTMF detection time" 					 			testMark=" " testResult="Passed"></test>
+	 <test testName="DTMF timeout 1" 					 				testMark=" " testResult="Passed"></test>
+	 <test testName="DTMF timeout 2" 					 				testMark=" " testResult="Passed"></test>
+	 <!-- <test testName="Edit agent with ?€˜SIP URI" 					testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Edit agent without -SIP URI" 					testMark=" " testResult="Passed"></test> -->
+	 <test testName="Edit Queue" 										testMark=" " testResult="Passed"></test>
+	 <test testName="Export_sanityPrompt" 					 			testMark=" " testResult="Passed"></test>
+	 <test testName="Export_sanityQueue" 					 			testMark=" " testResult="Passed"></test>
+	 <test testName="Forward and answer it after different timeouts" 	testMark=" " testResult="Passed"></test>
+	 <test testName="Hang up" 					 						testMark=" " testResult="Passed"></test>
+	 <test testName="Hold  Retrieve" 					 				testMark=" " testResult="Passed"></test>
+	 <test testName="Holiday menu 1" 					 				testMark=" " testResult="Passed"></test>
+	 <test testName="Holiday menu 2" 					 				testMark=" " testResult="Passed"></test>
+	 <!-- <test testName="Import 1_sanityBH" 					 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Import 2_sanityBH" 					 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Import_sanityIVRendPoints" 					testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Import_sanityIVR" 					 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Import_sanityPrompt" 					 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Import_sanityQueue" 					 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="InvalidIVRendPoints" 					 		testMark=" " testResult="Passed"></test> -->
+	 <test testName="IVR answer -disconnect" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="Move to ACD" 					 					testMark=" " testResult="Passed"></test>
+	 <test testName="Move to menu" 										testMark=" " testResult="Passed"></test>
+	 <test testName="No-choice-is-selected" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="Not available ACDs" 								testMark=" " testResult="Passed"></test>
+	 <test testName="Number-Input-Replace-Regular Expression 1" 		testMark=" " testResult="Passed"></test>
+	 <test testName="Number-Input-Replace-Regular Expression 2" 		testMark=" " testResult="Passed"></test>
+	 <test testName="Play prompts" 					 					testMark=" " testResult="Passed"></test>
+	 <test testName="Queue" 					 						testMark=" " testResult="Passed"></test>
+	 <test testName="Register FXS to the SPS" 							testMark=" " testResult="Passed"></test>
+	 <test testName="Regular expression (only prefix)" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Regular expression (prefix + something)" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Reset application endpoint" 					 	testMark=" " testResult="Passed"></test>
+	 <test testName="Ringback (false)" 					 				testMark=" " testResult="Passed"></test>
+	 <test testName="Ringback (true)" 					 				testMark=" " testResult="Passed"></test>
+	 <test testName="Two prompts" 					 					testMark=" " testResult="Passed"></test>
+	 <!-- <test testName="Update stage 1BH" 					 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Update stage 1Queue" 					 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Update stage 2BH" 					 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Update stage 2Queue" 					 		testMark=" " testResult="Passed"></test> -->
+	 <test testName="Activate JS Script   (failure menu)" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Activate JS Script   (play prompt + transfer)" 	testMark=" " testResult="Passed"></test>
+	 <test testName="Activate JS Script   (success menu)" 				testMark=" " testResult="Passed"></test>
+	 <test testName="CallOut   (busy target)" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="CallOut   (NA the call for the max-timeout)" 		testMark=" " testResult="Passed"></test>
+	 <test testName="CallOut   (NA the call)" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="CallOut   (two calls)" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="CallOut  (default behavior)" 					 	testMark=" " testResult="Passed"></test>
+	 <test testName="Enable Menu Ambiguity 1" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="Enable Menu Ambiguity 2" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="Enable Menu Ambiguity 3" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="Recording menu  (end key)" 					 	testMark=" " testResult="Passed"></test>
+	 <test testName="Recording menu (hear recording) 1" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Recording menu (hear recording) 2" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Recording menu(default-time)" 					 	testMark=" " testResult="Passed"></test>
+	 <test testName="Recording menu(max-time)" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="Run This Action On Out Call   (Disconnect-Call)" 	testMark=" " testResult="Passed"></test>
+	 <test testName="Run This Action On Out Call   (Play prompt)" 		testMark=" " testResult="Passed"></test>
+	 <test testName="Run This Action On Out Call  (Send DTMF)" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Send DTMFs menu 1" 					 			testMark=" " testResult="Passed"></test>
+	 <test testName="Send DTMFs menu 2" 					 			testMark=" " testResult="Passed"></test>
+  </section>
+  <section   secName="Sites Failure">
+  	 <!-- <test testName="AD failure_sanity" 			testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Application Startup_sanity"   testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Application Startup_sanity" 	testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Incoming calls_sanity" 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Mail FE pool failure_sanity"  testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Outgoing calls_sanity" 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Presence routing_sanity" 		testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Presence_sanity" 				testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Re-register_sanity" 			testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Testing Guidelines_sanity" 	testMark=" " testResult="Passed"></test> -->
+  </section>
+  <section   secName="Status Diagnostics">
+	 <test testName="1_sanity" 								 	 testMark=" " testResult="Passed"></test>
+  	 <test testName="Few commas in DTMF input_sanity" 			 testMark=" " testResult="Passed"></test>
+	 <!-- <test testName="Missing IVR endpoint" 				 testMark=" " testResult="Passed"></test> -->
+  	 <test testName="Restart ivr service_sanity" 				 testMark=" " testResult="Passed"></test>
+  	 <test testName="Stop-start IVR service_sanity" 			 testMark=" " testResult="Passed"></test>
+  	 <test testName="Test Call Termination_sanity" 			 	 testMark=" " testResult="Passed"></test>
+  	 <test testName="Test Call to PSTN number" 				 	 testMark=" " testResult="Passed"></test>
+  	 <!-- <test testName="Test call while Test Call is running"  testMark=" " testResult="Passed"></test> -->
+  	 <test testName="User Manuals_sanity" 						 testMark=" " testResult="Passed"></test>
+  	 <test testName="With ACD_sanity" 							 testMark=" " testResult="Passed"></test>
+  	 <test testName="With caller identity_sanity" 				 testMark=" " testResult="Passed"></test>
+  	 <test testName="With DTMF" 								 testMark=" " testResult="Passed"></test>
+  	 <test testName="With few DTMFs_sanity" 					 testMark=" " testResult="Passed"></test>
+  	 <test testName="With Transfer_sanity" 					 	 testMark=" " testResult="Passed"></test>
+  	 <test testName="Without Caller Identity" 					 testMark=" " testResult="Passed"></test>
+  </section>
+  <section   secName="Installation">
+	 <!-- <test testName="Installation on clean environment" testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="New Virtual machine installation"  testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Wizard installation" 			  	 testMark=" " testResult="Passed"></test> -->
+	 <!-- <test testName="Wizard upgrade" 					 testMark=" " testResult="Passed"></test> -->
+  </section>
+  <section   secName="Settings">
+	 <test testName="ACD call_sanity" 					 				testMark=" " testResult="Passed"></test>
+	 <test testName="ACD call_sanity_PerIVR" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="Basic call_sanity" 					 			testMark=" " testResult="Passed"></test>
+	 <test testName="Basic call_sanity_PerIVR" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="Callout - run action on out call_sanity" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Callout - run action on out call_sanity_PerIVR" 	testMark=" " testResult="Passed"></test>
+	 <test testName="DTMF node out call_sanity" 					 	testMark=" " testResult="Passed"></test>
+	 <test testName="DTMF node out call_sanity_PerIVR" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Escalated recognition error prompt" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Escalated recognition error prompt_sanity_PerIVR" 	testMark=" " testResult="Passed"></test>
+	 <test testName="Escalated silence error prompt_sanity" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Escalated silence error prompt_sanity_PerIVR" 		testMark=" " testResult="Passed"></test>
+	 <test testName="Initial silence timeout_sanity" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Initial silence timeout_sanity_PerIVR" 			testMark=" " testResult="Passed"></test>
+	 <test testName="input is between x to x digits-_sanity" 			testMark=" " testResult="Passed"></test>
+	 <test testName="input is between x to x digits-_sanity_PerIVR" 	testMark=" " testResult="Passed"></test>
+	 <test testName="Maximum recognition errors_sanity" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Maximum recognition errors_sanity_PerIVR" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Maximum silence errors_sanity" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Maximum silence errors_sanity_PerIVR" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Play prompt (disconnect) call_sanity" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Play prompt (disconnect) call_sanity_PerIVR" 		testMark=" " testResult="Passed"></test>
+	 <!-- <test testName="Pre condition for next tests_sanity_PerIVR" 	testMark=" " testResult="Passed"></test> -->
+	 <test testName="Recognition error prompt_sanity" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Recognition error prompt_sanity_PerIVR" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Record call_sanity" 					 			testMark=" " testResult="Passed"></test>
+	 <test testName="Record call_sanity_PerIVR" 					 	testMark=" " testResult="Passed"></test>
+	 <test testName="Regular expression input_sanity" 					testMark=" " testResult="Passed"></test>
+	 <test testName="Regular expression input_sanity_PerIVR" 			testMark=" " testResult="Passed"></test>
+	 <test testName="Silence error prompt_sanity" 					 	testMark=" " testResult="Passed"></test>
+	 <test testName="Silence error prompt_sanity_PerIVR" 				testMark=" " testResult="Passed"></test>
+	 <test testName="Transfer to call_sanity" 					 		testMark=" " testResult="Passed"></test>
+	 <test testName="Transfer to call_sanity_PerIVR" 					testMark=" " testResult="Passed"></test>
+  </section>
+</tests>
