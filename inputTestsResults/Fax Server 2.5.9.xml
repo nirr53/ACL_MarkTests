@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tests projectPath="Fax Server 2.5.9/2.5.11/">
+<tests projectPath="Fax Server 2.5.9/Regression/">
   <section secName="Automation tests">
 	  <test testName="Attachment name bug" 						testMark=" " testResult="Passed"></test>
 	  <test testName="Time on the Fax call log pages (in  out)" testMark=" " testResult="Passed"></test>
@@ -82,7 +82,7 @@
 	  <test testName="draw document by Open Office-odg" 					   testMark=" " testResult="Passed"></test>
 	  <test testName="Excel document by Open Office-ods" 					   testMark=" " testResult="Passed"></test>
 	  <test testName="Excel file with macro" 								   testMark=" " testResult="Passed"></test>
-	  <test testName="Fax with attachment in different languages" 			   testMark=" " testResult="Failed"></test>
+	  <test testName="Fax with attachment in different languages" 			   testMark=" " testResult="Passed"></test>
 	  <test testName="Fax with attachment name that has special characters"    testMark=" " testResult="Passed"></test>
 	  <test testName="Fax with different attachment types part 1" 			   testMark=" " testResult="Passed"></test>
 	  <test testName="Fax with different attachment types part 2" 			   testMark=" " testResult="Passed"></test>
@@ -93,7 +93,7 @@
 	  <test testName="Jpeg attachement" 									   testMark=" " testResult="Passed"></test>
 	  <test testName="Jpg attachement" 										   testMark=" " testResult="Passed"></test>
 	  <test testName="Landscape layout" 									   testMark=" " testResult="Passed"></test>
-	  <test testName="Long att" 											   testMark=" " testResult="Failed"></test>
+	  <test testName="Long att" 											   testMark=" " testResult="Passed"></test>
 	  <test testName="Long file name" 										   testMark=" " testResult="Passed"></test>
 	  <test testName="Non supported Attachment" 							   testMark=" " testResult="Passed"></test>
 	  <test testName="PDF Attachment" 										   testMark=" " testResult="Passed"></test>
