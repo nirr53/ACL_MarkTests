@@ -20,7 +20,7 @@ public class ReadXMLFile {
 	Document doc = dBuilder.parse(fXmlFile);
 	doc.getDocumentElement().normalize();
 
-	System.out.println("Root element : " + doc.getDocumentElement().getNodeName());
+	System.out.println("Root element dorel see it?: " + doc.getDocumentElement().getNodeName());
 	System.out.println("Root project path : " + doc.getDocumentElement().getAttribute("projectPath"));
 
 	NodeList nList = doc.getElementsByTagName("section");
